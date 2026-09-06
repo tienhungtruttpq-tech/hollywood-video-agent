@@ -1,0 +1,61 @@
+[
+  {
+    "episode": "01_leading_men",
+    "output": "output/01_Hollywood_Leading_Men_Then_Now.mp4",
+    "subtitle": "output/01_01_leading_men_EN.srt",
+    "thumbnail": "output/01_01_leading_men_Thumbnail.jpg",
+    "duration_seconds": 480.0,
+    "scene_count": 27,
+    "size_bytes": 22649473,
+    "preview": false
+  },
+  {
+    "episode": "02_leading_ladies",
+    "output": "output/02_Hollywood_Leading_Ladies_Then_Now.mp4",
+    "subtitle": "output/02_02_leading_ladies_EN.srt",
+    "thumbnail": "output/02_02_leading_ladies_Thumbnail.jpg",
+    "duration_seconds": 480.0,
+    "scene_count": 27,
+    "size_bytes": 22709765,
+    "preview": false
+  },
+  {
+    "episode": "03_action_icons",
+    "output": "output/03_Action_Movie_Icons_Then_Now.mp4",
+    "subtitle": "output/03_03_action_icons_EN.srt",
+    "thumbnail": "output/03_03_action_icons_Thumbnail.jpg",
+    "duration_seconds": 480.0,
+    "scene_count": 27,
+    "size_bytes": 22149062,
+    "preview": false
+  },
+  {
+    "episode": "04_nineties_icons",
+    "output": "output/04_Nineties_Hollywood_Icons_Then_Now.mp4",
+    "subtitle": "output/04_04_nineties_icons_EN.srt",
+    "thumbnail": "output/04_04_nineties_icons_Thumbnail.jpg",
+    "duration_seconds": 480.0,
+    "scene_count": 27,
+    "size_bytes": 22714237,
+    "preview": false
+  },
+  {
+    "episode": "05_comedy_stars",
+    "output": "output/05_Hollywood_Comedy_Stars_Then_Now.mp4",
+    "subtitle": "output/05_05_comedy_stars_EN.srt",
+    "thumbnail": "output/05_05_comedy_stars_Thumbnail.jpg",
+    "duration_seconds": 480.0,
+    "scene_count": 27,
+    "size_bytes": 22723725,
+    "preview": false
+  },
+  {
+    "credits": "output/Hollywood_Then_Now_5_Videos_Credits.md"
+  },
+  {
+    "readme": "output/README_5_Hollywood_Videos.md"
+  },
+  {
+    "validation": "output/Batch_5_Validation.json"
+  }
+]
