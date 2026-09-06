@@ -1,0 +1,52 @@
+{
+  "topic": "Mi-28N interceptado por drones FPV ucranianos",
+  "lang": "es",
+  "wiki_lang": "en",
+  "generated_at": "2026-09-06T00:00:00+00:00",
+  "online": false,
+  "entities": [
+    {
+      "query": "Mil Mi-28",
+      "title": "Mil Mi-28",
+      "summary": "The Mil Mi-28 is a Soviet heavy-weight, all-weather, day-night, tandem-seat anti-armour military attack helicopter. It is an attack helicopter with no intended secondary transport capability and is better optimized for the role than the Mil Mi-24 gunship. It carries a single autocannon in a rotating under-nose barbette, plus external loads carried on pylons beneath stub wings.",
+      "text": "The Mil Mi-28 (NATO reporting name Havoc) is a Soviet/Russian heavy-weight, all-weather, day-night, tandem-seat anti-armour attack helicopter. Design work began at the Mil Moscow Helicopter Plant; the Mi-28 was optimised for the anti-tank role rather than for troop transport, which distinguishes it from the Mi-24. The crew of two sits in tandem armoured cockpits, the gunner-operator in front and the pilot behind and above. Armament centres on a 30 mm Shipunov 2A42 autocannon in a rotating under-nose barbette, with external stores on pylons beneath the stub wings: anti-tank guided missiles (Ataka, Khrizantema), rocket pods and, on later variants, air-to-air missiles. The Mi-28N 'Night Hunter' added a mast-mounted radar and improved night/all-weather avionics; the Mi-28NM further upgrades sensors, communications and survivability systems, including directional infrared countermeasures and expendable decoys. Engines are two Klimov TV3-117 (later VK-2500) turboshafts. The type has been exported to Iraq, Algeria, Kenya and others, and has been used extensively in Syria and in the Russo-Ukrainian war, where several airframes have been lost to MANPADS, small arms and, increasingly, to first-person-view drones.",
+      "url": "https://en.wikipedia.org/wiki/Mil_Mi-28",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Russian_Air_Force%2C_RF-13489%2C_Mil_Mi-28NM_%2849581609382%29.jpg/330px-Russian_Air_Force%2C_RF-13489%2C_Mil_Mi-28NM_%2849581609382%29.jpg"
+    },
+    {
+      "query": "Orlan-10",
+      "title": "STC Orlan-10",
+      "summary": "The Orlan-10 is a reconnaissance unmanned aerial vehicle (UAV) developed by the Special Technology Center (STC) in Saint Petersburg for the Russian Armed Forces. The Orlan-10 features a composite fuselage that reduces its radar signature.",
+      "text": "The Orlan-10 is a Russian reconnaissance unmanned aerial vehicle developed by the Special Technology Center (STC) in Saint Petersburg for the Russian Armed Forces. It is a single-engine, high-wing pusher design with a composite fuselage that reduces its radar signature, launched from a light catapult and recovered by parachute. Typical mission profiles are artillery observation and battlefield surveillance: the aircraft orbits a pattern at altitudes of roughly 1,000 to 5,000 metres while its electro-optical payload transmits video to a ground control station. Endurance is quoted in the range of ten to sixteen hours depending on payload and fuel, cruise speed around 90 to 150 km/h. Because it acts as the eyes of artillery batteries, the Orlan-10 has become one of the most frequently targeted Russian systems in Ukraine; Ukrainian forces have shot down large numbers with MANPADS, small arms, fighter aircraft and, more recently, interceptor drones. Unit cost estimates in open sources vary from roughly USD 80,000 to USD 120,000.",
+      "url": "https://en.wikipedia.org/wiki/STC_Orlan-10",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Orlan-10_UAV_Army-2022_2022-08-20_2475.jpg/330px-Orlan-10_UAV_Army-2022_2022-08-20_2475.jpg"
+    },
+    {
+      "query": "Wild Hornets",
+      "title": "Wild Hornets",
+      "summary": "The Wild Hornets Charitable Fund is a Ukrainian non-profit charity with the purpose of fabricating combat and support drones for the Armed Forces of Ukraine fighting the Russian invasion of Ukraine. Created in spring 2023 by engineers working with the anti-tank unit of the Separate Presidential Brigade, drones from the Wild Hornets organization have been seen in use by several units of both the armed forces of Ukraine and the Main Directorate of Intelligence (Ukraine).",
+      "text": "The Wild Hornets Charitable Fund is a Ukrainian non-profit that manufactures combat and support unmanned systems for the Armed Forces of Ukraine. It was created in spring 2023 by engineers working with the anti-tank unit of the Separate Presidential Brigade, and its products are now used by several units of the armed forces and of the Main Directorate of Intelligence. The portfolio covers first-person-view kamikaze drones in several sizes, long-range strike UAVs, ground robots and, from 2024, a family of interceptor drones designed to destroy other aircraft in flight. The interceptor line is built for speed rather than endurance: airframes are light, motors are pushed close to their limits, and batteries are the binding constraint, which shortens real flight time well below the advertised figure when the throttle is open. Interceptors carry thermal cameras for night guidance and small fragmentation warheads. Ukrainian crews have used them against reconnaissance drones and against Shahed-type loitering munitions, and the tactic has since been copied by other units.",
+      "url": "https://en.wikipedia.org/wiki/Wild_Hornets",
+      "thumbnail": ""
+    },
+    {
+      "query": "Unmanned Systems Forces (Ukraine)",
+      "title": "Unmanned Systems Forces",
+      "summary": "The Unmanned Systems Forces are a branch of the Armed Forces of Ukraine responsible for the coordinated use of unmanned ground, air and naval systems. The branch was created in 2024, consolidating drone units that had previously been distributed across the army, the air force and the navy.",
+      "text": "The Unmanned Systems Forces (USF) are a separate branch of the Armed Forces of Ukraine, established in 2024 to consolidate air, ground and naval unmanned units under a single command. The branch standardises training, procurement and tactics for first-person-view drones, interceptor drones, reconnaissance UAVs and unmanned ground vehicles, and it coordinates with the Main Directorate of Intelligence and with volunteer manufacturers. Its creation reflects the shift of drone warfare from improvised unit-level initiatives to an organised arm of service with its own doctrine, its own commander and its own budget line. Reported priorities include fibre-optic control links that resist electronic warfare, interceptor drones for air defence against other UAVs, and long-range strike systems.",
+      "url": "https://en.wikipedia.org/wiki/Unmanned_Systems_Forces",
+      "thumbnail": ""
+    }
+  ],
+  "images": [],
+  "sources": [
+    {"title": "Mil Mi-28", "url": "https://en.wikipedia.org/wiki/Mil_Mi-28", "kind": "wikipedia"},
+    {"title": "STC Orlan-10", "url": "https://en.wikipedia.org/wiki/STC_Orlan-10", "kind": "wikipedia"},
+    {"title": "Wild Hornets", "url": "https://en.wikipedia.org/wiki/Wild_Hornets", "kind": "wikipedia"},
+    {"title": "Unmanned Systems Forces", "url": "https://en.wikipedia.org/wiki/Unmanned_Systems_Forces", "kind": "wikipedia"}
+  ],
+  "notes": [
+    "bundled offline research cache",
+    "incident details (times, distances, costs) come from the reference episode and open-source reporting; treat them as claims of the source, not as independently verified data"
+  ]
+}

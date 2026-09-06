@@ -1,0 +1,482 @@
+{
+  "meta": {
+    "topic": "Mi-28N interceptado por drones FPV ucranianos",
+    "lang": "es",
+    "brand": "GORIZON TECH",
+    "target_minutes": 12,
+    "title": "El Mi-28N ruso estaba a segundos de escapar… y Ucrania LO DERRIBÓ",
+    "title_options": [
+      "El Mi-28N volaba a 60 metros creyéndose invisible… 7 drones lo esperaban",
+      "Ucrania sacrificó 2 drones para cazar un Mi-28N de 19 millones",
+      "Nueve minutos para derribar un Orlan-10 y un Mi-28N: la cuenta salió en 5.788 a 1"
+    ],
+    "logline": "Siete sistemas no tripulados, un dron observador que había que borrar del cielo primero y una batería que duró la mitad de lo prometido.",
+    "thumb_text": "A SEGUNDOS DE ESCAPAR",
+    "thumb_tag": "Mi-28N",
+    "kicker": "INFORME · GUERRA DE DRONES",
+    "description": "A las 05:52 un Mi-28N ruso despegó de una base avanzada en la región de Bielgorod para escoltar un convoy. Volaba a 220 km/h, a unos 60 metros sobre los tejados y con el radar apagado. Cuarenta minutos sin novedad.\n\nLo que la tripulación no sabía era que siete sistemas no tripulados de la brigada Rarog ya estaban en el aire: cinco FPV kamikaze y dos interceptores Sting de Wild Hornets. Pero antes de llegar al helicóptero había que limpiar el cielo, y un Orlan-10 barría la zona cada seis segundos.\n\nEn este vídeo reconstruimos la operación: el cálculo de intercepción, la batería que se rindió a siete segundos del impacto, el piloto de veintitrés años que dijo «voy», el derribo del observador y el ataque final al rotor de cola del Mi-28N. Cerramos con la cuenta: 3.300 dólares gastados contra un Orlan-10 y un helicóptero valorado en 19 millones.",
+    "hashtags": [
+      "#GuerraDeDrones", "#Mi28N", "#Ucrania", "#DronFPV", "#WildHornets",
+      "#Orlan10", "#TecnologíaMilitar", "#GuerraModerna", "#Interceptores",
+      "#AnálisisMilitar", "#AviaciónMilitar", "#Defensa"
+    ],
+    "tags": [
+      "mi-28n", "mi 28 havoc", "helicóptero de ataque ruso", "drones ucranianos",
+      "dron fpv", "fpv kontra helicóptero", "wild hornets", "sting interceptor",
+      "orlan-10", "dron de reconocimiento", "brigada rarog", "fuerzas de sistemas no tripulados",
+      "guerra de drones", "guerra electrónica", "dron de fibra óptica", "derribo de helicóptero",
+      "tecnología militar", "análisis militar", "ucrania", "rusia", "aviación de combate",
+      "coste por efecto", "interceptor de drones", "cámara térmica", "tácticas de dron",
+      "guerra moderna", "documental militar", "reconstrucción táctica"
+    ],
+    "generator": "template:mi28n-es"
+  },
+  "facts": [
+    {"statement": "El Mi-28 es un helicóptero de ataque pesado, todo tiempo, biplaza en tándem, con cañón de 30 mm en barbeta bajo el morro y cargas externas en pilones subalares.", "source": "wikipedia"},
+    {"statement": "El Orlan-10 es un UAV de reconocimiento ruso del Special Technology Center de San Petersburgo, con fuselaje de materiales compuestos que reduce su firma radar.", "source": "wikipedia"},
+    {"statement": "Wild Hornets es una organización ucraniana sin ánimo de lucro que fabrica drones de combate, creada en primavera de 2023.", "source": "wikipedia"},
+    {"statement": "Las Fuerzas de Sistemas No Tripulados de Ucrania se crearon en 2024 para unificar las unidades de drones.", "source": "wikipedia"},
+    {"statement": "Hora de despegue, altitudes, distancias, tiempos de batería, masa de la ojiva y cifras de coste proceden del episodio de referencia y de fuentes abiertas; son afirmaciones de la fuente, no datos verificados de forma independiente.", "source": "research"}
+  ],
+  "scenes": [
+    {
+      "id": "s01",
+      "beat": "cold_open",
+      "chapter": "05:52 · BIELGOROD",
+      "narration": "A las cinco y cincuenta y dos de la mañana, hora local, un Mi-28N ruso despegó de una base avanzada en la región de Bielgorod. Escoltaba un convoy terrestre hacia posiciones cerca de la frontera. Volaba a doscientos veinte kilómetros por hora, apenas sesenta metros por encima de los tejados, con el radar de a bordo apagado para no delatar su posición. Cuarenta minutos sin novedad. Todo apuntaba a una mañana tranquila.",
+      "on_screen": ["05:52", "220 km/h", "60 m"],
+      "visual": {
+        "type": "title",
+        "kicker": "05:52 HORA LOCAL · ÓBLAST DE BIELGOROD",
+        "title": "CUARENTA MINUTOS SIN NOVEDAD",
+        "subtitle": "Radar apagado. Sesenta metros sobre los tejados. Una ruta que parecía vacía."
+      },
+      "duration_hint": 26.0
+    },
+    {
+      "id": "s02",
+      "beat": "title",
+      "chapter": "",
+      "narration": "Tenía doce minutos para cruzar esa ruta sin que nadie lo detectara. Doce minutos. Salvo que algo, nueve kilómetros al suroeste, ya lo hubiera condenado.",
+      "on_screen": ["12 MINUTOS", "9 KM"],
+      "visual": {
+        "type": "title",
+        "kicker": "INFORME · GUERRA DE DRONES",
+        "title": "A SEGUNDOS DE ESCAPAR",
+        "subtitle": "Cómo siete sistemas no tripulados cazaron a uno de los helicópteros de ataque más pesados de Rusia"
+      },
+      "duration_hint": 13.0
+    },
+    {
+      "id": "s03",
+      "beat": "setup",
+      "chapter": "LA PLATAFORMA",
+      "narration": "Primero, qué era exactamente lo que volaba esa mañana. El Mi-28 es un helicóptero de ataque pesado, todo tiempo, día y noche, con la tripulación en tándem: el operador de armas delante, el piloto detrás y por encima. No está pensado para transportar a nadie. Está pensado para destruir blindados. Lleva un cañón automático de treinta milímetros en una barbeta giratoria bajo el morro, y el resto del armamento cuelga de los pilones bajo unas alas cortas: misiles antitanque, contenedores de cohetes, y en las versiones más recientes, misiles aire-aire para defenderse precisamente de lo que se le venía encima. La variante N, la que volaba esa mañana, añade radar y aviónica para operar de noche. Un solo aparato se valora en el entorno de los diecinueve millones de dólares.",
+      "on_screen": ["30 mm", "TÁNDEM", "19 M$"],
+      "visual": {
+        "type": "spec_card",
+        "name": "Mi-28N HAVOC",
+        "subtitle": "Helicóptero de ataque pesado · Rusia",
+        "icon": "heli",
+        "stats": [
+          {"label": "Cañón", "value": "30 mm 2A42", "meter": 0.62},
+          {"label": "Velocidad de crucero", "value": "220 km/h", "meter": 0.55},
+          {"label": "Tripulación", "value": "2 en tándem", "meter": 0.3},
+          {"label": "Motores", "value": "2 turboeje", "meter": 0.8},
+          {"label": "Coste estimado", "value": "19.000.000 $", "meter": 0.95}
+        ],
+        "note": "Ficha basada en fuentes abiertas. Reconstrucción esquemática, no material oficial.",
+        "label": "FICHA TÉCNICA"
+      },
+      "duration_hint": 52.0
+    },
+    {
+      "id": "s04",
+      "beat": "context",
+      "chapter": "LA RUTA",
+      "narration": "La ruta elegida no era casual. Sesenta metros de altitud es lo bastante bajo para esconderse en el ruido del terreno y lo bastante alto para no tocar los cables. Con el radar apagado, el helicóptero no emitía: simplemente escuchaba. Desde el aire, el aparato avanzaba de suroeste a noreste, cruzando campos, aldeas y una carretera que esa mañana llevaba un convoy. Doce minutos de ventana. Esa era la cuenta que hacía la tripulación.",
+      "on_screen": ["RUTA SW-NE", "SIN EMISIÓN"],
+      "visual": {
+        "type": "map",
+        "title": "RUTA DE ESCAPE",
+        "kicker": "RECONSTRUCCIÓN ESQUEMÁTICA",
+        "zoom_km": 40,
+        "route": [[0.10, 0.82], [0.30, 0.68], [0.52, 0.53], [0.74, 0.38], [0.90, 0.24]],
+        "units": [
+          {"at": [0.10, 0.82], "label": "BASE AVANZADA", "short": "BASE", "kind": "unit", "side": "hostile"},
+          {"at": [0.90, 0.24], "label": "POSICIONES", "short": "POS", "kind": "unit", "side": "hostile"}
+        ],
+        "movers": [
+          {"route": "route", "kind": "heli", "side": "hostile", "start": 0.0, "end": 1.0, "size": 110}
+        ],
+        "draw_time": 0.85,
+        "label": "ZONA DE OPERACIONES"
+      },
+      "duration_hint": 42.0
+    },
+    {
+      "id": "s05",
+      "beat": "reveal",
+      "chapter": "LO QUE NO SABÍA",
+      "narration": "Lo que la tripulación no sabía era que nueve kilómetros al suroeste, sobre un campo cerca de la localidad de Vyazove, siete sistemas no tripulados de la brigada Rarog ya estaban en el aire. Cinco eran drones FPV kamikaze en formación dispersa, con la misión de alcanzar el helicóptero. Los otros dos tenían un objetivo distinto. Eran interceptores Sting, del fabricante ucraniano Wild Hornets, construidos para alcanzar una velocidad que ningún otro FPV del frente podía igualar. La orden había salido esa misma madrugada del centro de operaciones de las Fuerzas de Sistemas No Tripulados, a cargo del comandante Robert «Madiar» Brovdi. Era fácil de decir y brutal de ejecutar: interceptar el Mi-28N antes de que cruzara la ruta Vyazove-Bielgorod.",
+      "on_screen": ["7 SISTEMAS", "5 FPV + 2 STING", "BRIGADA RAROG"],
+      "visual": {
+        "type": "map",
+        "title": "SIETE SISTEMAS EN EL AIRE",
+        "kicker": "9 KM AL SUROESTE · VYAZOVE",
+        "zoom_km": 40,
+        "route": [[0.14, 0.80], [0.34, 0.66], [0.56, 0.52], [0.78, 0.36]],
+        "drone_route": [[0.20, 0.30], [0.36, 0.40], [0.52, 0.48], [0.68, 0.56]],
+        "units": [
+          {"at": [0.16, 0.24], "label": "STING 1", "short": "ST1", "kind": "fpv", "side": "friendly"},
+          {"at": [0.24, 0.20], "label": "STING 2", "short": "ST2", "kind": "fpv", "side": "friendly"},
+          {"at": [0.12, 0.34], "label": "FPV", "short": "F1", "kind": "fpv", "side": "friendly"},
+          {"at": [0.20, 0.40], "label": "FPV", "short": "F2", "kind": "fpv", "side": "friendly"},
+          {"at": [0.28, 0.30], "label": "FPV", "short": "F3", "kind": "fpv", "side": "friendly"},
+          {"at": [0.30, 0.44], "label": "FPV", "short": "F4", "kind": "fpv", "side": "friendly"},
+          {"at": [0.18, 0.48], "label": "FPV", "short": "F5", "kind": "fpv", "side": "friendly"}
+        ],
+        "rings": [{"at": [0.78, 0.36], "km": 9, "label": "9 km", "side": "neutral"}],
+        "movers": [
+          {"route": "route", "kind": "heli", "side": "hostile", "start": 0.0, "end": 0.9, "size": 100},
+          {"route": "drone_route", "kind": "fpv", "side": "friendly", "start": 0.25, "end": 1.0, "size": 62}
+        ],
+        "draw_time": 0.8,
+        "label": "DESPLIEGUE"
+      },
+      "duration_hint": 56.0
+    },
+    {
+      "id": "s06",
+      "beat": "setup",
+      "chapter": "EL INTERCEPTOR",
+      "narration": "El Sting es la pieza rara de esta historia. Wild Hornets lo diseñó para una sola cosa: alcanzar algo que ya está volando. Más de trescientos kilómetros por hora en pruebas registradas, casi la velocidad de un tren de alta gama, y guiado de noche gracias a su cámara térmica Hornet Vision. Poco más de un año antes, uno de esos mismos modelos había protagonizado la primera intercepción de un dron contra otro dron que se ha grabado nunca: un Shahed derribado en línea recta y a máxima velocidad. Pero perseguir algo que vuela recto no es lo mismo que perseguir algo que maniobra. Y aquí aparece el problema que nadie había probado todavía: con el acelerador a fondo, la batería se vacía en minutos, muy por debajo del tiempo de vuelo anunciado. Como un teléfono cuyo porcentaje salta del veinte al apagado sin pasar por ningún número intermedio.",
+      "on_screen": ["+300 km/h", "TÉRMICA", "BATERÍA x0,5"],
+      "visual": {
+        "type": "spec_card",
+        "name": "STING INTERCEPTOR",
+        "subtitle": "Wild Hornets · dron interceptor ucraniano",
+        "icon": "drone",
+        "stats": [
+          {"label": "Velocidad en prueba", "value": "+300 km/h", "meter": 0.95},
+          {"label": "Guía nocturna", "value": "Hornet Vision", "meter": 0.8},
+          {"label": "Ojiva", "value": "300 g fragmentación", "meter": 0.45},
+          {"label": "Alcance anunciado", "value": "25 km", "meter": 0.7},
+          {"label": "Batería real a fondo", "value": "≈ mitad", "meter": 0.32}
+        ],
+        "note": "Diseñado para derribar otras aeronaves: velocidad antes que autonomía.",
+        "label": "FICHA TÉCNICA"
+      },
+      "duration_hint": 62.0
+    },
+    {
+      "id": "s07",
+      "beat": "complication",
+      "chapter": "EL OBSERVADOR",
+      "narration": "Y había un problema antes del problema. Para que los cinco FPV pudieran siquiera acercarse al helicóptero, el cielo tenía que quedar limpio para los operadores ucranianos. Y sobre la zona volaba un Orlan-10 de reconocimiento ruso, a mil cien metros de altitud, barriendo el terreno con su cámara cada seis segundos. Un óvalo de ocho kilómetros, una y otra vez, como un guarda de museo que revisa cada sala en un ciclo perfecto sin saltarse ninguna. Un solo barrido de esa cámara sobre el campo equivocado bastaba para que los siete drones aparecieran marcados en una pantalla rusa antes de que el primero encendiera los motores. Derribar un Orlan-10 en pleno giro, con un interceptor, era algo que hasta esa mañana nadie había intentado.",
+      "on_screen": ["1.100 m", "BARRIDO 6 s", "ÓVALO 8 km"],
+      "visual": {
+        "type": "map",
+        "title": "EL ÓVALO DEL OBSERVADOR",
+        "kicker": "ORLAN-10 · 1.100 m",
+        "zoom_km": 40,
+        "route": [[0.58, 0.36], [0.559, 0.41], [0.50, 0.447], [0.42, 0.46], [0.34, 0.447], [0.281, 0.41], [0.26, 0.36], [0.281, 0.31], [0.34, 0.273], [0.42, 0.26], [0.50, 0.273], [0.559, 0.31], [0.58, 0.36]],
+        "rings": [
+          {"at": [0.42, 0.36], "km": 4, "label": "barrido", "side": "hostile", "alpha": 60}
+        ],
+        "units": [
+          {"at": [0.16, 0.78], "label": "CAMPO DE LANZAMIENTO", "short": "LZ", "kind": "unit", "side": "friendly"}
+        ],
+        "movers": [
+          {"route": "route", "kind": "recon", "side": "hostile", "start": 0.0, "end": 1.0, "size": 88}
+        ],
+        "draw_time": 0.9,
+        "label": "VIGILANCIA"
+      },
+      "duration_hint": 58.0
+    },
+    {
+      "id": "s08",
+      "beat": "escalation",
+      "chapter": "NUEVE MINUTOS",
+      "narration": "Quedaban nueve minutos. Nueve minutos para borrar el observador del cielo y dejar que el enjambre avanzara. Los dos Sting despegaron del campo cerca de Vyazove con el acelerador ya a fondo, algo que su propio fabricante no recomienda, porque a esa potencia la batería no da los veinticinco kilómetros de alcance anunciados: da una fracción.",
+      "on_screen": ["T-9:00", "ACELERADOR A FONDO"],
+      "visual": {
+        "type": "timeline",
+        "title": "LA VENTANA",
+        "kicker": "CUENTA ATRÁS",
+        "mode": "clock",
+        "total_seconds": 540,
+        "clock_label": "HASTA QUE EL Mi-28N CRUCE LA RUTA",
+        "note": "Cada minuto gastado en dudar es un kilómetro más de ventaja para el helicóptero.",
+        "label": "CUENTA ATRÁS"
+      },
+      "duration_hint": 32.0
+    },
+    {
+      "id": "s09",
+      "beat": "human",
+      "chapter": "",
+      "narration": "«Tenemos un observador», dijo uno de los operadores por el canal, sin subir la voz.",
+      "on_screen": [],
+      "visual": {
+        "type": "quote",
+        "text": "Tenemos un observador.",
+        "author": "operador · brigada Rarog",
+        "label": "RADIO"
+      },
+      "duration_hint": 9.0
+    },
+    {
+      "id": "s10",
+      "beat": "attempt_fail",
+      "chapter": "PRIMER INTENTO",
+      "narration": "Un Shahed en línea recta y un Orlan-10 en un óvalo de ocho kilómetros no se persiguen igual. El primero necesita velocidad. El segundo necesita velocidad más un giro de noventa grados minuto a minuto, y para eso no se diseñó el Sting. El cálculo de intercepción daba tres segundos. La cámara térmica Hornet Vision del primer Sting enganchó el punto caliente del motor del Orlan-10 a mil novecientos metros y trazó una solución de tiro: no donde el dron estaba, sino donde estaría veintidós segundos después. La misma lógica que usa un perro para cortar una pelota en vez de perseguirla en línea recta. A esa velocidad, algo tenía que ceder primero: el ángulo, la batería o los nervios del piloto.",
+      "on_screen": ["1.900 m", "SOLUCIÓN +22 s", "3 s DE MARGEN"],
+      "visual": {
+        "type": "map",
+        "title": "SOLUCIÓN DE TIRO",
+        "kicker": "ENGAJE TÉRMICO · 1.900 m",
+        "zoom_km": 40,
+        "route": [[0.58, 0.36], [0.559, 0.41], [0.50, 0.447], [0.42, 0.46], [0.34, 0.447], [0.281, 0.41], [0.26, 0.36], [0.281, 0.31], [0.34, 0.273], [0.42, 0.26], [0.50, 0.273], [0.559, 0.31], [0.58, 0.36]],
+        "drone_route": [[0.16, 0.78], [0.26, 0.66], [0.35, 0.56], [0.42, 0.46]],
+        "rings": [{"at": [0.42, 0.46], "km": 1.9, "label": "1.900 m", "side": "friendly"}],
+        "movers": [
+          {"route": "route", "kind": "recon", "side": "hostile", "start": 0.0, "end": 1.0, "size": 84},
+          {"route": "drone_route", "kind": "fpv", "side": "friendly", "start": 0.0, "end": 0.78, "size": 60}
+        ],
+        "events": [
+          {"at": 0.72, "at_xy": [0.42, 0.46], "kind": "lock", "side": "friendly"}
+        ],
+        "draw_time": 0.85,
+        "label": "INTERCEPCIÓN 1"
+      },
+      "duration_hint": 56.0
+    },
+    {
+      "id": "s11",
+      "beat": "attempt_fail",
+      "chapter": "LA BATERÍA",
+      "narration": "Y fue justo la batería. A siete segundos del punto de impacto calculado, el indicador del primer Sting saltó de verde a rojo sin pasar por amarillo. La carga había durado la mitad de lo esperado, vaciada por tres correcciones de rumbo a máxima potencia. El piloto abortó con el dron todavía intacto, tragándose la frustración. Quedaba el segundo. Y quedaban cuatro segundos de ventana antes de que el Orlan-10 completara el giro y volviera a salir del alcance.",
+      "on_screen": ["T-7 s", "VERDE → ROJO", "ABORTA"],
+      "visual": {
+        "type": "stat",
+        "value": 7,
+        "decimals": 0,
+        "suffix": " s",
+        "label": "PARA EL IMPACTO CUANDO LA BATERÍA SE RINDIÓ",
+        "note": "El indicador pasó de verde a rojo sin pasar por amarillo. Tres correcciones de rumbo a máxima potencia.",
+        "tone": "hostile",
+        "bars": [
+          {"label": "Autonomía anunciada", "value": 100},
+          {"label": "Autonomía real a fondo", "value": 48}
+        ],
+        "count_time": 1.6,
+        "label_hud": ""
+      },
+      "duration_hint": 40.0
+    },
+    {
+      "id": "s12",
+      "beat": "human",
+      "chapter": "EL SEGUNDO PILOTO",
+      "narration": "«Voy», dijo el segundo piloto. Veintitrés años. Dos temporadas antes ganaba torneos regionales de videojuegos de tiros. Nadie en su clan habría creído entonces que esa puntería se iba a usar para esto. El Sting cerró la distancia en línea recta, sin corregir el rumbo hasta el último momento, como quien se tira a una piscina sabiendo que ya no hay tiempo de comprobar si hay agua.",
+      "on_screen": ["23 AÑOS", "«VOY»"],
+      "visual": {
+        "type": "text",
+        "headline": "VEINTITRÉS AÑOS",
+        "kicker": "EL SEGUNDO PILOTO",
+        "bullets": [
+          "Dos temporadas antes ganaba torneos de videojuegos de tiros",
+          "Sin correcciones de rumbo hasta el último momento",
+          "Cuatro segundos de ventana antes de que el observador saliera del alcance"
+        ],
+        "label": "PERFIL"
+      },
+      "duration_hint": 34.0
+    },
+    {
+      "id": "s13",
+      "beat": "climax",
+      "chapter": "IMPACTO EN EL OBSERVADOR",
+      "narration": "Y lo alcanzó de frente, justo por encima del ala derecha. La ojiva de fragmentación, unos trescientos gramos de metralla concentrada, detonó al contacto. El Orlan-10 partió en dos en el aire. La sección delantera, con el motor todavía girando, cayó primero. El ala trasera, más ligera, planeó otros cuarenta metros antes de estrellarse contra un campo de girasoles. En el puesto de control ruso, la pantalla de telemetría mostró un corte limpio, instantáneo, sin ningún aviso previo.",
+      "on_screen": ["300 g", "CORTE LIMPIO", "40 m PLANEANDO"],
+      "visual": {
+        "type": "map",
+        "title": "EL OBSERVADOR CAE",
+        "kicker": "IMPACTO FRONTAL · ALA DERECHA",
+        "zoom_km": 40,
+        "route": [[0.58, 0.36], [0.559, 0.41], [0.50, 0.447], [0.42, 0.46], [0.34, 0.447], [0.281, 0.41]],
+        "drone_route": [[0.20, 0.80], [0.30, 0.66], [0.42, 0.54], [0.545, 0.415]],
+        "movers": [
+          {"route": "route", "kind": "recon", "side": "hostile", "start": 0.0, "end": 1.0, "size": 84},
+          {"route": "drone_route", "kind": "fpv", "side": "friendly", "start": 0.0, "end": 0.92, "size": 64}
+        ],
+        "events": [
+          {"at": 0.78, "at_xy": [0.545, 0.415], "kind": "impact", "side": "hostile"}
+        ],
+        "flash_on_impact": true,
+        "draw_time": 0.9,
+        "label": "IMPACTO"
+      },
+      "duration_hint": 42.0
+    },
+    {
+      "id": "s14",
+      "beat": "aftermath",
+      "chapter": "EL LIBRO DE GUARDIA",
+      "narration": "El operador ruso escribió en su libro de guardia: «Pérdida de alcance, causa desconocida». Y pasó al siguiente dron de la rotación. No tenía forma de saber que la causa desconocida tenía nombre, apellido y veintitrés años. Los dos Sting se habían sacrificado para comprarle al enjambre principal los minutos que todavía necesitaba. La ruta Vyazove-Bielgorod quedó libre de ojos rusos.",
+      "on_screen": ["CAUSA DESCONOCIDA"],
+      "visual": {
+        "type": "quote",
+        "text": "Pérdida de alcance, causa desconocida.",
+        "author": "libro de guardia · puesto de control ruso",
+        "label": "REGISTRO"
+      },
+      "duration_hint": 34.0
+    },
+    {
+      "id": "s15",
+      "beat": "climax",
+      "chapter": "EL HELICÓPTERO",
+      "narration": "Con el cielo limpio, el enjambre pudo avanzar. Los cinco FPV se repartieron la aproximación, y uno de ellos llevaba control por fibra óptica: un carrete que se va desenrollando y que la guerra electrónica no puede tocar. El helicóptero giró, aceleró, buscó el terreno. El dron se colocó detrás, se acercó al rotor de cola y atacó una de las zonas más vulnerables de la aeronave. El impacto provocó la pérdida de control. Tres giros completos en ocho segundos. El Mi-28N cayó en barrena sobre un campo de girasoles, el mismo tipo de terreno donde el Orlan-10 se había estrellado ocho kilómetros al este, minutos antes. El fuselaje tocó tierra todavía girando con violencia. Con el rotor principal a media potencia, las palas se rompieron bajo su propio peso al golpear el suelo. Cada fragmento salió a cientos de kilómetros por hora en todas direcciones, y el combustible restante se encendió al contactar con el motor todavía caliente. La bola de fuego se tragó el campo en un radio de veinte metros.",
+      "on_screen": ["FIBRA ÓPTICA", "ROTOR DE COLA", "3 GIROS / 8 s"],
+      "visual": {
+        "type": "map",
+        "title": "CAZA AL Mi-28N",
+        "kicker": "APROXIMACIÓN FINAL · ROTOR DE COLA",
+        "zoom_km": 40,
+        "route": [[0.16, 0.80], [0.36, 0.66], [0.56, 0.52], [0.76, 0.38]],
+        "drone_route": [[0.24, 0.88], [0.40, 0.74], [0.56, 0.60], [0.72, 0.44]],
+        "second_route": [[0.30, 0.30], [0.46, 0.44], [0.60, 0.54]],
+        "units": [
+          {"at": [0.24, 0.88], "label": "FPV FIBRA ÓPTICA", "short": "FO", "kind": "fpv", "side": "friendly"}
+        ],
+        "movers": [
+          {"route": "route", "kind": "heli", "side": "hostile", "start": 0.0, "end": 1.0, "size": 110},
+          {"route": "drone_route", "kind": "fpv", "side": "friendly", "start": 0.05, "end": 0.95, "size": 64},
+          {"route": "second_route", "kind": "fpv", "side": "friendly", "start": 0.2, "end": 1.0, "size": 56}
+        ],
+        "events": [
+          {"at": 0.80, "at_xy": [0.72, 0.44], "kind": "impact", "side": "hostile"}
+        ],
+        "flash_on_impact": true,
+        "draw_time": 0.9,
+        "label": "ENGAGEMENT"
+      },
+      "duration_hint": 76.0
+    },
+    {
+      "id": "s16",
+      "beat": "aftermath",
+      "chapter": "LA CONFIRMACIÓN",
+      "narration": "Uno de los otros dos FPV de la brigada, sin fibra suficiente para maniobrar pero con línea de visión limpia desde novecientos metros, grabó el impacto entero. Fue esa grabación la que terminó confirmando el derribo. Mientras tanto, Moscú no dijo una palabra. No hacía falta: el vídeo ya circulaba solo.",
+      "on_screen": ["900 m", "GRABACIÓN"],
+      "visual": {
+        "type": "photo",
+        "image_query": "Mil Mi-28N attack helicopter",
+        "caption": "Mi-28N · helicóptero de ataque pesado",
+        "credit": "Wikimedia Commons",
+        "hud": true,
+        "zoom_from": 1.02,
+        "zoom_to": 1.18,
+        "pan": [0.5, -0.4],
+        "fallback": "spec_card",
+        "name": "Mi-28N HAVOC",
+        "subtitle": "Confirmación del derribo · grabación a 900 m",
+        "icon": "heli",
+        "stats": [
+          {"label": "Distancia del observador", "value": "900 m", "meter": 0.4},
+          {"label": "Radio de la bola de fuego", "value": "20 m", "meter": 0.25},
+          {"label": "Giros antes del impacto", "value": "3 en 8 s", "meter": 0.7}
+        ],
+        "label": "CONFIRMACIÓN"
+      },
+      "duration_hint": 30.0
+    },
+    {
+      "id": "s17",
+      "beat": "cost",
+      "chapter": "LA CUENTA",
+      "narration": "Esa mañana Ucrania gastó tres mil trescientos dólares en tres drones FPV y un interceptor. Con eso destruyó un Orlan-10 de cien mil dólares y un Mi-28N valorado en diecinueve millones. La cuenta es el mensaje.",
+      "on_screen": ["3.300 $", "19.000.000 $"],
+      "visual": {
+        "type": "comparison",
+        "title": "COSTE POR EFECTO",
+        "kicker": "ESA MAÑANA",
+        "left": {
+          "name": "UCRANIA GASTÓ",
+          "value": 3300,
+          "decimals": 0,
+          "unit": "dólares · 3 FPV + 1 Sting",
+          "notes": ["Munición consumible", "Producción local"]
+        },
+        "right": {
+          "name": "RUSIA PERDIÓ",
+          "value": 19100000,
+          "decimals": 0,
+          "unit": "dólares · Orlan-10 + Mi-28N",
+          "notes": ["Orlan-10 ≈ 100.000 $", "Mi-28N ≈ 19.000.000 $"]
+        },
+        "ratio": {"text": "5.788 : 1"},
+        "label": "BALANCE"
+      },
+      "duration_hint": 26.0
+    },
+    {
+      "id": "s18",
+      "beat": "cost",
+      "chapter": "",
+      "narration": "Cinco mil setecientos ochenta y ocho a uno.",
+      "on_screen": [],
+      "visual": {
+        "type": "stat",
+        "value": 5788,
+        "decimals": 0,
+        "suffix": " : 1",
+        "label": "RATIO COSTE / EFECTO",
+        "note": "Cifras de fuentes abiertas citadas por el episodio de referencia.",
+        "tone": "accent",
+        "count_time": 2.0
+      },
+      "duration_hint": 10.0
+    },
+    {
+      "id": "s19",
+      "beat": "analysis",
+      "chapter": "QUÉ CAMBIA",
+      "narration": "Tres conclusiones, sin adornos. Primera: la defensa aérea barata ya no es solo contra drones baratos; también alcanza a plataformas de decenas de millones. Segunda: el cuello de botella del interceptor no es el motor, es la batería, y por eso la doctrina obliga a sacrificar aparatos enteros solo para limpiar el cielo. Tercera: el observador importa más que el tirador. Quien borra al que mira, gana el minuto siguiente. Nada de esto estaba escrito en ningún manual hace tres años.",
+      "on_screen": ["BATERÍA = CUELLO", "BORRAR AL QUE MIRA"],
+      "visual": {
+        "type": "text",
+        "headline": "TRES CONCLUSIONES",
+        "kicker": "ANÁLISIS",
+        "bullets": [
+          "Defensa aérea barata contra plataformas caras",
+          "El límite del interceptor es la batería, no el motor",
+          "Quien borra al observador gana el minuto siguiente"
+        ],
+        "label": "ANÁLISIS"
+      },
+      "duration_hint": 44.0
+    },
+    {
+      "id": "s20",
+      "beat": "cta",
+      "chapter": "",
+      "narration": "Esto es todo. Cambio y fuera.",
+      "on_screen": [],
+      "visual": {
+        "type": "cta",
+        "title": "SUSCRÍBETE",
+        "button": "SUSCRIBIRSE",
+        "lines": [
+          "Un análisis nuevo cada semana",
+          "Tecnología militar con datos, mapa y cronología",
+          "Activa la campana para el próximo caso"
+        ]
+      },
+      "duration_hint": 8.0
+    }
+  ]
+}
