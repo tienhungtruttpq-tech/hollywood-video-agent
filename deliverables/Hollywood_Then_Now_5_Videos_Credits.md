@@ -7,7 +7,10 @@
 - Visual treatment: crop, layout, colour and motion treatment by this production. No AI face replacement or fabricated celebrity footage was used.
 
 ## Photo-source note
-The primary sources for Episodes 1–4 are the already researched Wikimedia Commons records in this repository. Portrait working copies were normalized locally for video framing. For Episode 5, the linked Wikimedia Commons file pages are the authoritative license and attribution records. Retain this document with any public redistribution and re-check source-page license terms if replacing images.
+The portrait reference crops used in these videos are derived from the researched Wikimedia Commons records listed below. Their linked file pages are the authoritative attribution and licence records; working copies were normalized locally for video framing. Retain this document with any public redistribution and re-check each source-page licence, attribution and share-alike requirement before publishing or replacing images.
+
+## Rights and publication note
+This is an independent editorial comparison package. The original image-source pages govern reuse of every portrait; no endorsement by featured people or rights holders is implied. A public release requires a separate rights and attribution review for the intended territory, platform and use.
 
 ## Episode 01: Hollywood Leading Men
 
@@ -141,3 +144,8 @@ The primary sources for Episodes 1–4 are the already researched Wikimedia Comm
 
 ## Editorial note
 Film titles are used as factual references to the performers' careers. The video is an independent editorial compilation and implies no endorsement by featured people or rights holders.
+## Premium Motion Edition update
+
+- Visual treatment: continuous 24-fps camera moves, animated light ribbons and bokeh, timed quiz/reveal masks, soft crossfades and screen-locked typography.
+- Sound: original locally synthesized cinematic score, reveal impacts and stereo transition swishes; the bed ducks beneath English narration.
+- No AI face aging, face replacement, morphing or fabricated celebrity motion was used.

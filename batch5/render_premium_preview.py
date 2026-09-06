@@ -38,6 +38,9 @@ FONTS: dict[tuple[int, bool], ImageFont.FreeTypeFont] = {}
 PHOTO_CACHE: dict[str, Image.Image] = {}
 MASK_CACHE: dict[tuple[tuple[int, int], int], Image.Image] = {}
 SHADOW_CACHE: dict[tuple[int, int], Image.Image] = {}
+PREPARED_CROPS: dict[tuple[int, tuple[int, int], bool], Image.Image] = {}
+PANEL_SHADOW_CACHE: dict[tuple[int, int], Image.Image] = {}
+CAPTION_CACHE: dict[tuple[str, tuple[int, int, int]], Image.Image] = {}
 
 
 def font(size: int, bold: bool = False) -> ImageFont.FreeTypeFont:
@@ -140,19 +143,22 @@ def radial_background(t: float) -> Image.Image:
 
 
 def motion_crop(source: Image.Image, size: tuple[int, int], t: float, seed: int, mono: bool = False) -> Image.Image:
-    """Sub-pixel-style continuous Ken Burns move, rendered on every frame."""
+    """Continuous pan over a pre-scaled source; avoids per-frame resampling."""
     target_w, target_h = size
-    source = source.convert("RGB")
-    if mono:
-        source = ImageEnhance.Contrast(ImageOps.grayscale(source)).enhance(1.22).convert("RGB")
-    zoom = 1.105 + .042 * math.sin(t * .23 + seed * 1.17) + .026 * smoothstep(t % 14.0, 0, 14.0)
-    scale = max(target_w / source.width, target_h / source.height) * zoom
-    rw, rh = max(target_w, round(source.width * scale)), max(target_h, round(source.height * scale))
-    work = source.resize((rw, rh), Image.Resampling.LANCZOS)
-    cx = .50 + .085 * math.sin(t * .17 + seed * 2.1)
-    cy = .35 + .065 * math.cos(t * .13 + seed * .87)
-    x = round((rw - target_w) * max(0.0, min(1.0, cx)))
-    y = round((rh - target_h) * max(0.0, min(1.0, cy)))
+    key = (id(source), size, mono)
+    if key not in PREPARED_CROPS:
+        work = source.convert("RGB")
+        if mono:
+            work = ImageEnhance.Contrast(ImageOps.grayscale(work)).enhance(1.22).convert("RGB")
+        # A 15% overscan reservoir permits a smooth pan with no resize jitter.
+        scale = max((target_w * 1.18) / work.width, (target_h * 1.18) / work.height)
+        resized = work.resize((round(work.width * scale), round(work.height * scale)), Image.Resampling.LANCZOS)
+        PREPARED_CROPS[key] = resized
+    work = PREPARED_CROPS[key]
+    cx = .50 + .095 * math.sin(t * .17 + seed * 2.1)
+    cy = .38 + .070 * math.cos(t * .13 + seed * .87)
+    x = round((work.width - target_w) * max(0.0, min(1.0, cx)))
+    y = round((work.height - target_h) * max(0.0, min(1.0, cy)))
     return work.crop((x, y, x + target_w, y + target_h))
 
 
@@ -192,9 +198,12 @@ def photo_card(canvas: Image.Image, source: Image.Image, box: tuple[int, int, in
 def soft_panel(canvas: Image.Image, box: tuple[int, int, int, int], accent: tuple[int, int, int], amount: int = 208) -> None:
     x1, y1, x2, y2 = box
     w, h = x2 - x1, y2 - y1
-    shadow = Image.new("RGBA", (w + 24, h + 24), (0, 0, 0, 0))
-    ImageDraw.Draw(shadow).rounded_rectangle((12, 12, w + 10, h + 10), radius=21, fill=(0, 0, 0, 135))
-    canvas.alpha_composite(shadow.filter(ImageFilter.GaussianBlur(12)), (x1 - 12, y1 - 4))
+    shadow_key = (w, h)
+    if shadow_key not in PANEL_SHADOW_CACHE:
+        shadow = Image.new("RGBA", (w + 24, h + 24), (0, 0, 0, 0))
+        ImageDraw.Draw(shadow).rounded_rectangle((12, 12, w + 10, h + 10), radius=21, fill=(0, 0, 0, 135))
+        PANEL_SHADOW_CACHE[shadow_key] = shadow.filter(ImageFilter.GaussianBlur(12))
+    canvas.alpha_composite(PANEL_SHADOW_CACHE[shadow_key], (x1 - 12, y1 - 4))
     layer = Image.new("RGBA", (w, h), (0, 0, 0, 0))
     ld = ImageDraw.Draw(layer)
     ld.rounded_rectangle((0, 0, w - 1, h - 1), radius=19, fill=(7, 10, 20, amount), outline=alpha(accent, 126), width=2)
@@ -203,19 +212,18 @@ def soft_panel(canvas: Image.Image, box: tuple[int, int, int, int], accent: tupl
 
 
 def caption_panel(canvas: Image.Image, text: str, accent: tuple[int, int, int], t: float) -> None:
-    layer = Image.new("RGBA", (W, 88), (0, 0, 0, 0))
-    d = ImageDraw.Draw(layer)
-    d.rounded_rectangle((52, 6, 1228, 82), radius=20, fill=(5, 8, 16, 190), outline=alpha(accent, 102), width=2)
-    lines = wrap(d, text, 1080, 23)
-    while len(lines) > 2:
-        lines = wrap(d, text, 1080, 22)
-        break
-    first_y = 21 if len(lines) == 1 else 11
-    for index, line in enumerate(lines[:2]):
-        draw_shadow_text(d, (640, first_y + index * 30), line, 23, INK, anchor="ma")
-    pulse = int(90 + 50 * (1 + math.sin(t * 2.2)) / 2)
-    d.rounded_rectangle((69, 21, 74, 66), radius=3, fill=alpha(accent, pulse))
-    canvas.alpha_composite(layer, (0, 622))
+    key = (text, accent)
+    if key not in CAPTION_CACHE:
+        layer = Image.new("RGBA", (W, 88), (0, 0, 0, 0))
+        d = ImageDraw.Draw(layer)
+        d.rounded_rectangle((52, 6, 1228, 82), radius=20, fill=(5, 8, 16, 190), outline=alpha(accent, 102), width=2)
+        lines = wrap(d, text, 1080, 23)[:2]
+        first_y = 21 if len(lines) == 1 else 11
+        for index, line in enumerate(lines):
+            draw_shadow_text(d, (640, first_y + index * 30), line, 23, INK, anchor="ma")
+        d.rounded_rectangle((69, 21, 74, 66), radius=3, fill=alpha(accent, 150))
+        CAPTION_CACHE[key] = layer
+    canvas.alpha_composite(CAPTION_CACHE[key], (0, 622))
 
 
 def header(canvas: Image.Image, right: str, progress: float) -> None:

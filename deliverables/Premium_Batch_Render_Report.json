@@ -1,0 +1,67 @@
+[
+  {
+    "episode": "01_leading_men",
+    "path": "deliverables/01_Hollywood_Leading_Men_Then_Now.mp4",
+    "sidecar_subtitle": "deliverables/01_01_leading_men_EN.srt",
+    "thumbnail": "deliverables/01_01_leading_men_Thumbnail.jpg",
+    "size_bytes": 23349235,
+    "duration_seconds": 480.0,
+    "resolution": "1280x720",
+    "fps": 24,
+    "video": "H.264 High / yuv420p",
+    "audio": "AAC-LC stereo / 48 kHz",
+    "embedded_subtitles": "English mov_text (default)"
+  },
+  {
+    "episode": "02_leading_ladies",
+    "path": "deliverables/02_Hollywood_Leading_Ladies_Then_Now.mp4",
+    "sidecar_subtitle": "deliverables/02_02_leading_ladies_EN.srt",
+    "thumbnail": "deliverables/02_02_leading_ladies_Thumbnail.jpg",
+    "size_bytes": 24596242,
+    "duration_seconds": 480.0,
+    "resolution": "1280x720",
+    "fps": 24,
+    "video": "H.264 High / yuv420p",
+    "audio": "AAC-LC stereo / 48 kHz",
+    "embedded_subtitles": "English mov_text (default)"
+  },
+  {
+    "episode": "03_action_icons",
+    "path": "deliverables/03_Action_Movie_Icons_Then_Now.mp4",
+    "sidecar_subtitle": "deliverables/03_03_action_icons_EN.srt",
+    "thumbnail": "deliverables/03_03_action_icons_Thumbnail.jpg",
+    "size_bytes": 23075563,
+    "duration_seconds": 480.0,
+    "resolution": "1280x720",
+    "fps": 24,
+    "video": "H.264 High / yuv420p",
+    "audio": "AAC-LC stereo / 48 kHz",
+    "embedded_subtitles": "English mov_text (default)"
+  },
+  {
+    "episode": "04_nineties_icons",
+    "path": "deliverables/04_Nineties_Hollywood_Icons_Then_Now.mp4",
+    "sidecar_subtitle": "deliverables/04_04_nineties_icons_EN.srt",
+    "thumbnail": "deliverables/04_04_nineties_icons_Thumbnail.jpg",
+    "size_bytes": 24203241,
+    "duration_seconds": 480.0,
+    "resolution": "1280x720",
+    "fps": 24,
+    "video": "H.264 High / yuv420p",
+    "audio": "AAC-LC stereo / 48 kHz",
+    "embedded_subtitles": "English mov_text (default)"
+  },
+  {
+    "episode": "05_comedy_stars",
+    "path": "deliverables/05_Hollywood_Comedy_Stars_Then_Now.mp4",
+    "sidecar_subtitle": "deliverables/05_05_comedy_stars_EN.srt",
+    "thumbnail": "deliverables/05_05_comedy_stars_Thumbnail.jpg",
+    "size_bytes": 23155783,
+    "duration_seconds": 480.0,
+    "resolution": "1280x720",
+    "fps": 24,
+    "video": "H.264 High / yuv420p",
+    "audio": "AAC-LC stereo / 48 kHz",
+    "embedded_subtitles": "English mov_text (default)"
+  }
+]
