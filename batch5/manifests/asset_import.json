@@ -1,0 +1,662 @@
+[
+  {
+    "episode": "01_leading_men",
+    "person": "Tom Cruise",
+    "era": "then",
+    "input": "image-search/tom-cruise-1989-2-jpg-tom-cruise-2428-sq-2.jpg",
+    "output": "assets/photos/01_leading_men/00_then.jpg",
+    "normalized_size": [
+      669,
+      1024
+    ]
+  },
+  {
+    "episode": "01_leading_men",
+    "person": "Tom Cruise",
+    "era": "now",
+    "input": "image-search/tom-cruise-1989-2-jpg-tom-cruise-2428-sq-4.jpg",
+    "output": "assets/photos/01_leading_men/00_now.jpg",
+    "normalized_size": [
+      500,
+      749
+    ]
+  },
+  {
+    "episode": "01_leading_men",
+    "person": "Leonardo DiCaprio",
+    "era": "then",
+    "input": "image-search/leonardo-dicaprio-jpeg-leonardo-dicaprio-5.jpg",
+    "output": "assets/photos/01_leading_men/01_then.jpg",
+    "normalized_size": [
+      500,
+      667
+    ]
+  },
+  {
+    "episode": "01_leading_men",
+    "person": "Leonardo DiCaprio",
+    "era": "now",
+    "input": "image-search/leonardo-dicaprio-jpeg-leonardo-dicaprio-1.jpg",
+    "output": "assets/photos/01_leading_men/01_now.jpg",
+    "normalized_size": [
+      500,
+      726
+    ]
+  },
+  {
+    "episode": "01_leading_men",
+    "person": "Tom Hanks",
+    "era": "then",
+    "input": "image-search/1989-tom-hanks-cropped-jpg-tom-hanks-int-2.jpg",
+    "output": "assets/photos/01_leading_men/02_then.jpg",
+    "normalized_size": [
+      1198,
+      1600
+    ]
+  },
+  {
+    "episode": "01_leading_men",
+    "person": "Tom Hanks",
+    "era": "now",
+    "input": "image-search/1989-tom-hanks-cropped-jpg-tom-hanks-int-1.jpg",
+    "output": "assets/photos/01_leading_men/02_now.jpg",
+    "normalized_size": [
+      1600,
+      1144
+    ]
+  },
+  {
+    "episode": "01_leading_men",
+    "person": "Brad Pitt",
+    "era": "then",
+    "input": "image-search/brad-pitt-at-incirlik2-jpg-brad-pitt-698-4.jpg",
+    "output": "assets/photos/01_leading_men/03_then.jpg",
+    "normalized_size": [
+      419,
+      545
+    ]
+  },
+  {
+    "episode": "01_leading_men",
+    "person": "Brad Pitt",
+    "era": "now",
+    "input": "image-search/brad-pitt-at-incirlik2-jpg-brad-pitt-698-1.jpg",
+    "output": "assets/photos/01_leading_men/03_now.jpg",
+    "normalized_size": [
+      500,
+      667
+    ]
+  },
+  {
+    "episode": "01_leading_men",
+    "person": "Denzel Washington",
+    "era": "then",
+    "input": "image-search/file-denzel-washington-2106641898-croppe-1.jpg",
+    "output": "assets/photos/01_leading_men/04_then.jpg",
+    "normalized_size": [
+      226,
+      301
+    ]
+  },
+  {
+    "episode": "01_leading_men",
+    "person": "Denzel Washington",
+    "era": "now",
+    "input": "image-search/site-commons-wikimedia-org-wiki-file-den-3.jpg",
+    "output": "assets/photos/01_leading_men/04_now.jpg",
+    "normalized_size": [
+      500,
+      824
+    ]
+  },
+  {
+    "episode": "01_leading_men",
+    "person": "George Clooney",
+    "era": "then",
+    "input": "image-search/file-george-clooney-1995-jpg-wikimedia-c-1.jpg",
+    "output": "assets/photos/01_leading_men/05_then.jpg",
+    "normalized_size": [
+      500,
+      680
+    ]
+  },
+  {
+    "episode": "01_leading_men",
+    "person": "George Clooney",
+    "era": "now",
+    "input": "image-search/george-clooney-1995-jpg-george-clooney-j-1.jpg",
+    "output": "assets/photos/01_leading_men/05_now.jpg",
+    "normalized_size": [
+      500,
+      666
+    ]
+  },
+  {
+    "episode": "02_leading_ladies",
+    "person": "Julia Roberts",
+    "era": "then",
+    "input": "image-search/julia-roberts-1990-2025-portrait-wikimed-1.jpg",
+    "output": "assets/photos/02_leading_ladies/00_then.jpg",
+    "normalized_size": [
+      250,
+      375
+    ]
+  },
+  {
+    "episode": "02_leading_ladies",
+    "person": "Julia Roberts",
+    "era": "now",
+    "input": "image-search/julia-roberts-1990-2025-portrait-wikimed-2.jpg",
+    "output": "assets/photos/02_leading_ladies/00_now.jpg",
+    "normalized_size": [
+      1244,
+      1470
+    ]
+  },
+  {
+    "episode": "02_leading_ladies",
+    "person": "Angelina Jolie",
+    "era": "then",
+    "input": "image-search/angelina-jolie-2004-2025-portrait-wikime-3.jpg",
+    "output": "assets/photos/02_leading_ladies/01_then.jpg",
+    "normalized_size": [
+      520,
+      649
+    ]
+  },
+  {
+    "episode": "02_leading_ladies",
+    "person": "Angelina Jolie",
+    "era": "now",
+    "input": "image-search/angelina-jolie-2004-2025-portrait-wikime-1.jpg",
+    "output": "assets/photos/02_leading_ladies/01_now.jpg",
+    "normalized_size": [
+      250,
+      371
+    ]
+  },
+  {
+    "episode": "02_leading_ladies",
+    "person": "Nicole Kidman",
+    "era": "then",
+    "input": "image-search/nicole-kidman-2001-2025-portrait-wikimed-4.jpg",
+    "output": "assets/photos/02_leading_ladies/02_then.jpg",
+    "normalized_size": [
+      250,
+      250
+    ]
+  },
+  {
+    "episode": "02_leading_ladies",
+    "person": "Nicole Kidman",
+    "era": "now",
+    "input": "image-search/nicole-kidman-2001-2025-portrait-wikimed-1.jpg",
+    "output": "assets/photos/02_leading_ladies/02_now.jpg",
+    "normalized_size": [
+      500,
+      696
+    ]
+  },
+  {
+    "episode": "02_leading_ladies",
+    "person": "Kate Winslet",
+    "era": "then",
+    "input": "image-search/kate-winslet-2006-2025-portrait-wikimedi-4.jpg",
+    "output": "assets/photos/02_leading_ladies/03_then.jpg",
+    "normalized_size": [
+      500,
+      734
+    ]
+  },
+  {
+    "episode": "02_leading_ladies",
+    "person": "Kate Winslet",
+    "era": "now",
+    "input": "image-search/kate-winslet-2006-2025-portrait-wikimedi-1.jpg",
+    "output": "assets/photos/02_leading_ladies/03_now.jpg",
+    "normalized_size": [
+      500,
+      769
+    ]
+  },
+  {
+    "episode": "02_leading_ladies",
+    "person": "Charlize Theron",
+    "era": "then",
+    "input": "image-search/charlize-theron-2005-2026-portrait-wikim-1.jpg",
+    "output": "assets/photos/02_leading_ladies/04_then.jpg",
+    "normalized_size": [
+      500,
+      750
+    ]
+  },
+  {
+    "episode": "02_leading_ladies",
+    "person": "Charlize Theron",
+    "era": "now",
+    "input": "image-search/charlize-theron-2005-2026-portrait-wikim-1.jpg",
+    "output": "assets/photos/02_leading_ladies/04_now.jpg",
+    "normalized_size": [
+      500,
+      750
+    ]
+  },
+  {
+    "episode": "02_leading_ladies",
+    "person": "Anne Hathaway",
+    "era": "then",
+    "input": "image-search/anne-hathaway-2008-2026-portrait-wikimed-3.jpg",
+    "output": "assets/photos/02_leading_ladies/05_then.jpg",
+    "normalized_size": [
+      500,
+      738
+    ]
+  },
+  {
+    "episode": "02_leading_ladies",
+    "person": "Anne Hathaway",
+    "era": "now",
+    "input": "image-search/anne-hathaway-2008-2026-portrait-wikimed-2.jpg",
+    "output": "assets/photos/02_leading_ladies/05_now.jpg",
+    "normalized_size": [
+      500,
+      333
+    ]
+  },
+  {
+    "episode": "03_action_icons",
+    "person": "Arnold Schwarzenegger",
+    "era": "then",
+    "input": "image-search/arnold-schwarzenegger-1984-2025-portrait-3.jpg",
+    "output": "assets/photos/03_action_icons/00_then.jpg",
+    "normalized_size": [
+      500,
+      591
+    ]
+  },
+  {
+    "episode": "03_action_icons",
+    "person": "Arnold Schwarzenegger",
+    "era": "now",
+    "input": "image-search/arnold-schwarzenegger-1984-2025-portrait-1.jpg",
+    "output": "assets/photos/03_action_icons/00_now.jpg",
+    "normalized_size": [
+      500,
+      333
+    ]
+  },
+  {
+    "episode": "03_action_icons",
+    "person": "Sylvester Stallone",
+    "era": "then",
+    "input": "image-search/sylvester-stallone-1985-2025-portrait-wi-1.jpg",
+    "output": "assets/photos/03_action_icons/01_then.jpg",
+    "normalized_size": [
+      250,
+      170
+    ]
+  },
+  {
+    "episode": "03_action_icons",
+    "person": "Sylvester Stallone",
+    "era": "now",
+    "input": "image-search/sylvester-stallone-2024-2025-portrait-wi-1.jpg",
+    "output": "assets/photos/03_action_icons/01_now.jpg",
+    "normalized_size": [
+      500,
+      750
+    ]
+  },
+  {
+    "episode": "03_action_icons",
+    "person": "Harrison Ford",
+    "era": "then",
+    "input": "image-search/harrison-ford-2007-2025-portrait-wikimed-1.jpg",
+    "output": "assets/photos/03_action_icons/02_then.jpg",
+    "normalized_size": [
+      500,
+      635
+    ]
+  },
+  {
+    "episode": "03_action_icons",
+    "person": "Harrison Ford",
+    "era": "now",
+    "input": "image-search/harrison-ford-2007-2025-portrait-wikimed-2.jpg",
+    "output": "assets/photos/03_action_icons/02_now.jpg",
+    "normalized_size": [
+      500,
+      624
+    ]
+  },
+  {
+    "episode": "03_action_icons",
+    "person": "Samuel L. Jackson",
+    "era": "then",
+    "input": "image-search/samuel-l-jackson-2008-2024-portrait-wiki-4.jpg",
+    "output": "assets/photos/03_action_icons/03_then.jpg",
+    "normalized_size": [
+      500,
+      575
+    ]
+  },
+  {
+    "episode": "03_action_icons",
+    "person": "Samuel L. Jackson",
+    "era": "now",
+    "input": "image-search/samuel-l-jackson-2008-2024-portrait-wiki-2.jpg",
+    "output": "assets/photos/03_action_icons/03_now.jpg",
+    "normalized_size": [
+      500,
+      704
+    ]
+  },
+  {
+    "episode": "03_action_icons",
+    "person": "Hugh Jackman",
+    "era": "then",
+    "input": "image-search/hugh-jackman-2003-2025-portrait-wikimedi-1.jpg",
+    "output": "assets/photos/03_action_icons/04_then.jpg",
+    "normalized_size": [
+      500,
+      624
+    ]
+  },
+  {
+    "episode": "03_action_icons",
+    "person": "Hugh Jackman",
+    "era": "now",
+    "input": "image-search/hugh-jackman-2003-2025-portrait-wikimedi-4.jpg",
+    "output": "assets/photos/03_action_icons/04_now.jpg",
+    "normalized_size": [
+      500,
+      700
+    ]
+  },
+  {
+    "episode": "03_action_icons",
+    "person": "Sigourney Weaver",
+    "era": "then",
+    "input": "image-search/sigourney-weaver-1989-2025-portrait-wiki-1.jpg",
+    "output": "assets/photos/03_action_icons/05_then.jpg",
+    "normalized_size": [
+      500,
+      703
+    ]
+  },
+  {
+    "episode": "03_action_icons",
+    "person": "Sigourney Weaver",
+    "era": "now",
+    "input": "image-search/sigourney-weaver-1989-2025-portrait-wiki-4.jpg",
+    "output": "assets/photos/03_action_icons/05_now.jpg",
+    "normalized_size": [
+      250,
+      336
+    ]
+  },
+  {
+    "episode": "04_nineties_icons",
+    "person": "Winona Ryder",
+    "era": "then",
+    "input": "image-search/winona-ryder-2008-2024-portrait-wikimedi-1.jpg",
+    "output": "assets/photos/04_nineties_icons/00_then.jpg",
+    "normalized_size": [
+      500,
+      674
+    ]
+  },
+  {
+    "episode": "04_nineties_icons",
+    "person": "Winona Ryder",
+    "era": "now",
+    "input": "image-search/winona-ryder-2008-2024-portrait-wikimedi-2.jpg",
+    "output": "assets/photos/04_nineties_icons/00_now.jpg",
+    "normalized_size": [
+      500,
+      750
+    ]
+  },
+  {
+    "episode": "04_nineties_icons",
+    "person": "Meg Ryan",
+    "era": "then",
+    "input": "image-search/meg-ryan-2006-2025-portrait-wikimedia-co-4.jpg",
+    "output": "assets/photos/04_nineties_icons/01_then.jpg",
+    "normalized_size": [
+      1145,
+      1600
+    ]
+  },
+  {
+    "episode": "04_nineties_icons",
+    "person": "Meg Ryan",
+    "era": "now",
+    "input": "image-search/meg-ryan-2006-2025-portrait-wikimedia-co-1.jpg",
+    "output": "assets/photos/04_nineties_icons/01_now.jpg",
+    "normalized_size": [
+      500,
+      572
+    ]
+  },
+  {
+    "episode": "04_nineties_icons",
+    "person": "Johnny Depp",
+    "era": "then",
+    "input": "image-search/johnny-depp-1992-2023-portrait-wikimedia-1.jpg",
+    "output": "assets/photos/04_nineties_icons/02_then.jpg",
+    "normalized_size": [
+      448,
+      604
+    ]
+  },
+  {
+    "episode": "04_nineties_icons",
+    "person": "Johnny Depp",
+    "era": "now",
+    "input": "image-search/johnny-depp-1992-2023-portrait-wikimedia-4.jpg",
+    "output": "assets/photos/04_nineties_icons/02_now.jpg",
+    "normalized_size": [
+      500,
+      375
+    ]
+  },
+  {
+    "episode": "04_nineties_icons",
+    "person": "Will Smith",
+    "era": "then",
+    "input": "image-search/will-smith-1993-2025-portrait-wikimedia--4.jpg",
+    "output": "assets/photos/04_nineties_icons/03_then.jpg",
+    "normalized_size": [
+      500,
+      482
+    ]
+  },
+  {
+    "episode": "04_nineties_icons",
+    "person": "Will Smith",
+    "era": "now",
+    "input": "image-search/will-smith-1993-2025-portrait-wikimedia--2.jpg",
+    "output": "assets/photos/04_nineties_icons/03_now.jpg",
+    "normalized_size": [
+      500,
+      333
+    ]
+  },
+  {
+    "episode": "04_nineties_icons",
+    "person": "Halle Berry",
+    "era": "then",
+    "input": "image-search/halle-berry-signs-autographs-for-us-sold-1.jpg",
+    "output": "assets/photos/04_nineties_icons/04_then.jpg",
+    "normalized_size": [
+      500,
+      535
+    ]
+  },
+  {
+    "episode": "04_nineties_icons",
+    "person": "Halle Berry",
+    "era": "now",
+    "input": "image-search/halle-berry-signs-autographs-for-us-sold-3.jpg",
+    "output": "assets/photos/04_nineties_icons/04_now.jpg",
+    "normalized_size": [
+      500,
+      399
+    ]
+  },
+  {
+    "episode": "04_nineties_icons",
+    "person": "Uma Thurman",
+    "era": "then",
+    "input": "image-search/1994-uma-thurman-03-wikimedia-commons-1.jpg",
+    "output": "assets/photos/04_nineties_icons/05_then.jpg",
+    "normalized_size": [
+      500,
+      746
+    ]
+  },
+  {
+    "episode": "04_nineties_icons",
+    "person": "Uma Thurman",
+    "era": "now",
+    "input": "image-search/actress-uma-thurman-at-oh-canada-press-c-1.jpg",
+    "output": "assets/photos/04_nineties_icons/05_now.jpg",
+    "normalized_size": [
+      500,
+      497
+    ]
+  },
+  {
+    "episode": "05_comedy_stars",
+    "person": "Jim Carrey",
+    "era": "then",
+    "input": "image-search/jim-carrey-2010-cropped-wikimedia-common-4.jpg",
+    "output": "assets/photos/05_comedy_stars/00_then.jpg",
+    "normalized_size": [
+      500,
+      680
+    ]
+  },
+  {
+    "episode": "05_comedy_stars",
+    "person": "Jim Carrey",
+    "era": "now",
+    "input": "image-search/jim-carrey-2024-2025-portrait-wikimedia--3.jpg",
+    "output": "assets/photos/05_comedy_stars/00_now.jpg",
+    "normalized_size": [
+      500,
+      281
+    ]
+  },
+  {
+    "episode": "05_comedy_stars",
+    "person": "Adam Sandler",
+    "era": "then",
+    "input": "image-search/site-commons-wikimedia-org-wiki-file-ada-3.jpg",
+    "output": "assets/photos/05_comedy_stars/01_then.jpg",
+    "normalized_size": [
+      500,
+      688
+    ]
+  },
+  {
+    "episode": "05_comedy_stars",
+    "person": "Adam Sandler",
+    "era": "now",
+    "input": "image-search/site-commons-wikimedia-org-wiki-file-ada-5.jpg",
+    "output": "assets/photos/05_comedy_stars/01_now.jpg",
+    "normalized_size": [
+      500,
+      398
+    ]
+  },
+  {
+    "episode": "05_comedy_stars",
+    "person": "Ben Stiller",
+    "era": "then",
+    "input": "image-search/ben-stiller-early-recent-portrait-wikime-1.jpg",
+    "output": "assets/photos/05_comedy_stars/02_then.jpg",
+    "normalized_size": [
+      500,
+      333
+    ]
+  },
+  {
+    "episode": "05_comedy_stars",
+    "person": "Ben Stiller",
+    "era": "now",
+    "input": "image-search/ben-stiller-at-the-2024-toronto-internat-3.jpg",
+    "output": "assets/photos/05_comedy_stars/02_now.jpg",
+    "normalized_size": [
+      500,
+      700
+    ]
+  },
+  {
+    "episode": "05_comedy_stars",
+    "person": "Eddie Murphy",
+    "era": "then",
+    "input": "image-search/eddie-murphy-2024-2025-portrait-wikimedi-1.jpg",
+    "output": "assets/photos/05_comedy_stars/03_then.jpg",
+    "normalized_size": [
+      500,
+      702
+    ]
+  },
+  {
+    "episode": "05_comedy_stars",
+    "person": "Eddie Murphy",
+    "era": "now",
+    "input": "image-search/site-commons-wikimedia-org-wiki-file-edd-2.jpg",
+    "output": "assets/photos/05_comedy_stars/03_now.jpg",
+    "normalized_size": [
+      500,
+      763
+    ]
+  },
+  {
+    "episode": "05_comedy_stars",
+    "person": "Steve Carell",
+    "era": "then",
+    "input": "image-search/site-commons-wikimedia-org-wiki-file-ste-5.jpg",
+    "output": "assets/photos/05_comedy_stars/04_then.jpg",
+    "normalized_size": [
+      500,
+      409
+    ]
+  },
+  {
+    "episode": "05_comedy_stars",
+    "person": "Steve Carell",
+    "era": "now",
+    "input": "image-search/site-commons-wikimedia-org-wiki-file-ste-1.jpg",
+    "output": "assets/photos/05_comedy_stars/04_now.jpg",
+    "normalized_size": [
+      1280,
+      1600
+    ]
+  },
+  {
+    "episode": "05_comedy_stars",
+    "person": "Melissa McCarthy",
+    "era": "then",
+    "input": "image-search/melissa-mccarthy-2024-2025-portrait-wiki-1.jpg",
+    "output": "assets/photos/05_comedy_stars/05_then.jpg",
+    "normalized_size": [
+      500,
+      606
+    ]
+  },
+  {
+    "episode": "05_comedy_stars",
+    "person": "Melissa McCarthy",
+    "era": "now",
+    "input": "image-search/site-commons-wikimedia-org-wiki-file-mel-4.jpg",
+    "output": "assets/photos/05_comedy_stars/05_now.jpg",
+    "normalized_size": [
+      500,
+      711
+    ]
+  }
+]

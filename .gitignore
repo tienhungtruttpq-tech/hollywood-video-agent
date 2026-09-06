@@ -26,6 +26,12 @@ hollywood_demo/work/
 hollywood_demo/output/*.mp4
 image-search/
 
+# Local toolchain and the five-video production workspace
+.venv/
+batch5/assets/
+batch5/work/
+batch5/output/
+
 # IDE
 .vscode/
 .idea/
