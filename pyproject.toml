@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "source-to-original-video-agent"
+version = "0.1.0"
+description = "Rights-gated, source-to-original YouTube video project workflow"
+requires-python = ">=3.10"
+dependencies = [
+  "Pillow>=10.0",
+  "imageio-ffmpeg>=0.5",
+]
+
+[project.scripts]
+remake-agent = "remake_agent.cli:main"
+
+[tool.setuptools]
+packages = ["remake_agent"]

@@ -5,13 +5,17 @@ No search/download — only creative writing.
 Expected token usage: ~10-15K (vs 100K+ with full agent loop).
 """
 
-import json, urllib.request, sys
+import json, os, urllib.request, sys
 from pathlib import Path
 
 PROJECT = Path(__file__).resolve().parent / "new_project"
 
-API_URL = "https://api.experientiallabs.ai/v1/chat/completions"
-API_KEY = "xpl_320150294b7bb52f84440d0116a33cea25b3f7e6"
+API_URL = os.environ.get("EXPERIENTIAL_LABS_API_BASE_URL", "https://api.experientiallabs.ai/v1").rstrip("/") + "/chat/completions"
+API_KEY = os.environ.get("EXPERIENTIAL_LABS_API_KEY")
+
+if not API_KEY:
+    print("EXPERIENTIAL_LABS_API_KEY is not set. Export it before running this script.", file=sys.stderr)
+    sys.exit(2)
 
 actors = json.loads((PROJECT / "actors.json").read_text())
 actor_names = [a["name"] for a in actors]

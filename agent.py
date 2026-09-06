@@ -45,6 +45,8 @@ MAX_CONTEXT_MESSAGES = 16
 # ── API Client with Rate Limit Retry ──────────────────────────
 
 def call_fable_api(messages: list, tools_list: list = None) -> dict:
+    if not config.API_KEY:
+        raise RuntimeError("EXPERIENTIAL_LABS_API_KEY is not set. Export it before running the legacy agent.")
     body = {
         "model": config.MODEL,
         "messages": messages,

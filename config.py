@@ -1,17 +1,18 @@
-"""
-Configuration for the Hollywood Video Agent.
-Uses Claude Fable 5.1 via Experiential Labs (OpenAI-compatible gateway).
+"""Configuration for the legacy Hollywood Video Agent.
+
+Secrets are intentionally read from the environment so they are never committed.
 """
 
-# ── API Settings ──────────────────────────────────────────────
-API_BASE_URL = "https://api.experientiallabs.ai/v1"
-API_KEY = "xpl_320150294b7bb52f84440d0116a33cea25b3f7e6"
-MODEL = "claude-fable-5.1"
+import os
+
+# ── API Settings ────────────────────────────────────────────────────────────
+API_BASE_URL = os.environ.get("EXPERIENTIAL_LABS_API_BASE_URL", "https://api.experientiallabs.ai/v1")
+API_KEY = os.environ.get("EXPERIENTIAL_LABS_API_KEY")
+MODEL = os.environ.get("EXPERIENTIAL_LABS_MODEL", "claude-fable-5.1")
 MAX_TOKENS = 4096
 TEMPERATURE = 1.0  # Fable 5.1 only supports temperature=1.0
 
-# ── Project Settings ──────────────────────────────────────────
-import os
+# ── Project Settings ────────────────────────────────────────────────────────
 PROJECT_ROOT = os.path.dirname(os.path.abspath(__file__))
 
 # Default topic if none provided

@@ -29,3 +29,7 @@ image-search/
 # IDE
 .vscode/
 .idea/
+
+# Generated source-to-original projects and render drafts (may contain private rights metadata)
+projects/
+*.egg-info/

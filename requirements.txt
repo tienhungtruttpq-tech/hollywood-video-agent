@@ -1,0 +1,3 @@
+# Minimal runtime for the compliant source-to-original video workflow.
+Pillow>=10.0
+imageio-ffmpeg>=0.5
