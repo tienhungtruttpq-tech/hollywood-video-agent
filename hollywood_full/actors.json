@@ -1,0 +1,1719 @@
+[
+  {
+    "index": 0,
+    "name": "Tom Cruise",
+    "years": [
+      1989,
+      2025
+    ],
+    "then": {
+      "title": "File:Tom Cruise 1989 2.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Tom_Cruise_1989_2.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Tom_Cruise_1989_2.jpg",
+      "width": 669,
+      "height": 1024,
+      "year": 1989,
+      "date": "1989",
+      "description": "Tom Cruise taken at 61st Academy Awards 3/29/89",
+      "artist": "Alan Light",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "credit": "",
+      "file": "photos/00_then_9f5699ce.jpg",
+      "downloaded_size": [
+        669,
+        1024
+      ],
+      "anchor": [
+        0.5,
+        0.33
+      ],
+      "locked_crop": [
+        0.12705530642750373,
+        0.060546875,
+        0.7279521674140508,
+        0.4736328125
+      ]
+    },
+    "now": {
+      "title": "File:Tom Cruise 2428 (square).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Tom_Cruise_2428_(square).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Tom_Cruise_2428_%28square%29.jpg/960px-Tom_Cruise_2428_%28square%29.jpg",
+      "width": 2615,
+      "height": 2617,
+      "year": 2025,
+      "date": "2025-05-14",
+      "description": "Actor Tom Cruise at the 2025 Cannes Film Festival",
+      "artist": "Harald Krichel",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "Own work",
+      "file": "photos/00_now_9cb9ac4b.jpg",
+      "downloaded_size": [
+        960,
+        961
+      ],
+      "anchor": [
+        0.5,
+        0.33
+      ]
+    },
+    "delta": 36
+  },
+  {
+    "index": 1,
+    "name": "Leonardo DiCaprio",
+    "years": [
+      2000,
+      2025
+    ],
+    "then": {
+      "title": "File:Leonardo DiCaprio.jpeg",
+      "source": "https://commons.wikimedia.org/wiki/File:Leonardo_DiCaprio.jpeg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Leonardo_DiCaprio.jpeg",
+      "width": 366,
+      "height": 489,
+      "year": 2000,
+      "date": "2000-02",
+      "description": "w:Leonardo DiCaprio during press conference on \"The Beach\"",
+      "artist": "Jaud (de:Benutzer:Falkenauge)",
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "credit": "own photography, uploaded by de:Benutzer:Falkenauge to de-Wikipedia (de:Bild:Leonardo DiCaprio.jpg)",
+      "file": "photos/01_then_02972e7d.jpg",
+      "downloaded_size": [
+        366,
+        489
+      ],
+      "anchor": [
+        0.5,
+        0.33
+      ]
+    },
+    "now": {
+      "title": "File:Leonardo DiCaprio - BFI Southbank 3 (crop).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Leonardo_DiCaprio_-_BFI_Southbank_3_(crop).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Leonardo_DiCaprio_-_BFI_Southbank_3_%28crop%29.jpg/500px-Leonardo_DiCaprio_-_BFI_Southbank_3_%28crop%29.jpg",
+      "width": 622,
+      "height": 764,
+      "year": 2025,
+      "date": "2025-11-19 21:58:50",
+      "description": "Leonardo DiCaprio In Conversation - BFI Southbank - Wednesday 19th November 2025",
+      "artist": "Raph_PH",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0",
+      "credit": "https://www.flickr.com/photos/raph_ph/54940587404/",
+      "file": "photos/01_now_24465eee.jpg",
+      "downloaded_size": [
+        500,
+        614
+      ],
+      "anchor": [
+        0.5,
+        0.33
+      ]
+    },
+    "delta": 25
+  },
+  {
+    "index": 2,
+    "name": "Tom Hanks",
+    "years": [
+      1989,
+      2024
+    ],
+    "then": {
+      "title": "File:1989 Tom Hanks (cropped).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:1989_Tom_Hanks_(cropped).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/1989_Tom_Hanks_%28cropped%29.jpg/500px-1989_Tom_Hanks_%28cropped%29.jpg",
+      "width": 577,
+      "height": 775,
+      "year": 1989,
+      "date": "1989",
+      "description": "Tom Hanks at the Governor's Ball after the telecast of the 61st Annual Academy Awards, 1989.",
+      "artist": "Alan Light",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "credit": "This image has been extracted from another file",
+      "file": "photos/02_then_5f11b8b2.jpg",
+      "downloaded_size": [
+        500,
+        672
+      ],
+      "anchor": [
+        0.5,
+        0.33
+      ]
+    },
+    "now": {
+      "title": "File:Tom Hanks interview by Christiane Amanpour at the Normandy American Cemetery ahead of the 80th D-Day Ceremony in Normandy, France, June 6, 2024.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Tom_Hanks_interview_by_Christiane_Amanpour_at_the_Normandy_American_Cemetery_ahead_of_the_80th_D-Day_Ceremony_in_Normandy,_France,_June_6,_2024.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Tom_Hanks_interview_by_Christiane_Amanpour_at_the_Normandy_American_Cemetery_ahead_of_the_80th_D-Day_Ceremony_in_Normandy%2C_France%2C_June_6%2C_2024.jpg/960px-Tom_Hanks_interview_by_Christiane_Amanpour_at_the_Normandy_American_Cemetery_ahead_of_the_80th_D-Day_Ceremony_in_Normandy%2C_France%2C_June_6%2C_2024.jpg",
+      "width": 6919,
+      "height": 4947,
+      "year": 2024,
+      "date": "2024-06-06 04:14:16",
+      "description": "Gen. CQ Brown, Jr., Chairman of the Joint Chiefs of Staff, participates in an interview with Christiane Amanpour at the Normandy American Cemetery together with actor and producer Tom Hanks ahead of the 80th D-Day Ceremony in Normandy, France, June 6, 2024. (DoD photo by Benjamin Applebaum)",
+      "artist": "Chairman of the Joint Chiefs of Staff",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "credit": "https://www.flickr.com/photos/42310076@N04/53775032533/",
+      "file": "photos/02_now_5da195e9.jpg",
+      "downloaded_size": [
+        2400,
+        1716
+      ],
+      "anchor": [
+        0.5,
+        0.33
+      ],
+      "locked_crop": [
+        0.2760416666666667,
+        0.10924981791697014,
+        0.5807291666666666,
+        0.6773488710852149
+      ]
+    },
+    "delta": 35
+  },
+  {
+    "index": 3,
+    "name": "Brad Pitt",
+    "years": [
+      2001,
+      2024
+    ],
+    "then": {
+      "pageid": 19686,
+      "title": "File:Brad Pitt at Incirlik2.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Brad_Pitt_at_Incirlik2.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Brad_Pitt_at_Incirlik2.jpg",
+      "width": 419,
+      "height": 545,
+      "year": 2001,
+      "date": "2001-12-07",
+      "description": "Brad Pitt, Matt Damon and George Clooney enjoy a morning laugh prior to their Dec. 7 tour of Incirlik Air Base, Turkey. The trio, along with Julia Roberts and Andy Garcia, visited the base to show their appreciation for U.S. troops overseas.",
+      "artist": "Airman 1st Class Tanaya M. Harms",
+      "license": "Public domain",
+      "license_url": "",
+      "credit": "https://web.archive.org/web/20030101045017/http://www.usafe.af.mil/news/news01/uns01425.htm (Specifically [1])",
+      "download": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Brad_Pitt_at_Incirlik2.jpg",
+      "file": "photos/03_then_07575c1f.jpg",
+      "downloaded_size": [
+        419,
+        545
+      ],
+      "anchor": [
+        0.5,
+        0.33
+      ]
+    },
+    "now": {
+      "pageid": 152113880,
+      "title": "File:Brad Pitt-69858.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Brad_Pitt-69858.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Brad_Pitt-69858.jpg",
+      "width": 1683,
+      "height": 2244,
+      "year": 2024,
+      "date": "2024-09-01",
+      "description": "Actor Brad Pitt at the 81st Venice International Film Festival",
+      "artist": "Harald Krichel",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "Own work",
+      "file": "photos/03_now_d217ea2d.jpg",
+      "downloaded_size": [
+        1280,
+        1707
+      ],
+      "anchor": [
+        0.5,
+        0.33
+      ]
+    },
+    "delta": 23
+  },
+  {
+    "index": 4,
+    "name": "Keanu Reeves",
+    "years": [
+      2006,
+      2025
+    ],
+    "then": {
+      "pageid": 3328637,
+      "title": "File:KeanuReevesLakehouse.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/KeanuReevesLakehouse.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:KeanuReevesLakehouse.jpg",
+      "width": 478,
+      "height": 741,
+      "year": 2006,
+      "date": "2006-09",
+      "description": "Keanu Reeves at The Lake House London premiere",
+      "artist": "Caroline Bonarde Ucci at https://www.flickr.com/photos/caroline_bonarde/",
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0",
+      "credit": "https://www.flickr.com/photos/caroline_bonarde/503064940/in/set-72157594501080666/",
+      "file": "photos/04_then_9592bfcf.jpg",
+      "downloaded_size": [
+        478,
+        741
+      ],
+      "anchor": [
+        0.5,
+        0.33
+      ]
+    },
+    "now": {
+      "pageid": 182752112,
+      "title": "File:Keanu Reeves at TIFF 2025 02 (centre cropped).jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Keanu_Reeves_at_TIFF_2025_02_%28centre_cropped%29.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Keanu_Reeves_at_TIFF_2025_02_(centre_cropped).jpg",
+      "width": 2363,
+      "height": 3152,
+      "year": 2025,
+      "date": "2025-09-06, 20:58:29",
+      "description": "Keanu Reeves at the 2025 Toronto International Film Festival",
+      "artist": "Gabriel Hutchinson",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "Own work",
+      "file": "photos/04_now_7317d4a5.jpg",
+      "downloaded_size": [
+        1280,
+        1707
+      ],
+      "anchor": [
+        0.5,
+        0.33
+      ]
+    },
+    "delta": 19
+  },
+  {
+    "index": 5,
+    "name": "Johnny Depp",
+    "years": [
+      1992,
+      2023
+    ],
+    "then": {
+      "pageid": 9071724,
+      "title": "File:Johnny Depp Cannes nineties.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Johnny_Depp_Cannes_nineties.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Johnny_Depp_Cannes_nineties.jpg",
+      "width": 448,
+      "height": 604,
+      "year": 1992,
+      "date": "1992-11-10",
+      "description": "Johnny Depp at the 1992 Cannes Film Festival.",
+      "artist": "Georges Biard",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "credit": "Own work",
+      "file": "photos/05_then_814cd4c0.jpg",
+      "downloaded_size": [
+        448,
+        604
+      ],
+      "anchor": [
+        0.5,
+        0.33
+      ]
+    },
+    "now": {
+      "pageid": 188114945,
+      "title": "File:JeffBeckTribute2RAH230523 (9 of 81) (52922493928) (cropped).jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/JeffBeckTribute2RAH230523_%289_of_81%29_%2852922493928%29_%28cropped%29.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:JeffBeckTribute2RAH230523_(9_of_81)_(52922493928)_(cropped).jpg",
+      "width": 650,
+      "height": 797,
+      "year": 2023,
+      "date": "2023-05-23 19:58",
+      "description": "JeffBeckTribute2RAH230523 (9 of 81)",
+      "artist": "Raph_PH",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "credit": "JeffBeckTribute2RAH230523 (9 of 81)",
+      "file": "photos/05_now_b9d7b2c0.jpg",
+      "downloaded_size": [
+        650,
+        797
+      ],
+      "anchor": [
+        0.5,
+        0.33
+      ]
+    },
+    "delta": 31
+  },
+  {
+    "index": 6,
+    "name": "Denzel Washington",
+    "years": [
+      1990,
+      2025
+    ],
+    "then": {
+      "pageid": 83181304,
+      "title": "File:Denzel Washington (2106641898) (cropped).jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Denzel_Washington_%282106641898%29_%28cropped%29.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Denzel_Washington_(2106641898)_(cropped).jpg",
+      "width": 604,
+      "height": 691,
+      "year": 1990,
+      "date": "1990-03-01 00:00",
+      "description": "1990 Academy Awards\nNOTE:  Permission granted to copy, publish, broadcast or post any of my photos, but please credit \"photo by Alan Light\" if you can. Thanks.\n\nScanned from the original 35MM film negative.",
+      "artist": "Alan Light",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "credit": "Denzel Washington\n\nUploaded by MaybeMaybeMaybe",
+      "file": "photos/06_then_c52c4c60.jpg",
+      "downloaded_size": [
+        604,
+        691
+      ],
+      "anchor": [
+        0.32,
+        0.36
+      ]
+    },
+    "now": {
+      "pageid": 165750669,
+      "title": "File:Denzel Washington at the 2025 Cannes Film Festival.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Denzel_Washington_at_the_2025_Cannes_Film_Festival.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Denzel_Washington_at_the_2025_Cannes_Film_Festival.jpg",
+      "width": 5060,
+      "height": 7083,
+      "year": 2025,
+      "date": "2025-05-19 19:03:43",
+      "description": "Denzel Washington attends the premiere of the film \"Highest 2 Lowest\" at the 2025 Cannes Film Festival",
+      "artist": "Gabriel Hutchinson",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "Own work",
+      "file": "photos/06_now_2dd215a2.jpg",
+      "downloaded_size": [
+        1280,
+        1792
+      ],
+      "anchor": [
+        0.5,
+        0.33
+      ]
+    },
+    "delta": 35
+  },
+  {
+    "index": 7,
+    "name": "George Clooney",
+    "years": [
+      1995,
+      2025
+    ],
+    "then": {
+      "pageid": 74932768,
+      "title": "File:George Clooney 1995.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/George_Clooney_1995.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:George_Clooney_1995.jpg",
+      "width": 363,
+      "height": 526,
+      "year": 1995,
+      "date": "2018-12-08 11:28",
+      "description": "From Wash D.C. Annual  PBS Memorial day celebration  May  27, 1995\n\nCopyright John Mathew Smith  2001",
+      "artist": "Kingkongphoto & www.celebrity-photos.com from Laurel  Maryland, USA",
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "credit": "George Clooney",
+      "file": "photos/07_then_dd6bdea2.jpg",
+      "downloaded_size": [
+        363,
+        526
+      ],
+      "anchor": [
+        0.5,
+        0.33
+      ]
+    },
+    "now": {
+      "pageid": 176334223,
+      "title": "File:George Clooney Jay Kelly-19 (cropped).jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/George_Clooney_Jay_Kelly-19_%28cropped%29.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:George_Clooney_Jay_Kelly-19_(cropped).jpg",
+      "width": 3330,
+      "height": 4438,
+      "year": 2025,
+      "date": "2025-09-29 19:26:06",
+      "description": "George Clooney, actor, at the 63rd annual New York Film Festival at Lincoln Center in 2025 for the film Jay Kelly",
+      "artist": "Bryan Berlin",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "Own work",
+      "file": "photos/07_now_71c52658.jpg",
+      "downloaded_size": [
+        1280,
+        1706
+      ],
+      "anchor": [
+        0.5,
+        0.33
+      ]
+    },
+    "delta": 30
+  },
+  {
+    "index": 8,
+    "name": "Matt Damon",
+    "years": [
+      2001,
+      2024
+    ],
+    "then": {
+      "pageid": 109290615,
+      "title": "File:Matt Damon 2001.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Matt_Damon_2001.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Matt_Damon_2001.jpg",
+      "width": 200,
+      "height": 300,
+      "year": 2001,
+      "date": "",
+      "description": "Brad Pitt, Matt Damon and George Clooney enjoy a morning laugh prior to their Dec. 7 tour of Incirlik Air Base, Turkey. The trio, along with Julia Roberts and Andy Garcia, visited the base to show their appreciation for U.S. troops overseas.",
+      "artist": "Photo by Airman 1st Class Tanaya M. Harms",
+      "license": "Public domain",
+      "license_url": "",
+      "credit": "U.S. Air Forces in Europe",
+      "file": "photos/08_then_09f71db0.jpg",
+      "downloaded_size": [
+        200,
+        300
+      ],
+      "anchor": [
+        0.5,
+        0.33
+      ]
+    },
+    "now": {
+      "pageid": 146256340,
+      "title": "File:Matt Damon-60048.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Matt_Damon-60048.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Matt_Damon-60048.jpg",
+      "width": 2667,
+      "height": 3556,
+      "year": 2024,
+      "date": "2024-02-15",
+      "description": "Actor Matt Damon at the 74nd Berlin International Film Festival",
+      "artist": "Harald Krichel",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "Own work",
+      "file": "photos/08_now_0accf518.jpg",
+      "downloaded_size": [
+        1280,
+        1707
+      ],
+      "anchor": [
+        0.5,
+        0.33
+      ]
+    },
+    "delta": 23
+  },
+  {
+    "index": 9,
+    "name": "Ben Affleck",
+    "years": [
+      1998,
+      2023
+    ],
+    "then": {
+      "pageid": 74931171,
+      "title": "File:Ben Affleck 1998.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Ben_Affleck_1998.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Ben_Affleck_1998.jpg",
+      "width": 1149,
+      "height": 1687,
+      "year": 1998,
+      "date": "2018-12-08 11:28",
+      "description": "From Wash. D.C.  1998\n\nCopyright John Mathew Smith",
+      "artist": "Kingkongphoto & www.celebrity-photos.com from Laurel  Maryland, USA",
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "credit": "Ben  Affleck",
+      "file": "photos/09_then_0032084a.jpg",
+      "downloaded_size": [
+        1149,
+        1687
+      ],
+      "anchor": [
+        0.5,
+        0.33
+      ]
+    },
+    "now": {
+      "pageid": 154118739,
+      "title": "File:Ben Affleck on the Red Carpet, SXSW 2023 (cropped).jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Ben_Affleck_on_the_Red_Carpet%2C_SXSW_2023_%28cropped%29.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Ben_Affleck_on_the_Red_Carpet,_SXSW_2023_(cropped).jpg",
+      "width": 1212,
+      "height": 1507,
+      "year": 2023,
+      "date": "2023-03-18 17:15:42",
+      "description": "Ben Affleck, red carpet, candid, SXSW 2023",
+      "artist": "Nomoretitanic",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "Own work",
+      "file": "photos/09_now_19a3d581.jpg",
+      "downloaded_size": [
+        1212,
+        1507
+      ],
+      "anchor": [
+        0.5,
+        0.33
+      ]
+    },
+    "delta": 25
+  },
+  {
+    "index": 10,
+    "name": "Will Smith",
+    "years": [
+      1993,
+      2025
+    ],
+    "then": {
+      "pageid": 93458336,
+      "title": "File:Will Smith (2078379272) (cropped).jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Will_Smith_%282078379272%29_%28cropped%29.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Will_Smith_(2078379272)_(cropped).jpg",
+      "width": 558,
+      "height": 775,
+      "year": 1993,
+      "date": "1993-09-01 00:00",
+      "description": "1993 Emmy Awards\nNOTE:  Permission granted to copy, publish, broadcast or post any of my photos, but please credit \"photo by Alan Light\" if you can. Thanks.\n\nScanned from the original 35MM film negative.",
+      "artist": "Alan Light",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "credit": "Will Smith\n\nUploaded by MaybeMaybeMaybe",
+      "file": "photos/10_then_567dee22.jpg",
+      "downloaded_size": [
+        558,
+        775
+      ],
+      "anchor": [
+        0.5,
+        0.33
+      ]
+    },
+    "now": {
+      "pageid": 174849004,
+      "title": "File:Will Smith 01.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Will_Smith_01.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Will_Smith_01.jpg",
+      "width": 6000,
+      "height": 4000,
+      "year": 2025,
+      "date": "2025-08-28 22:19:20",
+      "description": "Will Smith in 2025",
+      "artist": "Raph_PH",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0",
+      "credit": "https://www.flickr.com/photos/raph_ph/54774448551/",
+      "file": "photos/10_now_c5391b82.jpg",
+      "downloaded_size": [
+        1920,
+        1280
+      ],
+      "anchor": [
+        0.57,
+        0.3
+      ]
+    },
+    "delta": 32
+  },
+  {
+    "index": 11,
+    "name": "Robert Downey Jr.",
+    "years": [
+      1990,
+      2026
+    ],
+    "then": {
+      "pageid": 1604506,
+      "title": "File:Robert Downey Jr.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Robert_Downey_Jr.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Robert_Downey_Jr.jpg",
+      "width": 3528,
+      "height": 5111,
+      "year": 1990,
+      "date": "1990",
+      "description": "Robert Downey, Jr., taken at the AIR AMERICA movie premiere 1990",
+      "artist": "Alan Light",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "credit": "robertdowneyjr-1",
+      "file": "photos/11_then_5f248abf.jpg",
+      "downloaded_size": [
+        1280,
+        1854
+      ],
+      "anchor": [
+        0.42,
+        0.35
+      ]
+    },
+    "now": {
+      "pageid": 192867316,
+      "title": "File:RobertDowneyJr-byPhilipRomano7 (cropped).jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/RobertDowneyJr-byPhilipRomano7_%28cropped%29.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:RobertDowneyJr-byPhilipRomano7_(cropped).jpg",
+      "width": 3200,
+      "height": 4800,
+      "year": 2026,
+      "date": "2026-05-18 19:14:09",
+      "description": "Robert Downey Jr. at the 2026 Lincoln Center Theater Gala - May 18, 2026",
+      "artist": "PhilipRomano",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "Own work",
+      "file": "photos/11_now_483125c8.jpg",
+      "downloaded_size": [
+        1280,
+        1920
+      ],
+      "anchor": [
+        0.5,
+        0.33
+      ]
+    },
+    "delta": 36
+  },
+  {
+    "index": 12,
+    "name": "Harrison Ford",
+    "years": [
+      2007,
+      2025
+    ],
+    "then": {
+      "pageid": 44312521,
+      "title": "File:Indianajones4 (cropped).jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Indianajones4_%28cropped%29.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Indianajones4_(cropped).jpg",
+      "width": 502,
+      "height": 665,
+      "year": 2007,
+      "date": "2007-06-22 15:20:46",
+      "description": "First shot of Indiana Jones on the set of part 4",
+      "artist": "John Griffiths",
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "credit": "originally posted to Flickr as Indy's Back",
+      "file": "photos/12_then_215fd8bf.jpg",
+      "downloaded_size": [
+        502,
+        665
+      ],
+      "anchor": [
+        0.5,
+        0.33
+      ]
+    },
+    "now": {
+      "pageid": 187896484,
+      "title": "File:Harrison Ford - Televerse 2025-02.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Harrison_Ford_-_Televerse_2025-02.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Harrison_Ford_-_Televerse_2025-02.jpg",
+      "width": 1600,
+      "height": 2000,
+      "year": 2025,
+      "date": "2025-08-15 17:03:31",
+      "description": "Harrison Ford at an FYC panel for Shrinking at Televerse 2025 in Los Angeles, California.",
+      "artist": "Kevin Paul",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0",
+      "credit": "Own work",
+      "file": "photos/12_now_124a09f7.jpg",
+      "downloaded_size": [
+        1280,
+        1600
+      ],
+      "anchor": [
+        0.5,
+        0.33
+      ]
+    },
+    "delta": 18
+  },
+  {
+    "index": 13,
+    "name": "Morgan Freeman",
+    "years": [
+      1990,
+      2023
+    ],
+    "then": {
+      "pageid": 36027876,
+      "title": "File:Morgan Freeman (255277982) (cropped).jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Morgan_Freeman_%28255277982%29_%28cropped%29.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Morgan_Freeman_(255277982)_(cropped).jpg",
+      "width": 231,
+      "height": 306,
+      "year": 1990,
+      "date": "1990-03-01 00:00",
+      "description": "Morgan Freeman, with his wife Myrna Colley-Lee and mother, leaves the 62nd Annual Academy Awards, 3/26/90 - Permission granted to copy, publish, broadcast or post but please credit \"photo by Alan Light\" if you can",
+      "artist": "Alan Light",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "credit": "https://www.flickr.com/photos/alan-light/255277982/",
+      "file": "photos/13_then_44b060db.jpg",
+      "downloaded_size": [
+        231,
+        306
+      ],
+      "anchor": [
+        0.5,
+        0.33
+      ]
+    },
+    "now": {
+      "pageid": 135502454,
+      "title": "File:Morgan Freeman at The Pentagon on 2 August 2023 - 230802-D-PM193-3363 (cropped).jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Morgan_Freeman_at_The_Pentagon_on_2_August_2023_-_230802-D-PM193-3363_%28cropped%29.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Morgan_Freeman_at_The_Pentagon_on_2_August_2023_-_230802-D-PM193-3363_(cropped).jpg",
+      "width": 2253,
+      "height": 3006,
+      "year": 2023,
+      "date": "2023-08-02 12:18:24",
+      "description": "Secretary of Defense Lloyd J. Austin III hosts Morgan Freeman for a private screening and conversation about Freeman’s documentary film on the 761st Tank Battalion at the Pentagon, Washington, D.C., Aug. 2, 2023. (DoD photo by U.S. Navy Petty Officer 1st Class Alexander Kubitza)",
+      "artist": "U.S. Secretary of Defense",
+      "license": "Public domain",
+      "license_url": "",
+      "credit": "https://www.flickr.com/photos/68842444@N03/53090041380/",
+      "file": "photos/13_now_8faea47a.jpg",
+      "downloaded_size": [
+        1280,
+        1708
+      ],
+      "anchor": [
+        0.5,
+        0.33
+      ]
+    },
+    "delta": 33
+  },
+  {
+    "index": 14,
+    "name": "Robert De Niro",
+    "years": [
+      1988,
+      2025
+    ],
+    "then": {
+      "pageid": 172024894,
+      "title": "File:Robert de Niro 26 (3x4 close cropped).JPG",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Robert_de_Niro_26_%283x4_close_cropped%29.JPG",
+      "source": "https://commons.wikimedia.org/wiki/File:Robert_de_Niro_26_(3x4_close_cropped).JPG",
+      "width": 1254,
+      "height": 1671,
+      "year": 1988,
+      "date": "1988",
+      "description": "L'acteur américain Robert De Niro au Festival du cinéma américain de Deauville (Calvados, Basse-Normandie, France).",
+      "artist": "Roland Godefroy\n\nModifié par: Arad (Dust removed)",
+      "license": "CC BY 2.5",
+      "license_url": "https://creativecommons.org/licenses/by/2.5",
+      "credit": "Self-photographed",
+      "file": "photos/14_then_bd2f5760.jpg",
+      "downloaded_size": [
+        1254,
+        1671
+      ],
+      "anchor": [
+        0.5,
+        0.33
+      ]
+    },
+    "now": {
+      "pageid": 167881147,
+      "title": "File:Robert de Niro Cannes Film Festival (3x4 cropped).jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Robert_de_Niro_Cannes_Film_Festival_%283x4_cropped%29.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Robert_de_Niro_Cannes_Film_Festival_(3x4_cropped).jpg",
+      "width": 2353,
+      "height": 3142,
+      "year": 2025,
+      "date": "2025-05-13",
+      "description": "Actor Robert de Niro at the 2025 Cannes Film Festival",
+      "artist": "Harald Krichel",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "Own work",
+      "file": "photos/14_now_d5eaa15b.jpg",
+      "downloaded_size": [
+        1280,
+        1709
+      ],
+      "anchor": [
+        0.5,
+        0.33
+      ]
+    },
+    "delta": 37
+  },
+  {
+    "index": 15,
+    "name": "Al Pacino",
+    "years": [
+      1996,
+      2026
+    ],
+    "then": {
+      "pageid": 13035072,
+      "title": "File:Al Pacino Cannes 1996.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Al_Pacino_Cannes_1996.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Al_Pacino_Cannes_1996.jpg",
+      "width": 333,
+      "height": 523,
+      "year": 1996,
+      "date": "1996",
+      "description": "Al Pacino at the Cannes film festival",
+      "artist": "Georges Biard",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "credit": "Own work",
+      "file": "photos/15_then_54bf8e77.jpg",
+      "downloaded_size": [
+        333,
+        523
+      ],
+      "anchor": [
+        0.5,
+        0.33
+      ]
+    },
+    "now": {
+      "pageid": 193608052,
+      "title": "File:Al Pacino - Killing Castro - Q&A - Tribeca 2026 - by @JJxFile-23 (cropped).jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Al_Pacino_-_Killing_Castro_-_Q%26A_-_Tribeca_2026_-_by_%40JJxFile-23_%28cropped%29.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Al_Pacino_-_Killing_Castro_-_Q%26A_-_Tribeca_2026_-_by_@JJxFile-23_(cropped).jpg",
+      "width": 1915,
+      "height": 2686,
+      "year": 2026,
+      "date": "2026-06-09 21:59:03",
+      "description": "Al Pacino, Eif Rivera, Brad Feinstein - cast and crew Q&A for Killing Castro at the 2026 Tribeca Film Festival, New York City, June 9, 2026.",
+      "artist": "Jorge Jaramillo",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "Own work",
+      "file": "photos/15_now_b7f96eac.jpg",
+      "downloaded_size": [
+        1280,
+        1795
+      ],
+      "anchor": [
+        0.5,
+        0.33
+      ]
+    },
+    "delta": 30
+  },
+  {
+    "index": 16,
+    "name": "Michael Douglas",
+    "years": [
+      1984,
+      2025
+    ],
+    "then": {
+      "pageid": 120872101,
+      "title": "File:Michael Douglas, seated, 1984.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Michael_Douglas%2C_seated%2C_1984.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Michael_Douglas,_seated,_1984.jpg",
+      "width": 2608,
+      "height": 3901,
+      "year": 1984,
+      "date": "1984-05-13",
+      "description": "Actor and producer Michael Douglas, seated portrait",
+      "artist": "Gary Friedman, Los Angeles Times",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0",
+      "credit": "https://digital.library.ucla.edu/catalog/ark:/21198/zz0002sf8w",
+      "file": "photos/16_then_60271061.jpg",
+      "downloaded_size": [
+        1280,
+        1915
+      ],
+      "anchor": [
+        0.5,
+        0.33
+      ]
+    },
+    "now": {
+      "pageid": 191998647,
+      "title": "File:59th Karlovy Vary International Film Festival, Michael Douglas 09(cropped).jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/42/59th_Karlovy_Vary_International_Film_Festival%2C_Michael_Douglas_09%28cropped%29.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:59th_Karlovy_Vary_International_Film_Festival,_Michael_Douglas_09(cropped).jpg",
+      "width": 2495,
+      "height": 3324,
+      "year": 2025,
+      "date": "5 July 2025, 14:01:41",
+      "description": "American actor and producer Michael Douglas at the 59th Karlovy Vary International Film Festival",
+      "artist": "User:Janbery",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "https://commons.wikimedia.org/wiki/File:59th_Karlovy_Vary_International_Film_Festival,_Michael_Douglas_09.jpg",
+      "file": "photos/16_now_d7e7acb6.jpg",
+      "downloaded_size": [
+        1280,
+        1705
+      ],
+      "anchor": [
+        0.5,
+        0.33
+      ]
+    },
+    "delta": 41
+  },
+  {
+    "index": 17,
+    "name": "Jeff Bridges",
+    "years": [
+      2000,
+      2025
+    ],
+    "then": {
+      "pageid": 7963602,
+      "title": "File:Jeff Bridges.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Jeff_Bridges.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Jeff_Bridges.jpg",
+      "width": 186,
+      "height": 442,
+      "year": 2000,
+      "date": "2000-02-04",
+      "description": "American actor en:Jeff Bridges, backstage after Yamaha's tribute concert to former Doobie Brother and Steely Dan alumni Michael McDonald in Los Angeles.",
+      "artist": "Ronald Lewis from Denver, Colorado, US",
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "credit": "Cropped from Alan Hedgepeth and Jeff Bridges",
+      "file": "photos/17_then_b58221e9.jpg",
+      "downloaded_size": [
+        186,
+        442
+      ],
+      "anchor": [
+        0.5,
+        0.33
+      ]
+    },
+    "now": {
+      "pageid": 171639944,
+      "title": "File:Jeff Bridges by Gage Skidmore 4.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Jeff_Bridges_by_Gage_Skidmore_4.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Jeff_Bridges_by_Gage_Skidmore_4.jpg",
+      "width": 3324,
+      "height": 4195,
+      "year": 2025,
+      "date": "2025-07-25",
+      "description": "Jeff Bridges speaking at the 2025 San Diego Comic-Con International in San Diego, California.",
+      "artist": "Gage Skidmore",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "credit": "Own work",
+      "file": "photos/17_now_6d86634f.jpg",
+      "downloaded_size": [
+        1280,
+        1615
+      ],
+      "anchor": [
+        0.5,
+        0.33
+      ]
+    },
+    "delta": 25
+  },
+  {
+    "index": 18,
+    "name": "Kevin Bacon",
+    "years": [
+      2004,
+      2025
+    ],
+    "then": {
+      "pageid": 15259657,
+      "title": "File:Kevin Bacon Cannes 2004.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Kevin_Bacon_Cannes_2004.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Kevin_Bacon_Cannes_2004.jpg",
+      "width": 670,
+      "height": 998,
+      "year": 2004,
+      "date": "2004",
+      "description": "Kevin Bacon at the Cannes film festival",
+      "artist": "Georges Biard",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "credit": "Own work",
+      "file": "photos/18_then_129f6db9.jpg",
+      "downloaded_size": [
+        670,
+        998
+      ],
+      "anchor": [
+        0.5,
+        0.33
+      ]
+    },
+    "now": {
+      "pageid": 167647130,
+      "title": "File:Kevin Bacon The Best You Can-55 (cropped).jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Kevin_Bacon_The_Best_You_Can-55_%28cropped%29.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Kevin_Bacon_The_Best_You_Can-55_(cropped).jpg",
+      "width": 2166,
+      "height": 2889,
+      "year": 2025,
+      "date": "2025-06-07 16:31:22",
+      "description": "Kevin Bacon during The Best You Can premiere at the 2025 Tribeca Festival",
+      "artist": "Bryan Berlin",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "Own work",
+      "file": "photos/18_now_81b3eb6f.jpg",
+      "downloaded_size": [
+        1280,
+        1707
+      ],
+      "anchor": [
+        0.5,
+        0.33
+      ]
+    },
+    "delta": 21
+  },
+  {
+    "index": 19,
+    "name": "Samuel L. Jackson",
+    "years": [
+      2008,
+      2024
+    ],
+    "then": {
+      "pageid": 74000250,
+      "title": "File:Samuel L Jackson at San Diego ComicCon 2008 (cropped).jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Samuel_L_Jackson_at_San_Diego_ComicCon_2008_%28cropped%29.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Samuel_L_Jackson_at_San_Diego_ComicCon_2008_(cropped).jpg",
+      "width": 2005,
+      "height": 2306,
+      "year": 2008,
+      "date": "2008-07-25 16:45:12",
+      "description": "Samuel L. Jackson at the San Diego ComicCon 2008",
+      "artist": "pinguino k",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "credit": "originally posted to Flickr as samuel l jackson",
+      "file": "photos/19_then_44c7dbef.jpg",
+      "downloaded_size": [
+        1280,
+        1472
+      ],
+      "anchor": [
+        0.5,
+        0.33
+      ]
+    },
+    "now": {
+      "pageid": 194966972,
+      "title": "File:Samuel L. Jackson attending the World premier of \"Argylle\" in London , January 2024 (cropped).jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Samuel_L._Jackson_attending_the_World_premier_of_%22Argylle%22_in_London_%2C_January_2024_%28cropped%29.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Samuel_L._Jackson_attending_the_World_premier_of_%22Argylle%22_in_London_,_January_2024_(cropped).jpg",
+      "width": 1027,
+      "height": 1373,
+      "year": 2024,
+      "date": "2024-01-24 19:05:13",
+      "description": "Samuel L. Jackson  attending the World premier of \"Argylle\" in London , January 2024",
+      "artist": "Daltoncitys",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "Own work",
+      "file": "photos/19_now_b362e708.jpg",
+      "downloaded_size": [
+        1027,
+        1373
+      ],
+      "anchor": [
+        0.5,
+        0.33
+      ]
+    },
+    "delta": 16
+  },
+  {
+    "index": 20,
+    "name": "Arnold Schwarzenegger",
+    "years": [
+      1984,
+      2025
+    ],
+    "then": {
+      "pageid": 167036950,
+      "title": "File:Arnold Schwarzenegger 1984 (shoulder crop).jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Arnold_Schwarzenegger_1984_%28shoulder_crop%29.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Arnold_Schwarzenegger_1984_(shoulder_crop).jpg",
+      "width": 1655,
+      "height": 2610,
+      "year": 1984,
+      "date": "1984-10-16",
+      "description": "Arnold Schwarzenegger standing with arms crossed in front of some photos of him and posters for movies that he appeared in",
+      "artist": "Mary Frampton, Los Angeles Times",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0",
+      "credit": "https://digital.library.ucla.edu/catalog/ark:/21198/zz0002tpw1",
+      "file": "photos/20_then_a9ad1cf8.jpg",
+      "downloaded_size": [
+        1280,
+        2019
+      ],
+      "anchor": [
+        0.5,
+        0.33
+      ]
+    },
+    "now": {
+      "pageid": 192425135,
+      "title": "File:Arnold Schwarzenegger 2025 (cropped).jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Arnold_Schwarzenegger_2025_%28cropped%29.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Arnold_Schwarzenegger_2025_(cropped).jpg",
+      "width": 978,
+      "height": 1308,
+      "year": 2025,
+      "date": "Taken on 4 July 2025, 11:33:18",
+      "description": "Department of Homeland Security (DHS) Deputy Secretary Troy Edgar administers the oath of allegiance and provides congratulatory remarks, alongside actor and former California Governor Arnold Schwarzenegger, at a USCIS naturalization ceremony held at Mount Vernon in Virginia, July 4th, 2025. (DHS photo by Mikaela McGee)",
+      "artist": "DHSgov",
+      "license": "Public domain",
+      "license_url": "",
+      "credit": "DHS Deputy Secretary Troy Edgar Gives Remarks At Naturalization Ceremony at Mt. Vernon",
+      "file": "photos/20_now_4bda379a.jpg",
+      "downloaded_size": [
+        978,
+        1308
+      ],
+      "anchor": [
+        0.5,
+        0.33
+      ]
+    },
+    "delta": 41
+  },
+  {
+    "index": 21,
+    "name": "Sylvester Stallone",
+    "years": [
+      1985,
+      2025
+    ],
+    "then": {
+      "pageid": 91293465,
+      "title": "File:Sylvester Stallone Brigitte Nielsen (cropped).jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Sylvester_Stallone_Brigitte_Nielsen_%28cropped%29.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Sylvester_Stallone_Brigitte_Nielsen_(cropped).jpg",
+      "width": 2864,
+      "height": 2220,
+      "year": 1985,
+      "date": "Taken on 8 October 1985",
+      "description": "C31323-10, President and Nancy Reagan posing with Sylvester Stallone and Brigitte Nielsen during a state dinner for Prime Minister Lee Kuan Yew of Singapore. 10/8/85.",
+      "artist": "All the photographs are in the public domain and may be credited \"Courtesy Ronald Reagan Library.\" first uploaded by Wikifreund, 9. November 2006 on German Wikipedia",
+      "license": "Public domain",
+      "license_url": "",
+      "credit": "https://catalog.archives.gov/id/75854347 U.S. National Archive",
+      "file": "photos/21_then_23027e3a.jpg",
+      "downloaded_size": [
+        1920,
+        1488
+      ],
+      "anchor": [
+        0.865,
+        0.3
+      ]
+    },
+    "now": {
+      "pageid": 192506094,
+      "title": "File:P20251206DT-0472 (cropped; Sylvester Stallone) (less headroom).jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/P20251206DT-0472_%28cropped%3B_Sylvester_Stallone%29_%28less_headroom%29.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:P20251206DT-0472_(cropped;_Sylvester_Stallone)_(less_headroom).jpg",
+      "width": 488,
+      "height": 617,
+      "year": 2025,
+      "date": "2025-12-06 18:43:24",
+      "description": "President Donald Trump hosts the 2025 Kennedy Center honorees for a medal presentation in the Oval Office, Saturday, December 6, 2025. (Official White House Photo by Daniel Torok)",
+      "artist": "The White House",
+      "license": "Public domain",
+      "license_url": "",
+      "credit": "https://www.flickr.com/photos/202101414@N05/55008310873/",
+      "file": "photos/21_now_b9496c3a.jpg",
+      "downloaded_size": [
+        488,
+        617
+      ],
+      "anchor": [
+        0.5,
+        0.33
+      ]
+    },
+    "delta": 40
+  },
+  {
+    "index": 22,
+    "name": "Nicolas Cage",
+    "years": [
+      2007,
+      2024
+    ],
+    "then": {
+      "pageid": 2181545,
+      "title": "File:Nicolas Cage - KirkWeaver.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Nicolas_Cage_-_KirkWeaver.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Nicolas_Cage_-_KirkWeaver.jpg",
+      "width": 1715,
+      "height": 2109,
+      "year": 2007,
+      "date": "2007-11-21 22:51",
+      "description": "Academy Award-winning actor Nicolas Cage meeting with fans after filming a scene for National Treasure 2 at the University of Maryland.",
+      "artist": "Kirk Weaver",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "credit": "Nicolas Cage",
+      "file": "photos/22_then_5a413c57.jpg",
+      "downloaded_size": [
+        1280,
+        1574
+      ],
+      "anchor": [
+        0.5,
+        0.33
+      ]
+    },
+    "now": {
+      "pageid": 187513871,
+      "title": "File:Alexander Bertrand and Nicolas Cage.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Alexander_Bertrand_and_Nicolas_Cage.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Alexander_Bertrand_and_Nicolas_Cage.jpg",
+      "width": 1170,
+      "height": 1324,
+      "year": 2024,
+      "date": "2024-05-18 23:56:41",
+      "description": "World Premiere of \"The Surfer\" Alexander Bertrand and Nicolas Cage at the 77th annual Cannes Film Festival.",
+      "artist": "Agentcourse4239",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "Own work",
+      "file": "photos/22_now_866d7b70.jpg",
+      "downloaded_size": [
+        1170,
+        1324
+      ],
+      "anchor": [
+        0.75,
+        0.26
+      ]
+    },
+    "delta": 17
+  },
+  {
+    "index": 23,
+    "name": "Hugh Jackman",
+    "years": [
+      2003,
+      2025
+    ],
+    "then": {
+      "pageid": 4672852,
+      "title": "File:Hugh Jackman.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Hugh_Jackman.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Hugh_Jackman.jpg",
+      "width": 579,
+      "height": 693,
+      "year": 2003,
+      "date": "2003-10-25 03:56",
+      "description": "Image from Flickr, cropped.",
+      "artist": "Phil Guest from Bournemouth, UK",
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "credit": "Hugh Jackman",
+      "file": "photos/23_then_2b1e9704.jpg",
+      "downloaded_size": [
+        500,
+        598
+      ],
+      "anchor": [
+        0.5,
+        0.33
+      ]
+    },
+    "now": {
+      "pageid": 176541081,
+      "title": "File:Hugh Jackman Is This Thing On-68 (cropped).jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Hugh_Jackman_Is_This_Thing_On-68_%28cropped%29.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Hugh_Jackman_Is_This_Thing_On-68_(cropped).jpg",
+      "width": 2513,
+      "height": 3350,
+      "year": 2025,
+      "date": "2025-10-10 17:41:28",
+      "description": "Hugh Jackman at the 63rd annual New York Film Festival at Lincoln Center in 2025 for the film Is This Thing On?",
+      "artist": "Bryan Berlin",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "Own work",
+      "file": "photos/23_now_4283c784.jpg",
+      "downloaded_size": [
+        1280,
+        1706
+      ],
+      "anchor": [
+        0.5,
+        0.33
+      ]
+    },
+    "delta": 22
+  },
+  {
+    "index": 24,
+    "name": "Christian Bale",
+    "years": [
+      1988,
+      2022
+    ],
+    "then": {
+      "pageid": 1312900,
+      "title": "File:Ch Bale 02.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Ch_Bale_02.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Ch_Bale_02.jpg",
+      "width": 768,
+      "height": 1024,
+      "year": 1988,
+      "date": "1988-02",
+      "description": "Christian Bale in Sweden to promote \"Empire of the sun\"",
+      "artist": "Towpilot",
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "credit": "Own work",
+      "file": "photos/24_then_2cd49f4a.jpg",
+      "downloaded_size": [
+        768,
+        1024
+      ],
+      "anchor": [
+        0.5,
+        0.33
+      ]
+    },
+    "now": {
+      "pageid": 165496879,
+      "title": "File:Christian Bale in 2022.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Christian_Bale_in_2022.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Christian_Bale_in_2022.jpg",
+      "width": 1257,
+      "height": 1776,
+      "year": 2022,
+      "date": "2022-10-05 20:00:00",
+      "description": "Christian Bale, an English actor, participates in an interview about his new movie, “Amsterdam,” at the Pendleton Theater & Training Center on MCB Camp Pendleton, Oct. 06, 2022. Amsterdam highlights the importance of camaraderie between service members to overcome adversity. (U.S. Marine Corps photo by Lance Cpl. Hope Straley)",
+      "artist": "Lance Cpl. Hope Straley",
+      "license": "Public domain",
+      "license_url": "",
+      "credit": "https://www.dvidshub.net/image/7454878/marine-corps-base-camp-pendleton-screens-amsterdam",
+      "file": "photos/24_now_20e23c88.jpg",
+      "downloaded_size": [
+        500,
+        706
+      ],
+      "anchor": [
+        0.5,
+        0.33
+      ]
+    },
+    "delta": 34
+  },
+  {
+    "index": 25,
+    "name": "Ryan Reynolds",
+    "years": [
+      2007,
+      2025
+    ],
+    "then": {
+      "pageid": 12148177,
+      "title": "File:Ryan reynolds-2.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Ryan_reynolds-2.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Ryan_reynolds-2.jpg",
+      "width": 548,
+      "height": 730,
+      "year": 2007,
+      "date": "2007-04-26",
+      "description": "Ryan Reynolds on set",
+      "artist": "Bananaa88",
+      "license": "Public domain",
+      "license_url": "",
+      "credit": "Own work",
+      "file": "photos/25_then_80e227bb.jpg",
+      "downloaded_size": [
+        500,
+        666
+      ],
+      "anchor": [
+        0.5,
+        0.33
+      ]
+    },
+    "now": {
+      "pageid": 175141218,
+      "title": "File:Ryan Reynolds at the 2025 Toronto International Film Festival (cropped).jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Ryan_Reynolds_at_the_2025_Toronto_International_Film_Festival_%28cropped%29.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Ryan_Reynolds_at_the_2025_Toronto_International_Film_Festival_(cropped).jpg",
+      "width": 1642,
+      "height": 2461,
+      "year": 2025,
+      "date": "2025-09-04 19:37:48",
+      "description": "Ryan Reynolds shows off a John Candy Inspired suit at the 2025 Toronto International Film Festival",
+      "artist": "Gabriel Hutchinson",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "Own work",
+      "file": "photos/25_now_0c5a99f5.jpg",
+      "downloaded_size": [
+        1280,
+        1918
+      ],
+      "anchor": [
+        0.5,
+        0.33
+      ]
+    },
+    "delta": 18
+  },
+  {
+    "index": 26,
+    "name": "Ryan Gosling",
+    "years": [
+      2007,
+      2023
+    ],
+    "then": {
+      "pageid": 5202187,
+      "title": "File:RyanGosling07TIFF.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/RyanGosling07TIFF.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:RyanGosling07TIFF.jpg",
+      "width": 374,
+      "height": 763,
+      "year": 2007,
+      "date": "September 2007; uploaded October 28, 2007",
+      "description": "Ryan Gosling at the 2007 Toronto International Film Festival",
+      "artist": "gdcgraphics at https://www.flickr.com/photos/gdcgraphics/",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "credit": "https://www.flickr.com/photos/gdcgraphics/1796364568/in/set-72157602744288487/",
+      "file": "photos/26_then_5c03064a.jpg",
+      "downloaded_size": [
+        374,
+        763
+      ],
+      "anchor": [
+        0.5,
+        0.33
+      ]
+    },
+    "now": {
+      "pageid": 142502212,
+      "title": "File:GoslingBFI081223 (22 of 30) (53388157347) (cropped).jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/62/GoslingBFI081223_%2822_of_30%29_%2853388157347%29_%28cropped%29.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:GoslingBFI081223_(22_of_30)_(53388157347)_(cropped).jpg",
+      "width": 972,
+      "height": 1294,
+      "year": 2023,
+      "date": "2023-12-08 15:45",
+      "description": "Ryan Gosling & America Ferrera In Conversation \"Barbie\" Q&A- BFI Southbank - Friday 8th December 2023",
+      "artist": "Raph_PH",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "credit": "GoslingBFI081223 (22 of 30)",
+      "file": "photos/26_now_2fff139f.jpg",
+      "downloaded_size": [
+        500,
+        666
+      ],
+      "anchor": [
+        0.5,
+        0.33
+      ]
+    },
+    "delta": 16
+  },
+  {
+    "index": 27,
+    "name": "Jake Gyllenhaal",
+    "years": [
+      2005,
+      2025
+    ],
+    "then": {
+      "pageid": 2051784,
+      "title": "File:Jake Gyllenhaal at Proof opening.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Jake_Gyllenhaal_at_Proof_opening.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Jake_Gyllenhaal_at_Proof_opening.jpg",
+      "width": 292,
+      "height": 383,
+      "year": 2005,
+      "date": "2005-09-04",
+      "description": "Jake Gyllenhaal at Proof opening.",
+      "artist": "sheksays",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "credit": "Corp from photograph on Flickr.",
+      "file": "photos/27_then_a9606229.jpg",
+      "downloaded_size": [
+        292,
+        383
+      ],
+      "anchor": [
+        0.5,
+        0.33
+      ]
+    },
+    "now": {
+      "pageid": 196283699,
+      "title": "File:JakeGyllenhaal-byPhilipRomano.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/JakeGyllenhaal-byPhilipRomano.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:JakeGyllenhaal-byPhilipRomano.jpg",
+      "width": 1200,
+      "height": 1535,
+      "year": 2025,
+      "date": "2025-06-02 20:01:13",
+      "description": "Jake Gyllenhaal at the unveiling of Denzel's Sardi's portrait, 2025",
+      "artist": "PhilipRomanoPhoto",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0",
+      "credit": "Own work",
+      "file": "photos/27_now_f4ea7837.jpg",
+      "downloaded_size": [
+        500,
+        640
+      ],
+      "anchor": [
+        0.5,
+        0.33
+      ]
+    },
+    "delta": 20
+  },
+  {
+    "index": 28,
+    "name": "Matthew McConaughey",
+    "years": [
+      2004,
+      2025
+    ],
+    "then": {
+      "pageid": 20298092,
+      "title": "File:Matthew McConaughey at M-A-D.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Matthew_McConaughey_at_M-A-D.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Matthew_McConaughey_at_M-A-D.jpg",
+      "width": 240,
+      "height": 388,
+      "year": 2004,
+      "date": "2004-06-17",
+      "description": "Matthew McConaughey joined us for the day at Managing Australian Destinations!",
+      "artist": "Managing-Australian-Destinations",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "credit": "Own work",
+      "file": "photos/28_then_a1e40ab7.jpg",
+      "downloaded_size": [
+        240,
+        388
+      ],
+      "anchor": [
+        0.5,
+        0.33
+      ]
+    },
+    "now": {
+      "pageid": 174605971,
+      "title": "File:Matthew McConaughey at the 2025 Toronto Film Festival (Cropped).jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Matthew_McConaughey_at_the_2025_Toronto_Film_Festival_%28Cropped%29.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Matthew_McConaughey_at_the_2025_Toronto_Film_Festival_(Cropped).jpg",
+      "width": 2309,
+      "height": 3464,
+      "year": 2025,
+      "date": "2025-09-05",
+      "description": "A cropped version of File:Matthew McConaughey at the 2025 Toronto Film Festival.jpg",
+      "artist": "Gabriel Hutchinson",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "A cropped version of File:Matthew McConaughey at the 2025 Toronto Film Festival.jpg",
+      "file": "photos/28_now_b548c1cb.jpg",
+      "downloaded_size": [
+        1280,
+        1920
+      ],
+      "anchor": [
+        0.5,
+        0.33
+      ]
+    },
+    "delta": 21
+  },
+  {
+    "index": 29,
+    "name": "Ewan McGregor",
+    "years": [
+      2001,
+      2024
+    ],
+    "then": {
+      "pageid": 395764,
+      "title": "File:EwanMCGREGOR1(CannesPH).jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/EwanMCGREGOR1%28CannesPH%29.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:EwanMCGREGOR1(CannesPH).jpg",
+      "width": 198,
+      "height": 317,
+      "year": 2001,
+      "date": "31 October 2005 (original upload date)",
+      "description": "McGregor Ewan at Cannes in 2001. My own picture.\n\nCreated by Rita Molnár 2001.",
+      "artist": "Nikita",
+      "license": "CC BY-SA 2.5",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.5",
+      "credit": "Own work",
+      "file": "photos/29_then_ce98bfe1.jpg",
+      "downloaded_size": [
+        198,
+        317
+      ],
+      "anchor": [
+        0.5,
+        0.33
+      ]
+    },
+    "now": {
+      "pageid": 175829841,
+      "title": "File:Ewan McGregor - Los Angeles Comic Con 2024.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Ewan_McGregor_-_Los_Angeles_Comic_Con_2024.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Ewan_McGregor_-_Los_Angeles_Comic_Con_2024.jpg",
+      "width": 1600,
+      "height": 2000,
+      "year": 2024,
+      "date": "2024-10-05 16:43:28",
+      "description": "Ewan McGregor at Los Angeles Comic Con 2024",
+      "artist": "Kevin Paul",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0",
+      "credit": "Own work",
+      "file": "photos/29_now_a5bde217.jpg",
+      "downloaded_size": [
+        1280,
+        1600
+      ],
+      "anchor": [
+        0.5,
+        0.33
+      ]
+    },
+    "delta": 23
+  }
+]

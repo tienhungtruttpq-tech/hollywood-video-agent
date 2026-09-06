@@ -1,0 +1,902 @@
+{
+  "00_then": {
+    "source": "photos/00_then_9f5699ce.jpg",
+    "size": [
+      669,
+      1024
+    ],
+    "box": [
+      85.0,
+      62.0,
+      486.99999999999994,
+      485.0
+    ],
+    "method": "manual review",
+    "manual": true
+  },
+  "00_now": {
+    "source": "photos/00_now_9cb9ac4b.jpg",
+    "size": [
+      960,
+      961
+    ],
+    "box": [
+      0,
+      0,
+      960,
+      961
+    ],
+    "method": "manual review",
+    "manual": true
+  },
+  "01_then": {
+    "source": "photos/01_then_02972e7d.jpg",
+    "size": [
+      366,
+      489
+    ],
+    "box": [
+      0,
+      0,
+      366,
+      410
+    ],
+    "method": "manual review",
+    "manual": true
+  },
+  "01_now": {
+    "source": "photos/01_now_24465eee.jpg",
+    "size": [
+      500,
+      614
+    ],
+    "box": [
+      0,
+      0,
+      500,
+      585
+    ],
+    "method": "manual review",
+    "manual": true
+  },
+  "02_then": {
+    "source": "photos/02_then_5f11b8b2.jpg",
+    "size": [
+      500,
+      672
+    ],
+    "box": [
+      0,
+      0,
+      500,
+      500
+    ],
+    "method": "manual review",
+    "manual": true
+  },
+  "02_now": {
+    "source": "photos/02_now_5da195e9.jpg",
+    "size": [
+      2400,
+      1716
+    ],
+    "box": [
+      662.5,
+      187.47268754552076,
+      1393.75,
+      1162.3306627822287
+    ],
+    "method": "manual review",
+    "manual": true
+  },
+  "03_then": {
+    "source": "photos/03_then_07575c1f.jpg",
+    "size": [
+      419,
+      545
+    ],
+    "box": [
+      139.95,
+      30.930000000000007,
+      373.05,
+      264.03000000000003
+    ],
+    "method": "manual review",
+    "manual": true
+  },
+  "03_now": {
+    "source": "photos/03_now_d217ea2d.jpg",
+    "size": [
+      1280,
+      1707
+    ],
+    "box": [
+      0,
+      0,
+      1280,
+      1600.0
+    ],
+    "method": "manual review",
+    "manual": true
+  },
+  "04_then": {
+    "source": "photos/04_then_9592bfcf.jpg",
+    "size": [
+      478,
+      741
+    ],
+    "box": [
+      50,
+      0,
+      478,
+      520
+    ],
+    "method": "manual review",
+    "manual": true
+  },
+  "04_now": {
+    "source": "photos/04_now_7317d4a5.jpg",
+    "size": [
+      1280,
+      1707
+    ],
+    "box": [
+      0,
+      0,
+      1280,
+      1600.0
+    ],
+    "method": "manual review",
+    "manual": true
+  },
+  "05_then": {
+    "source": "photos/05_then_814cd4c0.jpg",
+    "size": [
+      448,
+      604
+    ],
+    "box": [
+      0,
+      60.06000000000003,
+      340.2,
+      400.26
+    ],
+    "method": "manual review",
+    "manual": true
+  },
+  "05_now": {
+    "source": "photos/05_now_b9d7b2c0.jpg",
+    "size": [
+      650,
+      797
+    ],
+    "box": [
+      0,
+      0,
+      650,
+      797
+    ],
+    "method": "manual review",
+    "manual": true
+  },
+  "06_then": {
+    "source": "photos/06_then_c52c4c60.jpg",
+    "size": [
+      604,
+      691
+    ],
+    "box": [
+      80,
+      35,
+      510,
+      555
+    ],
+    "method": "manual review",
+    "manual": true
+  },
+  "06_now": {
+    "source": "photos/06_now_2dd215a2.jpg",
+    "size": [
+      1280,
+      1792
+    ],
+    "box": [
+      0,
+      0,
+      1280,
+      1600.0
+    ],
+    "method": "manual review",
+    "manual": true
+  },
+  "07_then": {
+    "source": "photos/07_then_dd6bdea2.jpg",
+    "size": [
+      363,
+      526
+    ],
+    "box": [
+      0,
+      98.13999999999999,
+      363,
+      461.14
+    ],
+    "method": "manual review",
+    "manual": true
+  },
+  "07_now": {
+    "source": "photos/07_now_71c52658.jpg",
+    "size": [
+      1280,
+      1706
+    ],
+    "box": [
+      0,
+      0,
+      1280,
+      1600.0
+    ],
+    "method": "manual review",
+    "manual": true
+  },
+  "08_then": {
+    "source": "photos/08_then_09f71db0.jpg",
+    "size": [
+      200,
+      300
+    ],
+    "box": [
+      0,
+      58.28,
+      200,
+      258.28
+    ],
+    "method": "manual review",
+    "manual": true
+  },
+  "08_now": {
+    "source": "photos/08_now_0accf518.jpg",
+    "size": [
+      1280,
+      1707
+    ],
+    "box": [
+      0,
+      0,
+      1280,
+      1600.0
+    ],
+    "method": "manual review",
+    "manual": true
+  },
+  "09_then": {
+    "source": "photos/09_then_0032084a.jpg",
+    "size": [
+      1149,
+      1687
+    ],
+    "box": [
+      0,
+      230.87075268817216,
+      1149,
+      1379.8707526881722
+    ],
+    "method": "manual review",
+    "manual": true
+  },
+  "09_now": {
+    "source": "photos/09_now_19a3d581.jpg",
+    "size": [
+      1212,
+      1507
+    ],
+    "box": [
+      0,
+      0,
+      1212,
+      1507
+    ],
+    "method": "manual review",
+    "manual": true
+  },
+  "10_then": {
+    "source": "photos/10_then_567dee22.jpg",
+    "size": [
+      558,
+      775
+    ],
+    "box": [
+      80,
+      0,
+      528,
+      540
+    ],
+    "method": "manual review",
+    "manual": true
+  },
+  "10_now": {
+    "source": "photos/10_now_c5391b82.jpg",
+    "size": [
+      1920,
+      1280
+    ],
+    "box": [
+      570,
+      230,
+      1230,
+      890
+    ],
+    "method": "manual review",
+    "manual": true
+  },
+  "11_then": {
+    "source": "photos/11_then_5f248abf.jpg",
+    "size": [
+      1280,
+      1854
+    ],
+    "box": [
+      60,
+      50,
+      1110,
+      1320
+    ],
+    "method": "manual review",
+    "manual": true
+  },
+  "11_now": {
+    "source": "photos/11_now_483125c8.jpg",
+    "size": [
+      1280,
+      1920
+    ],
+    "box": [
+      0,
+      0,
+      1280,
+      1600.0
+    ],
+    "method": "manual review",
+    "manual": true
+  },
+  "12_then": {
+    "source": "photos/12_then_215fd8bf.jpg",
+    "size": [
+      502,
+      665
+    ],
+    "box": [
+      0,
+      0,
+      502,
+      502
+    ],
+    "method": "manual review",
+    "manual": true
+  },
+  "12_now": {
+    "source": "photos/12_now_124a09f7.jpg",
+    "size": [
+      1280,
+      1600
+    ],
+    "box": [
+      0,
+      0,
+      1280,
+      1450
+    ],
+    "method": "manual review",
+    "manual": true
+  },
+  "13_then": {
+    "source": "photos/13_then_44b060db.jpg",
+    "size": [
+      231,
+      306
+    ],
+    "box": [
+      0,
+      0,
+      231,
+      231
+    ],
+    "method": "manual review",
+    "manual": true
+  },
+  "13_now": {
+    "source": "photos/13_now_8faea47a.jpg",
+    "size": [
+      1280,
+      1708
+    ],
+    "box": [
+      0,
+      0,
+      1280,
+      1600.0
+    ],
+    "method": "manual review",
+    "manual": true
+  },
+  "14_then": {
+    "source": "photos/14_then_bd2f5760.jpg",
+    "size": [
+      1254,
+      1671
+    ],
+    "box": [
+      0,
+      337.78478048780494,
+      1254,
+      1591.784780487805
+    ],
+    "method": "manual review",
+    "manual": true
+  },
+  "14_now": {
+    "source": "photos/14_now_d5eaa15b.jpg",
+    "size": [
+      1280,
+      1709
+    ],
+    "box": [
+      0,
+      0,
+      1280,
+      1600.0
+    ],
+    "method": "manual review",
+    "manual": true
+  },
+  "15_then": {
+    "source": "photos/15_then_54bf8e77.jpg",
+    "size": [
+      333,
+      523
+    ],
+    "box": [
+      0,
+      148.94,
+      333,
+      481.94
+    ],
+    "method": "manual review",
+    "manual": true
+  },
+  "15_now": {
+    "source": "photos/15_now_b7f96eac.jpg",
+    "size": [
+      1280,
+      1795
+    ],
+    "box": [
+      0,
+      0,
+      1280,
+      1600.0
+    ],
+    "method": "manual review",
+    "manual": true
+  },
+  "16_then": {
+    "source": "photos/16_then_60271061.jpg",
+    "size": [
+      1280,
+      1915
+    ],
+    "box": [
+      257.40145985401466,
+      107.16496350364957,
+      1120.7007299270072,
+      970.4642335766422
+    ],
+    "method": "manual review",
+    "manual": true
+  },
+  "16_now": {
+    "source": "photos/16_now_d7e7acb6.jpg",
+    "size": [
+      1280,
+      1705
+    ],
+    "box": [
+      121.14285714285711,
+      149.65194805194812,
+      1229.5064935064934,
+      1258.0155844155843
+    ],
+    "method": "manual review",
+    "manual": true
+  },
+  "17_then": {
+    "source": "photos/17_then_b58221e9.jpg",
+    "size": [
+      186,
+      442
+    ],
+    "box": [
+      0,
+      41.48000000000002,
+      186,
+      227.48000000000002
+    ],
+    "method": "manual review",
+    "manual": true
+  },
+  "17_now": {
+    "source": "photos/17_now_6d86634f.jpg",
+    "size": [
+      1280,
+      1615
+    ],
+    "box": [
+      0,
+      57.65907692307701,
+      1280,
+      1337.659076923077
+    ],
+    "method": "manual review",
+    "manual": true
+  },
+  "18_then": {
+    "source": "photos/18_then_129f6db9.jpg",
+    "size": [
+      670,
+      998
+    ],
+    "box": [
+      142.8157894736842,
+      183.6480943738657,
+      605.0063520871144,
+      645.8386569872958
+    ],
+    "method": "manual review",
+    "manual": true
+  },
+  "18_now": {
+    "source": "photos/18_now_81b3eb6f.jpg",
+    "size": [
+      1280,
+      1707
+    ],
+    "box": [
+      0,
+      0,
+      1280,
+      1600.0
+    ],
+    "method": "manual review",
+    "manual": true
+  },
+  "19_then": {
+    "source": "photos/19_then_44c7dbef.jpg",
+    "size": [
+      1280,
+      1472
+    ],
+    "box": [
+      0,
+      119.31151515151521,
+      1280,
+      1399.3115151515153
+    ],
+    "method": "manual review",
+    "manual": true
+  },
+  "19_now": {
+    "source": "photos/19_now_b362e708.jpg",
+    "size": [
+      1027,
+      1373
+    ],
+    "box": [
+      232.20587275693305,
+      157.21644371941278,
+      823.2753670473082,
+      748.285938009788
+    ],
+    "method": "manual review",
+    "manual": true
+  },
+  "20_then": {
+    "source": "photos/20_then_a9ad1cf8.jpg",
+    "size": [
+      1280,
+      2019
+    ],
+    "box": [
+      0,
+      281.10769230769233,
+      1280,
+      1561.1076923076923
+    ],
+    "method": "manual review",
+    "manual": true
+  },
+  "20_now": {
+    "source": "photos/20_now_4bda379a.jpg",
+    "size": [
+      978,
+      1308
+    ],
+    "box": [
+      0,
+      0,
+      978,
+      1308
+    ],
+    "method": "manual review",
+    "manual": true
+  },
+  "21_then": {
+    "source": "photos/21_then_23027e3a.jpg",
+    "size": [
+      1920,
+      1488
+    ],
+    "box": [
+      1214.109090909091,
+      47.389090909090896,
+      1721.1636363636367,
+      554.4436363636364
+    ],
+    "method": "manual review",
+    "manual": true
+  },
+  "21_now": {
+    "source": "photos/21_now_b9496c3a.jpg",
+    "size": [
+      488,
+      617
+    ],
+    "box": [
+      0,
+      0,
+      488,
+      520
+    ],
+    "method": "manual review",
+    "manual": true
+  },
+  "22_then": {
+    "source": "photos/22_then_5a413c57.jpg",
+    "size": [
+      1280,
+      1574
+    ],
+    "box": [
+      0,
+      294,
+      1280,
+      1574
+    ],
+    "method": "manual review",
+    "manual": true
+  },
+  "22_now": {
+    "source": "photos/22_now_866d7b70.jpg",
+    "size": [
+      1170,
+      1324
+    ],
+    "box": [
+      664.5954545454545,
+      193.68818181818176,
+      1044.3136363636363,
+      573.4063636363636
+    ],
+    "method": "manual review",
+    "manual": true
+  },
+  "23_then": {
+    "source": "photos/23_then_2b1e9704.jpg",
+    "size": [
+      500,
+      598
+    ],
+    "box": [
+      0,
+      0,
+      500,
+      500
+    ],
+    "method": "manual review",
+    "manual": true
+  },
+  "23_now": {
+    "source": "photos/23_now_4283c784.jpg",
+    "size": [
+      1280,
+      1706
+    ],
+    "box": [
+      0,
+      0,
+      1280,
+      1600.0
+    ],
+    "method": "manual review",
+    "manual": true
+  },
+  "24_then": {
+    "source": "photos/24_then_2cd49f4a.jpg",
+    "size": [
+      768,
+      1024
+    ],
+    "box": [
+      25.537560975609722,
+      105.43453658536589,
+      709.9941463414634,
+      789.8911219512196
+    ],
+    "method": "manual review",
+    "manual": true
+  },
+  "24_now": {
+    "source": "photos/24_now_20e23c88.jpg",
+    "size": [
+      500,
+      706
+    ],
+    "box": [
+      0,
+      0,
+      500,
+      540
+    ],
+    "method": "manual review",
+    "manual": true
+  },
+  "25_then": {
+    "source": "photos/25_then_80e227bb.jpg",
+    "size": [
+      500,
+      666
+    ],
+    "box": [
+      0,
+      0,
+      500,
+      615
+    ],
+    "method": "manual review",
+    "manual": true
+  },
+  "25_now": {
+    "source": "photos/25_now_0c5a99f5.jpg",
+    "size": [
+      1280,
+      1918
+    ],
+    "box": [
+      0,
+      0,
+      1280,
+      1600.0
+    ],
+    "method": "manual review",
+    "manual": true
+  },
+  "26_then": {
+    "source": "photos/26_then_5c03064a.jpg",
+    "size": [
+      374,
+      763
+    ],
+    "box": [
+      0,
+      53.72000000000003,
+      374,
+      427.72
+    ],
+    "method": "manual review",
+    "manual": true
+  },
+  "26_now": {
+    "source": "photos/26_now_2fff139f.jpg",
+    "size": [
+      500,
+      666
+    ],
+    "box": [
+      0,
+      0,
+      500,
+      625.0
+    ],
+    "method": "manual review",
+    "manual": true
+  },
+  "27_then": {
+    "source": "photos/27_then_a9606229.jpg",
+    "size": [
+      292,
+      383
+    ],
+    "box": [
+      0,
+      32.24000000000001,
+      292,
+      324.24
+    ],
+    "method": "manual review",
+    "manual": true
+  },
+  "27_now": {
+    "source": "photos/27_now_f4ea7837.jpg",
+    "size": [
+      500,
+      640
+    ],
+    "box": [
+      0,
+      0,
+      500,
+      625.0
+    ],
+    "method": "manual review",
+    "manual": true
+  },
+  "28_then": {
+    "source": "photos/28_then_a1e40ab7.jpg",
+    "size": [
+      240,
+      388
+    ],
+    "box": [
+      0,
+      3.160000000000011,
+      240,
+      243.16000000000003
+    ],
+    "method": "manual review",
+    "manual": true
+  },
+  "28_now": {
+    "source": "photos/28_now_b548c1cb.jpg",
+    "size": [
+      1280,
+      1920
+    ],
+    "box": [
+      0,
+      0,
+      1280,
+      1600.0
+    ],
+    "method": "manual review",
+    "manual": true
+  },
+  "29_then": {
+    "source": "photos/29_then_ce98bfe1.jpg",
+    "size": [
+      198,
+      317
+    ],
+    "box": [
+      0,
+      1.8799999999999955,
+      198,
+      199.88
+    ],
+    "method": "manual review",
+    "manual": true
+  },
+  "29_now": {
+    "source": "photos/29_now_a5bde217.jpg",
+    "size": [
+      1280,
+      1600
+    ],
+    "box": [
+      0,
+      0,
+      1280,
+      1600
+    ],
+    "method": "manual review",
+    "manual": true
+  }
+}

@@ -1,0 +1,540 @@
+{
+  "parts": [
+    {
+      "id": "intro",
+      "text": "Thirty Hollywood stars. Sixty photographs. Decades of movie memories. See how familiar faces change across time. Then, and now.",
+      "caption": "Thirty Hollywood stars. Sixty photographs. Decades of movie memories. See how familiar faces change across time. Then, and now.",
+      "start": 0.0,
+      "duration": 10.0
+    },
+    {
+      "id": "actor_00",
+      "actor": 0,
+      "name": "Tom Cruise",
+      "text": "Tom Cruise, photographed in nineteen eighty-nine and twenty twenty-five. Thirty-six years apart. Top Gun and Mission Impossible helped define a career built around big-screen adventure.",
+      "caption": "Tom Cruise, photographed in 1989 and 2025. Thirty-six years apart. Top Gun and Mission: Impossible helped define a career built around big-screen adventure.",
+      "start": 10.0,
+      "duration": 15.0,
+      "films": [
+        "Top Gun",
+        "Mission: Impossible"
+      ],
+      "chapter": "FAMILIAR FACES"
+    },
+    {
+      "id": "actor_01",
+      "actor": 1,
+      "name": "Leonardo DiCaprio",
+      "text": "Leonardo DiCaprio, in two thousand and twenty twenty-five. A quarter century separates these portraits. From Titanic to Inception, his screen career has moved between romance, suspense and spectacle.",
+      "caption": "Leonardo DiCaprio, in 2000 and 2025. A quarter century separates these portraits. From Titanic to Inception, his screen career has moved between romance, suspense and spectacle.",
+      "start": 25.0,
+      "duration": 15.0,
+      "films": [
+        "Titanic",
+        "Inception"
+      ],
+      "chapter": "FAMILIAR FACES"
+    },
+    {
+      "id": "actor_02",
+      "actor": 2,
+      "name": "Tom Hanks",
+      "text": "Tom Hanks, in nineteen eighty-nine and twenty twenty-four. Thirty-five years between photographs. From Big to Forrest Gump, he has brought warmth, humor and dramatic weight to unforgettable characters.",
+      "caption": "Tom Hanks, in 1989 and 2024. Thirty-five years between photographs. From Big to Forrest Gump, he has brought warmth, humor and dramatic weight to unforgettable characters.",
+      "start": 40.0,
+      "duration": 15.0,
+      "films": [
+        "Big",
+        "Forrest Gump"
+      ],
+      "chapter": "FAMILIAR FACES"
+    },
+    {
+      "id": "actor_03",
+      "actor": 3,
+      "name": "Brad Pitt",
+      "text": "Brad Pitt, in two thousand one and twenty twenty-four. Twenty-three years apart. Fight Club and Ocean's Eleven show two very different sides of his long screen career.",
+      "caption": "Brad Pitt, in 2001 and 2024. Twenty-three years apart. Fight Club and Ocean's Eleven show two very different sides of his long screen career.",
+      "start": 55.0,
+      "duration": 15.0,
+      "films": [
+        "Fight Club",
+        "Ocean's Eleven"
+      ],
+      "chapter": "FAMILIAR FACES"
+    },
+    {
+      "id": "actor_04",
+      "actor": 4,
+      "name": "Keanu Reeves",
+      "text": "Keanu Reeves, in two thousand six and twenty twenty-five. Nineteen years between photographs. From The Matrix to John Wick, his quiet screen presence has powered some very memorable action.",
+      "caption": "Keanu Reeves, in 2006 and 2025. Nineteen years between photographs. From The Matrix to John Wick, his quiet screen presence has powered some very memorable action.",
+      "start": 70.0,
+      "duration": 15.0,
+      "films": [
+        "The Matrix",
+        "John Wick"
+      ],
+      "chapter": "FAMILIAR FACES"
+    },
+    {
+      "id": "actor_05",
+      "actor": 5,
+      "name": "Johnny Depp",
+      "text": "Johnny Depp, in nineteen ninety-two and twenty twenty-three. Thirty-one years apart. Edward Scissorhands and Captain Jack Sparrow reveal a career shaped by distinctive costumes, characters and transformations.",
+      "caption": "Johnny Depp, in 1992 and 2023. Thirty-one years apart. Edward Scissorhands and Captain Jack Sparrow reveal a career shaped by distinctive costumes, characters and transformations.",
+      "start": 85.0,
+      "duration": 15.0,
+      "films": [
+        "Edward Scissorhands",
+        "Jack Sparrow"
+      ],
+      "chapter": "SIGNATURE LEADING MEN"
+    },
+    {
+      "id": "actor_06",
+      "actor": 6,
+      "name": "Denzel Washington",
+      "text": "Denzel Washington, in nineteen ninety and twenty twenty-five. Thirty-five years between these appearances. Glory, Malcolm X and Training Day are landmarks in a career known for commanding performances.",
+      "caption": "Denzel Washington, in 1990 and 2025. Thirty-five years between these appearances. Glory, Malcolm X and Training Day are landmarks in a career known for commanding performances.",
+      "start": 100.0,
+      "duration": 15.0,
+      "films": [
+        "Glory",
+        "Malcolm X",
+        "Training Day"
+      ],
+      "chapter": "SIGNATURE LEADING MEN"
+    },
+    {
+      "id": "actor_07",
+      "actor": 7,
+      "name": "George Clooney",
+      "text": "George Clooney, in nineteen ninety-five and twenty twenty-five. Three decades between portraits. Ocean's Eleven and The Descendants show the charm and dramatic range behind his familiar leading-man image.",
+      "caption": "George Clooney, in 1995 and 2025. Three decades between portraits. Ocean's Eleven and The Descendants show the charm and dramatic range behind his familiar leading-man image.",
+      "start": 115.0,
+      "duration": 15.0,
+      "films": [
+        "Ocean's Eleven",
+        "The Descendants"
+      ],
+      "chapter": "SIGNATURE LEADING MEN"
+    },
+    {
+      "id": "actor_08",
+      "actor": 8,
+      "name": "Matt Damon",
+      "text": "Matt Damon, in two thousand one and twenty twenty-four. Twenty-three years apart. From Good Will Hunting to the Bourne films, intelligence and determination have shaped many of his characters.",
+      "caption": "Matt Damon, in 2001 and 2024. Twenty-three years apart. From Good Will Hunting to the Bourne films, intelligence and determination have shaped many of his characters.",
+      "start": 130.0,
+      "duration": 15.0,
+      "films": [
+        "Good Will Hunting",
+        "Bourne"
+      ],
+      "chapter": "SIGNATURE LEADING MEN"
+    },
+    {
+      "id": "actor_09",
+      "actor": 9,
+      "name": "Ben Affleck",
+      "text": "Ben Affleck, in nineteen ninety-eight and twenty twenty-three. A twenty-five-year comparison. Good Will Hunting and Argo mark different chapters in a career spent both acting and directing.",
+      "caption": "Ben Affleck, in 1998 and 2023. A twenty-five-year comparison. Good Will Hunting and Argo mark different chapters in a career spent both acting and directing.",
+      "start": 145.0,
+      "duration": 15.0,
+      "films": [
+        "Good Will Hunting",
+        "Argo"
+      ],
+      "chapter": "SIGNATURE LEADING MEN"
+    },
+    {
+      "id": "actor_10",
+      "actor": 10,
+      "name": "Will Smith",
+      "text": "Will Smith, in nineteen ninety-three and twenty twenty-five. Thirty-two years apart. From The Fresh Prince to Men in Black, his career connects television, movies and music.",
+      "caption": "Will Smith, in 1993 and 2025. Thirty-two years apart. From The Fresh Prince to Men in Black, his career connects television, movies and music.",
+      "start": 160.0,
+      "duration": 15.0,
+      "films": [
+        "The Fresh Prince of Bel-Air",
+        "Men in Black"
+      ],
+      "chapter": "SCREEN ORIGINALS"
+    },
+    {
+      "id": "actor_11",
+      "actor": 11,
+      "name": "Robert Downey Jr.",
+      "text": "Robert Downey Junior, in nineteen ninety and twenty twenty-six. Thirty-six years separate these portraits. Iron Man and Sherlock Holmes made his quick wit and expressive performances familiar to worldwide audiences.",
+      "caption": "Robert Downey Jr., in 1990 and 2026. Thirty-six years separate these portraits. Iron Man and Sherlock Holmes made his quick wit and expressive performances familiar to worldwide audiences.",
+      "start": 175.0,
+      "duration": 15.0,
+      "films": [
+        "Iron Man",
+        "Sherlock Holmes"
+      ],
+      "chapter": "SCREEN ORIGINALS"
+    },
+    {
+      "id": "actor_12",
+      "actor": 12,
+      "name": "Harrison Ford",
+      "text": "Harrison Ford, in two thousand seven and twenty twenty-five. Eighteen years apart. From Han Solo to Indiana Jones, his characters have become enduring symbols of big-screen adventure.",
+      "caption": "Harrison Ford, in 2007 and 2025. Eighteen years apart. From Han Solo to Indiana Jones, his characters have become enduring symbols of big-screen adventure.",
+      "start": 190.0,
+      "duration": 15.0,
+      "films": [
+        "Han Solo",
+        "Indiana Jones"
+      ],
+      "chapter": "SCREEN ORIGINALS"
+    },
+    {
+      "id": "actor_13",
+      "actor": 13,
+      "name": "Morgan Freeman",
+      "text": "Morgan Freeman, in nineteen ninety and twenty twenty-three. Thirty-three years between portraits. The Shawshank Redemption and Million Dollar Baby are just two chapters in a remarkable screen career.",
+      "caption": "Morgan Freeman, in 1990 and 2023. Thirty-three years between portraits. The Shawshank Redemption and Million Dollar Baby are just two chapters in a remarkable screen career.",
+      "start": 205.0,
+      "duration": 15.0,
+      "films": [
+        "The Shawshank Redemption",
+        "Million Dollar Baby"
+      ],
+      "chapter": "SCREEN ORIGINALS"
+    },
+    {
+      "id": "actor_14",
+      "actor": 14,
+      "name": "Robert De Niro",
+      "text": "Robert De Niro, in nineteen eighty-eight and twenty twenty-five. Thirty-seven years apart. Taxi Driver and Raging Bull helped establish the intense, character-driven performances associated with his name.",
+      "caption": "Robert De Niro, in 1988 and 2025. Thirty-seven years apart. Taxi Driver and Raging Bull helped establish the intense, character-driven performances associated with his name.",
+      "start": 220.0,
+      "duration": 15.0,
+      "films": [
+        "Taxi Driver",
+        "Raging Bull"
+      ],
+      "chapter": "SCREEN ORIGINALS"
+    },
+    {
+      "id": "actor_15",
+      "actor": 15,
+      "name": "Al Pacino",
+      "text": "Al Pacino, in nineteen ninety-six and twenty twenty-six. Three decades between photographs. The Godfather and Scarface remain signature roles in a career filled with forceful, memorable characters.",
+      "caption": "Al Pacino, in 1996 and 2026. Three decades between photographs. The Godfather and Scarface remain signature roles in a career filled with forceful, memorable characters.",
+      "start": 235.0,
+      "duration": 15.0,
+      "films": [
+        "The Godfather",
+        "Scarface"
+      ],
+      "chapter": "DECADES ON SCREEN"
+    },
+    {
+      "id": "actor_16",
+      "actor": 16,
+      "name": "Michael Douglas",
+      "text": "Michael Douglas, in nineteen eighty-four and twenty twenty-five. Forty-one years apart. Wall Street and The American President show contrasting sides of a screen career stretching across decades.",
+      "caption": "Michael Douglas, in 1984 and 2025. Forty-one years apart. Wall Street and The American President show contrasting sides of a screen career stretching across decades.",
+      "start": 250.0,
+      "duration": 15.0,
+      "films": [
+        "Wall Street",
+        "The American President"
+      ],
+      "chapter": "DECADES ON SCREEN"
+    },
+    {
+      "id": "actor_17",
+      "actor": 17,
+      "name": "Jeff Bridges",
+      "text": "Jeff Bridges, in two thousand and twenty twenty-five. A quarter century between portraits. From Tron to The Big Lebowski, he has brought an easygoing presence to very different worlds.",
+      "caption": "Jeff Bridges, in 2000 and 2025. A quarter century between portraits. From Tron to The Big Lebowski, he has brought an easygoing presence to very different worlds.",
+      "start": 265.0,
+      "duration": 15.0,
+      "films": [
+        "Tron",
+        "The Big Lebowski"
+      ],
+      "chapter": "DECADES ON SCREEN"
+    },
+    {
+      "id": "actor_18",
+      "actor": 18,
+      "name": "Kevin Bacon",
+      "text": "Kevin Bacon, in two thousand four and twenty twenty-five. Twenty-one years apart. Footloose and Apollo Thirteen capture different parts of a career ranging from music-driven stories to drama.",
+      "caption": "Kevin Bacon, in 2004 and 2025. Twenty-one years apart. Footloose and Apollo 13 capture different parts of a career ranging from music-driven stories to drama.",
+      "start": 280.0,
+      "duration": 15.0,
+      "films": [
+        "Footloose",
+        "Apollo 13"
+      ],
+      "chapter": "DECADES ON SCREEN"
+    },
+    {
+      "id": "actor_19",
+      "actor": 19,
+      "name": "Samuel L. Jackson",
+      "text": "Samuel L Jackson, in two thousand eight and twenty twenty-four. Sixteen years between photographs. From Pulp Fiction to Nick Fury, his screen presence connects independent cinema and blockbuster franchises.",
+      "caption": "Samuel L. Jackson, in 2008 and 2024. Sixteen years between photographs. From Pulp Fiction to Nick Fury, his screen presence connects independent cinema and blockbuster franchises.",
+      "start": 295.0,
+      "duration": 15.0,
+      "films": [
+        "Pulp Fiction",
+        "Nick Fury"
+      ],
+      "chapter": "DECADES ON SCREEN"
+    },
+    {
+      "id": "actor_20",
+      "actor": 20,
+      "name": "Arnold Schwarzenegger",
+      "text": "Arnold Schwarzenegger, in nineteen eighty-four and twenty twenty-five. Forty-one years apart. The Terminator and Predator helped turn a bodybuilding champion into one of Hollywood's most recognizable action stars.",
+      "caption": "Arnold Schwarzenegger, in 1984 and 2025. Forty-one years apart. The Terminator and Predator helped turn a bodybuilding champion into one of Hollywood's most recognizable action stars.",
+      "start": 310.0,
+      "duration": 15.0,
+      "films": [
+        "The Terminator",
+        "Predator"
+      ],
+      "chapter": "ACTION & TRANSFORMATION"
+    },
+    {
+      "id": "actor_21",
+      "actor": 21,
+      "name": "Sylvester Stallone",
+      "text": "Sylvester Stallone, in nineteen eighty-five and twenty twenty-five. Forty years between photographs. Rocky and Rambo became defining characters for a performer whose career mixes action, determination and underdog stories.",
+      "caption": "Sylvester Stallone, in 1985 and 2025. Forty years between photographs. Rocky and Rambo became defining characters for a performer whose career mixes action, determination and underdog stories.",
+      "start": 325.0,
+      "duration": 15.0,
+      "films": [
+        "Rocky",
+        "Rambo"
+      ],
+      "chapter": "ACTION & TRANSFORMATION"
+    },
+    {
+      "id": "actor_22",
+      "actor": 22,
+      "name": "Nicolas Cage",
+      "text": "Nicolas Cage, in two thousand seven and twenty twenty-four. Seventeen years apart. From Leaving Las Vegas to National Treasure, his filmography moves between intimate drama and large-scale adventure.",
+      "caption": "Nicolas Cage, in 2007 and 2024. Seventeen years apart. From Leaving Las Vegas to National Treasure, his filmography moves between intimate drama and large-scale adventure.",
+      "start": 340.0,
+      "duration": 15.0,
+      "films": [
+        "Leaving Las Vegas",
+        "National Treasure"
+      ],
+      "chapter": "ACTION & TRANSFORMATION"
+    },
+    {
+      "id": "actor_23",
+      "actor": 23,
+      "name": "Hugh Jackman",
+      "text": "Hugh Jackman, in two thousand three and twenty twenty-five. Twenty-two years between photographs. Wolverine and The Greatest Showman highlight his range across superhero spectacle, singing and stage-inspired storytelling.",
+      "caption": "Hugh Jackman, in 2003 and 2025. Twenty-two years between photographs. Wolverine and The Greatest Showman highlight his range across superhero spectacle, singing and stage-inspired storytelling.",
+      "start": 355.0,
+      "duration": 15.0,
+      "films": [
+        "Wolverine",
+        "The Greatest Showman"
+      ],
+      "chapter": "ACTION & TRANSFORMATION"
+    },
+    {
+      "id": "actor_24",
+      "actor": 24,
+      "name": "Christian Bale",
+      "text": "Christian Bale, in nineteen eighty-eight and twenty twenty-two. Thirty-four years apart. From Empire of the Sun to Batman, his career began young and grew into famously transformative performances.",
+      "caption": "Christian Bale, in 1988 and 2022. Thirty-four years apart. From Empire of the Sun to Batman, his career began young and grew into famously transformative performances.",
+      "start": 370.0,
+      "duration": 15.0,
+      "films": [
+        "Empire of the Sun",
+        "Batman"
+      ],
+      "chapter": "ACTION & TRANSFORMATION"
+    },
+    {
+      "id": "actor_25",
+      "actor": 25,
+      "name": "Ryan Reynolds",
+      "text": "Ryan Reynolds, in two thousand seven and twenty twenty-five. Eighteen years between portraits. From romantic comedy to Deadpool, quick timing and self-aware humor became central to his screen persona.",
+      "caption": "Ryan Reynolds, in 2007 and 2025. Eighteen years between portraits. From romantic comedy to Deadpool, quick timing and self-aware humor became central to his screen persona.",
+      "start": 385.0,
+      "duration": 15.0,
+      "films": [
+        "Deadpool",
+        "romantic comedy"
+      ],
+      "chapter": "THE NEXT CHAPTER"
+    },
+    {
+      "id": "actor_26",
+      "actor": 26,
+      "name": "Ryan Gosling",
+      "text": "Ryan Gosling, in two thousand seven and twenty twenty-three. Sixteen years apart. The Notebook, La La Land and Barbie trace a career moving between romance, music and playful comedy.",
+      "caption": "Ryan Gosling, in 2007 and 2023. Sixteen years apart. The Notebook, La La Land and Barbie trace a career moving between romance, music and playful comedy.",
+      "start": 400.0,
+      "duration": 15.0,
+      "films": [
+        "The Notebook",
+        "La La Land",
+        "Barbie"
+      ],
+      "chapter": "THE NEXT CHAPTER"
+    },
+    {
+      "id": "actor_27",
+      "actor": 27,
+      "name": "Jake Gyllenhaal",
+      "text": "Jake Gyllenhaal, in two thousand five and twenty twenty-five. Twenty years between photographs. Donnie Darko, Brokeback Mountain and Nightcrawler show the variety of characters he has brought to the screen.",
+      "caption": "Jake Gyllenhaal, in 2005 and 2025. Twenty years between photographs. Donnie Darko, Brokeback Mountain and Nightcrawler show the variety of characters he has brought to the screen.",
+      "start": 415.0,
+      "duration": 15.0,
+      "films": [
+        "Donnie Darko",
+        "Brokeback Mountain",
+        "Nightcrawler"
+      ],
+      "chapter": "THE NEXT CHAPTER"
+    },
+    {
+      "id": "actor_28",
+      "actor": 28,
+      "name": "Matthew McConaughey",
+      "text": "Matthew McConaughey, in two thousand four and twenty twenty-five. Twenty-one years apart. From Dazed and Confused to Interstellar, his career moved far beyond a single kind of leading-man role.",
+      "caption": "Matthew McConaughey, in 2004 and 2025. Twenty-one years apart. From Dazed and Confused to Interstellar, his career moved far beyond a single kind of leading-man role.",
+      "start": 430.0,
+      "duration": 15.0,
+      "films": [
+        "Dazed and Confused",
+        "Interstellar"
+      ],
+      "chapter": "THE NEXT CHAPTER"
+    },
+    {
+      "id": "actor_29",
+      "actor": 29,
+      "name": "Ewan McGregor",
+      "text": "Ewan McGregor, in two thousand one and twenty twenty-four. Twenty-three years between photographs. Trainspotting, Moulin Rouge and Obi-Wan Kenobi connect independent film, musical romance and a galaxy far away.",
+      "caption": "Ewan McGregor, in 2001 and 2024. Twenty-three years between photographs. Trainspotting, Moulin Rouge and Obi-Wan Kenobi connect independent film, musical romance and a galaxy far away.",
+      "start": 445.0,
+      "duration": 15.0,
+      "films": [
+        "Trainspotting",
+        "Moulin Rouge",
+        "Obi-Wan Kenobi"
+      ],
+      "chapter": "THE NEXT CHAPTER"
+    },
+    {
+      "id": "outro",
+      "text": "Thirty careers. Countless movie memories. Which comparison surprised you most, and which star should we feature next?",
+      "caption": "Thirty careers. Countless movie memories. Which comparison surprised you most, and which star should we feature next?",
+      "start": 460.0,
+      "duration": 10.0
+    }
+  ],
+  "batches": [
+    {
+      "index": 0,
+      "file": "batch_00.wav",
+      "parts": [
+        "intro",
+        "actor_00",
+        "actor_01",
+        "actor_02",
+        "actor_03"
+      ],
+      "text": "Thirty Hollywood stars. Sixty photographs. Decades of movie memories. See how familiar faces change across time. Then, and now.\n\nTom Cruise, photographed in nineteen eighty-nine and twenty twenty-five. Thirty-six years apart. Top Gun and Mission Impossible helped define a career built around big-screen adventure.\n\nLeonardo DiCaprio, in two thousand and twenty twenty-five. A quarter century separates these portraits. From Titanic to Inception, his screen career has moved between romance, suspense and spectacle.\n\nTom Hanks, in nineteen eighty-nine and twenty twenty-four. Thirty-five years between photographs. From Big to Forrest Gump, he has brought warmth, humor and dramatic weight to unforgettable characters.\n\nBrad Pitt, in two thousand one and twenty twenty-four. Twenty-three years apart. Fight Club and Ocean's Eleven show two very different sides of his long screen career."
+    },
+    {
+      "index": 1,
+      "file": "batch_01.wav",
+      "parts": [
+        "actor_04",
+        "actor_05",
+        "actor_06",
+        "actor_07"
+      ],
+      "text": "Keanu Reeves, in two thousand six and twenty twenty-five. Nineteen years between photographs. From The Matrix to John Wick, his quiet screen presence has powered some very memorable action.\n\nJohnny Depp, in nineteen ninety-two and twenty twenty-three. Thirty-one years apart. Edward Scissorhands and Captain Jack Sparrow reveal a career shaped by distinctive costumes, characters and transformations.\n\nDenzel Washington, in nineteen ninety and twenty twenty-five. Thirty-five years between these appearances. Glory, Malcolm X and Training Day are landmarks in a career known for commanding performances.\n\nGeorge Clooney, in nineteen ninety-five and twenty twenty-five. Three decades between portraits. Ocean's Eleven and The Descendants show the charm and dramatic range behind his familiar leading-man image."
+    },
+    {
+      "index": 2,
+      "file": "batch_02.wav",
+      "parts": [
+        "actor_08",
+        "actor_09",
+        "actor_10",
+        "actor_11"
+      ],
+      "text": "Matt Damon, in two thousand one and twenty twenty-four. Twenty-three years apart. From Good Will Hunting to the Bourne films, intelligence and determination have shaped many of his characters.\n\nBen Affleck, in nineteen ninety-eight and twenty twenty-three. A twenty-five-year comparison. Good Will Hunting and Argo mark different chapters in a career spent both acting and directing.\n\nWill Smith, in nineteen ninety-three and twenty twenty-five. Thirty-two years apart. From The Fresh Prince to Men in Black, his career connects television, movies and music.\n\nRobert Downey Junior, in nineteen ninety and twenty twenty-six. Thirty-six years separate these portraits. Iron Man and Sherlock Holmes made his quick wit and expressive performances familiar to worldwide audiences."
+    },
+    {
+      "index": 3,
+      "file": "batch_03.wav",
+      "parts": [
+        "actor_12",
+        "actor_13",
+        "actor_14",
+        "actor_15"
+      ],
+      "text": "Harrison Ford, in two thousand seven and twenty twenty-five. Eighteen years apart. From Han Solo to Indiana Jones, his characters have become enduring symbols of big-screen adventure.\n\nMorgan Freeman, in nineteen ninety and twenty twenty-three. Thirty-three years between portraits. The Shawshank Redemption and Million Dollar Baby are just two chapters in a remarkable screen career.\n\nRobert De Niro, in nineteen eighty-eight and twenty twenty-five. Thirty-seven years apart. Taxi Driver and Raging Bull helped establish the intense, character-driven performances associated with his name.\n\nAl Pacino, in nineteen ninety-six and twenty twenty-six. Three decades between photographs. The Godfather and Scarface remain signature roles in a career filled with forceful, memorable characters."
+    },
+    {
+      "index": 4,
+      "file": "batch_04.wav",
+      "parts": [
+        "actor_16",
+        "actor_17",
+        "actor_18",
+        "actor_19"
+      ],
+      "text": "Michael Douglas, in nineteen eighty-four and twenty twenty-five. Forty-one years apart. Wall Street and The American President show contrasting sides of a screen career stretching across decades.\n\nJeff Bridges, in two thousand and twenty twenty-five. A quarter century between portraits. From Tron to The Big Lebowski, he has brought an easygoing presence to very different worlds.\n\nKevin Bacon, in two thousand four and twenty twenty-five. Twenty-one years apart. Footloose and Apollo Thirteen capture different parts of a career ranging from music-driven stories to drama.\n\nSamuel L Jackson, in two thousand eight and twenty twenty-four. Sixteen years between photographs. From Pulp Fiction to Nick Fury, his screen presence connects independent cinema and blockbuster franchises."
+    },
+    {
+      "index": 5,
+      "file": "batch_05.wav",
+      "parts": [
+        "actor_20",
+        "actor_21",
+        "actor_22",
+        "actor_23"
+      ],
+      "text": "Arnold Schwarzenegger, in nineteen eighty-four and twenty twenty-five. Forty-one years apart. The Terminator and Predator helped turn a bodybuilding champion into one of Hollywood's most recognizable action stars.\n\nSylvester Stallone, in nineteen eighty-five and twenty twenty-five. Forty years between photographs. Rocky and Rambo became defining characters for a performer whose career mixes action, determination and underdog stories.\n\nNicolas Cage, in two thousand seven and twenty twenty-four. Seventeen years apart. From Leaving Las Vegas to National Treasure, his filmography moves between intimate drama and large-scale adventure.\n\nHugh Jackman, in two thousand three and twenty twenty-five. Twenty-two years between photographs. Wolverine and The Greatest Showman highlight his range across superhero spectacle, singing and stage-inspired storytelling."
+    },
+    {
+      "index": 6,
+      "file": "batch_06.wav",
+      "parts": [
+        "actor_24",
+        "actor_25",
+        "actor_26",
+        "actor_27"
+      ],
+      "text": "Christian Bale, in nineteen eighty-eight and twenty twenty-two. Thirty-four years apart. From Empire of the Sun to Batman, his career began young and grew into famously transformative performances.\n\nRyan Reynolds, in two thousand seven and twenty twenty-five. Eighteen years between portraits. From romantic comedy to Deadpool, quick timing and self-aware humor became central to his screen persona.\n\nRyan Gosling, in two thousand seven and twenty twenty-three. Sixteen years apart. The Notebook, La La Land and Barbie trace a career moving between romance, music and playful comedy.\n\nJake Gyllenhaal, in two thousand five and twenty twenty-five. Twenty years between photographs. Donnie Darko, Brokeback Mountain and Nightcrawler show the variety of characters he has brought to the screen."
+    },
+    {
+      "index": 7,
+      "file": "batch_07.wav",
+      "parts": [
+        "actor_28",
+        "actor_29",
+        "outro"
+      ],
+      "text": "Matthew McConaughey, in two thousand four and twenty twenty-five. Twenty-one years apart. From Dazed and Confused to Interstellar, his career moved far beyond a single kind of leading-man role.\n\nEwan McGregor, in two thousand one and twenty twenty-four. Twenty-three years between photographs. Trainspotting, Moulin Rouge and Obi-Wan Kenobi connect independent film, musical romance and a galaxy far away.\n\nThirty careers. Countless movie memories. Which comparison surprised you most, and which star should we feature next?"
+    }
+  ],
+  "chapters": [
+    "FAMILIAR FACES",
+    "SIGNATURE LEADING MEN",
+    "SCREEN ORIGINALS",
+    "DECADES ON SCREEN",
+    "ACTION & TRANSFORMATION",
+    "THE NEXT CHAPTER"
+  ]
+}

@@ -1,0 +1,770 @@
+{
+  "00_then": {
+    "source": "/home/user/.cache/hollywood_actresses/photos/00_then_82ba20a3.jpg",
+    "size": [
+      1280,
+      2032
+    ],
+    "box": [
+      0,
+      0,
+      1280,
+      1280
+    ],
+    "method": "manual review",
+    "manual": true,
+    "reviewed": true
+  },
+  "00_now": {
+    "source": "/home/user/.cache/hollywood_actresses/photos/00_now_34b2a234.jpg",
+    "size": [
+      1244,
+      1470
+    ],
+    "box": [
+      0,
+      66.72363636363639,
+      1244,
+      1310.7236363636364
+    ],
+    "method": "geometric face framing",
+    "manual": true,
+    "reviewed": true
+  },
+  "01_then": {
+    "source": "/home/user/.cache/hollywood_actresses/photos/01_then_3c40c4d0.jpg",
+    "size": [
+      500,
+      624
+    ],
+    "box": [
+      0,
+      49.56,
+      500,
+      549.56
+    ],
+    "method": "geometric face framing",
+    "manual": true,
+    "reviewed": true
+  },
+  "01_now": {
+    "source": "/home/user/.cache/hollywood_actresses/photos/01_now_4f8eb9c8.jpg",
+    "size": [
+      1280,
+      1642
+    ],
+    "box": [
+      207.02347417840383,
+      30.66791862284822,
+      1103.0234741784038,
+      926.6679186228482
+    ],
+    "method": "geometric face framing",
+    "manual": true,
+    "reviewed": true
+  },
+  "02_then": {
+    "source": "/home/user/.cache/hollywood_actresses/photos/02_then_448a6801.jpg",
+    "size": [
+      310,
+      398
+    ],
+    "box": [
+      0,
+      62.120000000000005,
+      310,
+      372.12
+    ],
+    "method": "geometric face framing",
+    "manual": true,
+    "reviewed": true
+  },
+  "02_now": {
+    "source": "/home/user/.cache/hollywood_actresses/photos/02_now_d8e093af.jpg",
+    "size": [
+      1280,
+      1920
+    ],
+    "box": [
+      0,
+      90.37221206581353,
+      1280,
+      1370.3722120658135
+    ],
+    "method": "geometric face framing",
+    "manual": true,
+    "reviewed": true
+  },
+  "03_then": {
+    "source": "/home/user/.cache/hollywood_actresses/photos/03_then_7159ca8b.jpg",
+    "size": [
+      394,
+      511
+    ],
+    "box": [
+      0,
+      103.84000000000003,
+      394,
+      497.84000000000003
+    ],
+    "method": "geometric face framing",
+    "manual": true,
+    "reviewed": true
+  },
+  "03_now": {
+    "source": "/home/user/.cache/hollywood_actresses/photos/03_now_8a177606.jpg",
+    "size": [
+      1092,
+      1366
+    ],
+    "box": [
+      32.87652439024396,
+      0,
+      1089.0868902439024,
+      1056.2103658536585
+    ],
+    "method": "geometric face framing",
+    "manual": true,
+    "reviewed": true
+  },
+  "04_then": {
+    "source": "/home/user/.cache/hollywood_actresses/photos/04_then_821e35bb.jpg",
+    "size": [
+      263,
+      351
+    ],
+    "box": [
+      0,
+      0,
+      263,
+      263
+    ],
+    "method": "geometric face framing",
+    "manual": true,
+    "reviewed": true
+  },
+  "04_now": {
+    "source": "/home/user/.cache/hollywood_actresses/photos/04_now_9cfc5893.jpg",
+    "size": [
+      1280,
+      1707
+    ],
+    "box": [
+      0,
+      56.2367479674798,
+      1280,
+      1336.23674796748
+    ],
+    "method": "geometric face framing",
+    "manual": true,
+    "reviewed": true
+  },
+  "05_then": {
+    "source": "/home/user/.cache/hollywood_actresses/photos/05_then_cb95080e.jpg",
+    "size": [
+      368,
+      558
+    ],
+    "box": [
+      0,
+      114.24000000000001,
+      368,
+      482.24
+    ],
+    "method": "geometric face framing",
+    "manual": true,
+    "reviewed": true
+  },
+  "05_now": {
+    "source": "/home/user/.cache/hollywood_actresses/photos/05_now_4be8931a.jpg",
+    "size": [
+      1280,
+      1600
+    ],
+    "box": [
+      0,
+      81.87317073170732,
+      1280,
+      1361.8731707317074
+    ],
+    "method": "geometric face framing",
+    "manual": true,
+    "reviewed": true
+  },
+  "06_then": {
+    "source": "/home/user/.cache/hollywood_actresses/photos/06_then_fb1988fa.jpg",
+    "size": [
+      268,
+      412
+    ],
+    "box": [
+      0,
+      66.75999999999999,
+      268,
+      334.76
+    ],
+    "method": "geometric face framing",
+    "manual": true,
+    "reviewed": true
+  },
+  "06_now": {
+    "source": "/home/user/.cache/hollywood_actresses/photos/06_now_fbeef38c.jpg",
+    "size": [
+      1280,
+      1725
+    ],
+    "box": [
+      0,
+      206.4842105263158,
+      1280,
+      1486.4842105263158
+    ],
+    "method": "geometric face framing",
+    "manual": true,
+    "reviewed": true
+  },
+  "07_then": {
+    "source": "/home/user/.cache/hollywood_actresses/photos/07_then_a4afd7ce.jpg",
+    "size": [
+      233,
+      524
+    ],
+    "box": [
+      0,
+      0,
+      233,
+      233
+    ],
+    "method": "geometric face framing",
+    "manual": true,
+    "reviewed": true
+  },
+  "07_now": {
+    "source": "/home/user/.cache/hollywood_actresses/photos/07_now_ba876775.jpg",
+    "size": [
+      1280,
+      1719
+    ],
+    "box": [
+      0,
+      0,
+      1280,
+      1280
+    ],
+    "method": "geometric face framing",
+    "manual": true,
+    "reviewed": true
+  },
+  "08_then": {
+    "source": "/home/user/.cache/hollywood_actresses/photos/08_then_2e1d3594.jpg",
+    "size": [
+      560,
+      656
+    ],
+    "box": [
+      53.75,
+      61.875,
+      560.0,
+      568.125
+    ],
+    "method": "geometric face framing",
+    "manual": true,
+    "reviewed": true
+  },
+  "08_now": {
+    "source": "/home/user/.cache/hollywood_actresses/photos/08_now_3c56dad0.jpg",
+    "size": [
+      3840,
+      2557
+    ],
+    "box": [
+      1450,
+      480,
+      2300,
+      1330
+    ],
+    "method": "manual review",
+    "manual": true,
+    "reviewed": true
+  },
+  "09_then": {
+    "source": "/home/user/.cache/hollywood_actresses/photos/09_then_30c1f328.jpg",
+    "size": [
+      519,
+      556
+    ],
+    "box": [
+      0,
+      0,
+      519,
+      519
+    ],
+    "method": "manual-anchor fallback",
+    "manual": true,
+    "reviewed": true
+  },
+  "09_now": {
+    "source": "/home/user/.cache/hollywood_actresses/photos/09_now_9ef9a265.jpg",
+    "size": [
+      1280,
+      1707
+    ],
+    "box": [
+      0,
+      183.77886178861797,
+      1280,
+      1463.778861788618
+    ],
+    "method": "geometric face framing",
+    "manual": true,
+    "reviewed": true
+  },
+  "10_then": {
+    "source": "/home/user/.cache/hollywood_actresses/photos/10_then_1b7e3423.jpg",
+    "size": [
+      470,
+      634
+    ],
+    "box": [
+      0,
+      55.72000000000003,
+      470,
+      525.72
+    ],
+    "method": "geometric face framing",
+    "manual": true,
+    "reviewed": true
+  },
+  "10_now": {
+    "source": "/home/user/.cache/hollywood_actresses/photos/10_now_61a2b63a.jpg",
+    "size": [
+      1280,
+      1706
+    ],
+    "box": [
+      0,
+      188.10796747967493,
+      1280,
+      1468.107967479675
+    ],
+    "method": "geometric face framing",
+    "manual": true,
+    "reviewed": true
+  },
+  "11_then": {
+    "source": "/home/user/.cache/hollywood_actresses/photos/11_then_0bbbed7f.jpg",
+    "size": [
+      1037,
+      1565
+    ],
+    "box": [
+      210,
+      310,
+      965,
+      1065
+    ],
+    "method": "manual review",
+    "manual": true,
+    "reviewed": true
+  },
+  "11_now": {
+    "source": "/home/user/.cache/hollywood_actresses/photos/11_now_3341df64.jpg",
+    "size": [
+      1280,
+      1598
+    ],
+    "box": [
+      0,
+      104.85479452054801,
+      1280,
+      1384.854794520548
+    ],
+    "method": "geometric face framing",
+    "manual": true,
+    "reviewed": true
+  },
+  "12_then": {
+    "source": "/home/user/.cache/hollywood_actresses/photos/12_then_9ede1e15.jpg",
+    "size": [
+      1280,
+      1827
+    ],
+    "box": [
+      0,
+      434.93240418118467,
+      1280,
+      1714.9324041811847
+    ],
+    "method": "geometric face framing",
+    "manual": true,
+    "reviewed": true
+  },
+  "12_now": {
+    "source": "/home/user/.cache/hollywood_actresses/photos/12_now_c85cbf8a.jpg",
+    "size": [
+      1280,
+      1710
+    ],
+    "box": [
+      0,
+      180.6175895765473,
+      1280,
+      1460.6175895765473
+    ],
+    "method": "geometric face framing",
+    "manual": true,
+    "reviewed": true
+  },
+  "13_then": {
+    "source": "/home/user/.cache/hollywood_actresses/photos/13_then_4aaf8d02.jpg",
+    "size": [
+      307,
+      333
+    ],
+    "box": [
+      0,
+      0,
+      307,
+      307
+    ],
+    "method": "manual-anchor fallback",
+    "manual": true,
+    "reviewed": true
+  },
+  "13_now": {
+    "source": "/home/user/.cache/hollywood_actresses/photos/13_now_affa42a3.jpg",
+    "size": [
+      250,
+      339
+    ],
+    "box": [
+      0,
+      14.240000000000009,
+      250,
+      264.24
+    ],
+    "method": "geometric face framing",
+    "manual": true,
+    "reviewed": true
+  },
+  "14_then": {
+    "source": "/home/user/.cache/hollywood_actresses/photos/14_then_8b69cf37.jpg",
+    "size": [
+      250,
+      362
+    ],
+    "box": [
+      0,
+      44.24000000000001,
+      250,
+      294.24
+    ],
+    "method": "geometric face framing",
+    "manual": true,
+    "reviewed": true
+  },
+  "14_now": {
+    "source": "/home/user/.cache/hollywood_actresses/photos/14_now_65920970.jpg",
+    "size": [
+      500,
+      673
+    ],
+    "box": [
+      0,
+      80.63999999999999,
+      500,
+      580.64
+    ],
+    "method": "geometric face framing",
+    "manual": true,
+    "reviewed": true
+  },
+  "15_then": {
+    "source": "/home/user/.cache/hollywood_actresses/photos/15_then_1fc58e41.jpg",
+    "size": [
+      500,
+      613
+    ],
+    "box": [
+      0,
+      27.639999999999986,
+      500,
+      527.64
+    ],
+    "method": "geometric face framing",
+    "manual": true,
+    "reviewed": true
+  },
+  "15_now": {
+    "source": "/home/user/.cache/hollywood_actresses/photos/15_now_1af72594.jpg",
+    "size": [
+      1280,
+      1508
+    ],
+    "box": [
+      0,
+      139.71393939393943,
+      1280,
+      1419.7139393939394
+    ],
+    "method": "geometric face framing",
+    "manual": true,
+    "reviewed": true
+  },
+  "16_then": {
+    "source": "/home/user/.cache/hollywood_actresses/photos/16_then_98b0fdfa.jpg",
+    "size": [
+      500,
+      742
+    ],
+    "box": [
+      0,
+      24.560000000000002,
+      500,
+      524.56
+    ],
+    "method": "geometric face framing",
+    "manual": true,
+    "reviewed": true
+  },
+  "16_now": {
+    "source": "/home/user/.cache/hollywood_actresses/photos/16_now_b9db640b.jpg",
+    "size": [
+      1280,
+      1497
+    ],
+    "box": [
+      0,
+      0,
+      1280,
+      1280
+    ],
+    "method": "geometric face framing",
+    "manual": true,
+    "reviewed": true
+  },
+  "17_then": {
+    "source": "/home/user/.cache/hollywood_actresses/photos/17_then_775fee88.jpg",
+    "size": [
+      250,
+      196
+    ],
+    "box": [
+      26.0,
+      0,
+      222.0,
+      196
+    ],
+    "method": "geometric face framing",
+    "manual": true,
+    "reviewed": true
+  },
+  "17_now": {
+    "source": "/home/user/.cache/hollywood_actresses/photos/17_now_4d66f241.jpg",
+    "size": [
+      1280,
+      1687
+    ],
+    "box": [
+      0,
+      100.75369774919614,
+      1280,
+      1380.7536977491961
+    ],
+    "method": "geometric face framing",
+    "manual": true,
+    "reviewed": true
+  },
+  "18_then": {
+    "source": "/home/user/.cache/hollywood_actresses/photos/18_then_24e6bd7e.jpg",
+    "size": [
+      252,
+      309
+    ],
+    "box": [
+      0,
+      6.0400000000000205,
+      252,
+      258.04
+    ],
+    "method": "geometric face framing",
+    "manual": true,
+    "reviewed": true
+  },
+  "18_now": {
+    "source": "/home/user/.cache/hollywood_actresses/photos/18_now_0d099fad.jpg",
+    "size": [
+      1280,
+      1496
+    ],
+    "box": [
+      0,
+      134.51636363636374,
+      1280,
+      1414.5163636363636
+    ],
+    "method": "geometric face framing",
+    "manual": true,
+    "reviewed": true
+  },
+  "19_then": {
+    "source": "/home/user/.cache/hollywood_actresses/photos/19_then_21db97d5.jpg",
+    "size": [
+      1280,
+      1910
+    ],
+    "box": [
+      0,
+      236.17163636363625,
+      1280,
+      1516.1716363636363
+    ],
+    "method": "geometric face framing",
+    "manual": true,
+    "reviewed": true
+  },
+  "19_now": {
+    "source": "/home/user/.cache/hollywood_actresses/photos/19_now_54fc9a83.jpg",
+    "size": [
+      1280,
+      1665
+    ],
+    "box": [
+      0,
+      125.88698412698409,
+      1280,
+      1405.886984126984
+    ],
+    "method": "geometric face framing",
+    "manual": true,
+    "reviewed": true
+  },
+  "20_then": {
+    "source": "/home/user/.cache/hollywood_actresses/photos/20_then_556a6ade.jpg",
+    "size": [
+      500,
+      750
+    ],
+    "box": [
+      149.5,
+      136.84000000000003,
+      499.5,
+      486.84000000000003
+    ],
+    "method": "geometric face framing",
+    "manual": true,
+    "reviewed": true
+  },
+  "20_now": {
+    "source": "/home/user/.cache/hollywood_actresses/photos/20_now_1b5bd1eb.jpg",
+    "size": [
+      1280,
+      1920
+    ],
+    "box": [
+      0,
+      13.724314442413174,
+      1279.4149908592324,
+      1293.1393053016454
+    ],
+    "method": "geometric face framing",
+    "manual": true,
+    "reviewed": true
+  },
+  "21_then": {
+    "source": "/home/user/.cache/hollywood_actresses/photos/21_then_e35b5ca2.jpg",
+    "size": [
+      416,
+      531
+    ],
+    "box": [
+      0,
+      41.16,
+      416,
+      457.15999999999997
+    ],
+    "method": "geometric face framing",
+    "manual": true,
+    "reviewed": true
+  },
+  "21_now": {
+    "source": "/home/user/.cache/hollywood_actresses/photos/21_now_3dbed496.jpg",
+    "size": [
+      1280,
+      1708
+    ],
+    "box": [
+      0,
+      117.01073170731718,
+      1280,
+      1397.010731707317
+    ],
+    "method": "geometric face framing",
+    "manual": true,
+    "reviewed": true
+  },
+  "22_then": {
+    "source": "/home/user/.cache/hollywood_actresses/photos/22_then_10d4c78c.jpg",
+    "size": [
+      500,
+      754
+    ],
+    "box": [
+      0,
+      1.2800000000000011,
+      500,
+      501.28
+    ],
+    "method": "manual-anchor fallback",
+    "manual": true,
+    "reviewed": true
+  },
+  "22_now": {
+    "source": "/home/user/.cache/hollywood_actresses/photos/22_now_62a1f68a.jpg",
+    "size": [
+      1280,
+      1705
+    ],
+    "box": [
+      0,
+      350.0883116883117,
+      1280,
+      1630.0883116883117
+    ],
+    "method": "geometric face framing",
+    "manual": true,
+    "reviewed": true
+  },
+  "23_then": {
+    "source": "/home/user/.cache/hollywood_actresses/photos/23_then_2224e0fc.jpg",
+    "size": [
+      1183,
+      1498
+    ],
+    "box": [
+      72.11188271604937,
+      7.48503086419754,
+      975.7924382716049,
+      911.165586419753
+    ],
+    "method": "geometric face framing",
+    "manual": true,
+    "reviewed": true
+  },
+  "23_now": {
+    "source": "/home/user/.cache/hollywood_actresses/photos/23_now_f9918818.jpg",
+    "size": [
+      1280,
+      1707
+    ],
+    "box": [
+      0,
+      0,
+      1280,
+      1280
+    ],
+    "method": "geometric face framing",
+    "manual": true,
+    "reviewed": true
+  }
+}

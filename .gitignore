@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Large media files
+*.mp4
+*.wav
+*.flac
+*.opus
+*.mp3
+
+# Output & cache
+new_project/assets/photos/
+new_project/output/
+hollywood_full/output/*.mp4
+hollywood_full/assets/photos/
+hollywood_full/work/
+hollywood_full/research/search_*.json
+hollywood_actresses/output/*.mp4
+hollywood_actresses/assets/photos/
+hollywood_actresses/work/
+hollywood_actresses/audio/*.opus
+hollywood_batch_5/
+hollywood_demo/work/
+hollywood_demo/output/*.mp4
+image-search/
+
+# IDE
+.vscode/
+.idea/

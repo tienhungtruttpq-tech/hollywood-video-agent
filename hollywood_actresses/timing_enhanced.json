@@ -1,0 +1,1221 @@
+{
+  "duration": 480,
+  "parts": [
+    {
+      "id": "intro",
+      "kind": "intro",
+      "text": "You know these faces. Can you name them?",
+      "caption": "You know these faces. Can you name them?",
+      "start": 0.0,
+      "duration": 5.0,
+      "lead": 0.12,
+      "guess": 0,
+      "override": "/home/user/.cache/hollywood_actresses/audio/intro_short.wav",
+      "file": "/home/user/.cache/hollywood_actresses_refresh/audio/hook_final.wav",
+      "audio_start": 0.12,
+      "audio_duration": 2.874791666666667,
+      "speed": 1.0,
+      "source_duration": 2.874791666666667,
+      "source_offset": 0,
+      "batch": 0,
+      "captions": [
+        {
+          "start": 0.12,
+          "end": 2.994791666666667,
+          "text": "You know these faces. Can you name them?"
+        }
+      ]
+    },
+    {
+      "id": "actress_00",
+      "kind": "actress",
+      "actor": 0,
+      "name": "Julia Roberts",
+      "text": "Julia Roberts. Pretty Woman made her a global star; Erin Brockovich brought an Oscar. Two different kinds of strength, one familiar smile. One point if you guessed correctly.",
+      "caption": "Julia Roberts. Pretty Woman made her a global star; Erin Brockovich brought an Oscar. Two different kinds of strength, one familiar smile. One point if you guessed correctly.",
+      "start": 5.0,
+      "duration": 17.0,
+      "lead": 0.34,
+      "guess": 0.0,
+      "hint": "Rom-com royalty",
+      "films": [
+        "Pretty Woman",
+        "Erin Brockovich"
+      ],
+      "round": 0,
+      "file": "/home/user/.cache/hollywood_actresses/aligned/actress_00.wav",
+      "audio_start": 5.34,
+      "audio_duration": 12.843541666666667,
+      "speed": 1.0,
+      "source_duration": 12.843541666666667,
+      "source_offset": 5.134875,
+      "batch": 0,
+      "captions": [
+        {
+          "start": 5.34,
+          "end": 6.205125,
+          "text": "Julia Roberts."
+        },
+        {
+          "start": 6.585125,
+          "end": 10.945125,
+          "text": "Pretty Woman made her a global star; Erin Brockovich brought an Oscar."
+        },
+        {
+          "start": 11.565124999999998,
+          "end": 14.965124999999999,
+          "text": "Two different kinds of strength, one familiar smile."
+        },
+        {
+          "start": 15.665125,
+          "end": 18.183541666666667,
+          "text": "One point if you guessed correctly."
+        }
+      ]
+    },
+    {
+      "id": "actress_01",
+      "kind": "actress",
+      "actor": 1,
+      "name": "Angelina Jolie",
+      "text": "Angelina Jolie. Lara Croft and Maleficent are easy to remember. But her Oscar-winning performance in Girl, Interrupted is a reminder that the action-star image is only part of the story.",
+      "caption": "Angelina Jolie. Lara Croft and Maleficent are easy to remember. But her Oscar-winning performance in Girl, Interrupted is a reminder that the action-star image is only part of the story.",
+      "start": 22.0,
+      "duration": 19.0,
+      "lead": 0.34,
+      "guess": 3.0,
+      "hint": "An adventurer. A fairy-tale villain.",
+      "films": [
+        "Lara Croft",
+        "Maleficent",
+        "Girl, Interrupted"
+      ],
+      "round": 0,
+      "file": "/home/user/.cache/hollywood_actresses/aligned/actress_01.wav",
+      "audio_start": 25.34,
+      "audio_duration": 11.124791666666667,
+      "speed": 1.0,
+      "source_duration": 11.124791666666667,
+      "source_offset": 17.978416666666668,
+      "batch": 0,
+      "captions": [
+        {
+          "start": 25.34,
+          "end": 26.581583333333334,
+          "text": "Angelina Jolie."
+        },
+        {
+          "start": 27.301583333333333,
+          "end": 29.741583333333335,
+          "text": "Lara Croft and Maleficent are easy to remember."
+        },
+        {
+          "start": 30.26158333333333,
+          "end": 36.46479166666667,
+          "text": "But her Oscar-winning performance in Girl, Interrupted is a reminder that the action-star image is only part of the story."
+        }
+      ]
+    },
+    {
+      "id": "actress_02",
+      "kind": "actress",
+      "actor": 2,
+      "name": "Nicole Kidman",
+      "text": "Nicole Kidman. Moulin Rouge and The Hours could hardly feel more different. From musical spectacle to intimate character drama, changing direction has become part of her appeal.",
+      "caption": "Nicole Kidman. Moulin Rouge and The Hours could hardly feel more different. From musical spectacle to intimate character drama, changing direction has become part of her appeal.",
+      "start": 41.0,
+      "duration": 19.0,
+      "lead": 0.34,
+      "guess": 3.0,
+      "hint": "A musical. A literary drama.",
+      "films": [
+        "Moulin Rouge",
+        "The Hours"
+      ],
+      "round": 0,
+      "file": "/home/user/.cache/hollywood_actresses/aligned/actress_02.wav",
+      "audio_start": 44.34,
+      "audio_duration": 12.98375,
+      "speed": 1.0,
+      "source_duration": 12.98375,
+      "source_offset": 29.103208333333335,
+      "batch": 0,
+      "captions": [
+        {
+          "start": 44.34,
+          "end": 46.81679166666667,
+          "text": "Nicole Kidman."
+        },
+        {
+          "start": 47.79679166666667,
+          "end": 50.936791666666664,
+          "text": "Moulin Rouge and The Hours could hardly feel more different."
+        },
+        {
+          "start": 51.33679166666667,
+          "end": 57.323750000000004,
+          "text": "From musical spectacle to intimate character drama, changing direction has become part of her appeal."
+        }
+      ]
+    },
+    {
+      "id": "actress_03",
+      "kind": "actress",
+      "actor": 3,
+      "name": "Kate Winslet",
+      "text": "Kate Winslet. Titanic made Rose part of movie history. Mare of Easttown later traded sweeping romance for a small-town mystery. She can make both worlds feel lived in.",
+      "caption": "Kate Winslet. Titanic made Rose part of movie history. Mare of Easttown later traded sweeping romance for a small-town mystery. She can make both worlds feel lived in.",
+      "start": 60.0,
+      "duration": 19.0,
+      "lead": 0.34,
+      "guess": 3.0,
+      "hint": "A ship. A small-town detective.",
+      "films": [
+        "Titanic",
+        "Mare of Easttown"
+      ],
+      "round": 0,
+      "file": "/home/user/.cache/hollywood_actresses/aligned/actress_03.wav",
+      "audio_start": 63.34,
+      "audio_duration": 11.803,
+      "speed": 1.0,
+      "source_duration": 11.803,
+      "source_offset": 42.78741666666667,
+      "batch": 0,
+      "captions": [
+        {
+          "start": 63.34,
+          "end": 64.11258333333333,
+          "text": "Kate Winslet."
+        },
+        {
+          "start": 64.11258333333333,
+          "end": 67.49258333333333,
+          "text": "Titanic made Rose part of movie history."
+        },
+        {
+          "start": 68.25258333333333,
+          "end": 72.39258333333333,
+          "text": "Mare of Easttown later traded sweeping romance for a small-town mystery."
+        },
+        {
+          "start": 72.91258333333333,
+          "end": 75.143,
+          "text": "She can make both worlds feel lived in."
+        }
+      ]
+    },
+    {
+      "id": "actress_04",
+      "kind": "actress",
+      "actor": 4,
+      "name": "Sandra Bullock",
+      "text": "Sandra Bullock. Speed needed an action lead; Miss Congeniality needed comic timing. Her appeal connects the two: even in unlikely situations, her characters can feel like someone you know.",
+      "caption": "Sandra Bullock. Speed needed an action lead; Miss Congeniality needed comic timing. Her appeal connects the two: even in unlikely situations, her characters can feel like someone you know.",
+      "start": 79.0,
+      "duration": 19.0,
+      "lead": 0.34,
+      "guess": 3.0,
+      "hint": "A speeding bus. An undercover pageant.",
+      "films": [
+        "Speed",
+        "Miss Congeniality"
+      ],
+      "round": 0,
+      "file": "/home/user/.cache/hollywood_actresses/aligned/actress_04.wav",
+      "audio_start": 82.34,
+      "audio_duration": 13.713083333333334,
+      "speed": 1.0,
+      "source_duration": 13.713083333333334,
+      "source_offset": 0.15679166666666666,
+      "batch": 1,
+      "captions": [
+        {
+          "start": 82.34,
+          "end": 83.62320833333334,
+          "text": "Sandra Bullock."
+        },
+        {
+          "start": 83.68320833333334,
+          "end": 88.78320833333333,
+          "text": "Speed needed an action lead; Miss Congeniality needed comic timing."
+        },
+        {
+          "start": 89.42320833333333,
+          "end": 96.05308333333333,
+          "text": "Her appeal connects the two: even in unlikely situations, her characters can feel like someone you know."
+        }
+      ]
+    },
+    {
+      "id": "actress_05",
+      "kind": "actress",
+      "actor": 5,
+      "name": "Cameron Diaz",
+      "text": "Cameron Diaz. The Mask and There's Something About Mary are familiar starting points. But many viewers also grew up with her voice as Princess Fiona in Shrek. Did that clue help?",
+      "caption": "Cameron Diaz. The Mask and There's Something About Mary are familiar starting points. But many viewers also grew up with her voice as Princess Fiona in Shrek. Did that clue help?",
+      "start": 98.0,
+      "duration": 19.0,
+      "lead": 0.34,
+      "guess": 3.0,
+      "hint": "Comedy... and a fairy-tale princess.",
+      "films": [
+        "The Mask",
+        "There's Something About Mary",
+        "Shrek"
+      ],
+      "round": 0,
+      "file": "/home/user/.cache/hollywood_actresses/aligned/actress_05.wav",
+      "audio_start": 101.34,
+      "audio_duration": 11.607083333333334,
+      "speed": 1.0,
+      "source_duration": 11.607083333333334,
+      "source_offset": 14.519583333333335,
+      "batch": 1,
+      "captions": [
+        {
+          "start": 101.34,
+          "end": 102.24041666666666,
+          "text": "Cameron Diaz."
+        },
+        {
+          "start": 103.02041666666666,
+          "end": 106.74041666666666,
+          "text": "The Mask and There's Something About Mary are familiar starting points."
+        },
+        {
+          "start": 107.18041666666667,
+          "end": 111.50041666666667,
+          "text": "But many viewers also grew up with her voice as Princess Fiona in Shrek."
+        },
+        {
+          "start": 112.04041666666667,
+          "end": 112.94708333333334,
+          "text": "Did that clue help?"
+        }
+      ]
+    },
+    {
+      "id": "round_2",
+      "kind": "interlude",
+      "text": "Round two.",
+      "caption": "Round two.",
+      "start": 117.0,
+      "duration": 2.0,
+      "lead": 0.1,
+      "guess": 0,
+      "round": 1,
+      "file": "/home/user/.cache/hollywood_actresses/aligned/round_2.wav",
+      "audio_start": 117.1,
+      "audio_duration": 1.3740833333333333,
+      "speed": 1.0,
+      "source_duration": 1.3740833333333333,
+      "source_offset": 26.773374999999998,
+      "batch": 1,
+      "captions": [
+        {
+          "start": 117.1,
+          "end": 118.47408333333333,
+          "text": "Round two."
+        }
+      ]
+    },
+    {
+      "id": "actress_06",
+      "kind": "actress",
+      "actor": 6,
+      "name": "Winona Ryder",
+      "text": "Winona Ryder. Beetlejuice and Edward Scissorhands made her a defining face of offbeat cinema. Stranger Things later introduced her to another generation. A career can find a whole new audience.",
+      "caption": "Winona Ryder. Beetlejuice and Edward Scissorhands made her a defining face of offbeat cinema. Stranger Things later introduced her to another generation. A career can find a whole new audience.",
+      "start": 119.0,
+      "duration": 19.0,
+      "lead": 0.34,
+      "guess": 3.0,
+      "hint": "Offbeat cinema. A supernatural TV hit.",
+      "films": [
+        "Beetlejuice",
+        "Edward Scissorhands",
+        "Stranger Things"
+      ],
+      "round": 1,
+      "file": "/home/user/.cache/hollywood_actresses/aligned/actress_06.wav",
+      "audio_start": 122.34,
+      "audio_duration": 12.731833333333332,
+      "speed": 1.0,
+      "source_duration": 12.731833333333332,
+      "source_offset": 28.321166666666667,
+      "batch": 1,
+      "captions": [
+        {
+          "start": 122.34,
+          "end": 123.23883333333333,
+          "text": "Winona Ryder."
+        },
+        {
+          "start": 123.97883333333334,
+          "end": 128.53883333333334,
+          "text": "Beetlejuice and Edward Scissorhands made her a defining face of offbeat cinema."
+        },
+        {
+          "start": 129.03883333333334,
+          "end": 132.03883333333334,
+          "text": "Stranger Things later introduced her to another generation."
+        },
+        {
+          "start": 132.63883333333334,
+          "end": 135.07183333333333,
+          "text": "A career can find a whole new audience."
+        }
+      ]
+    },
+    {
+      "id": "actress_07",
+      "kind": "actress",
+      "actor": 7,
+      "name": "Demi Moore",
+      "text": "Demi Moore. Ghost became a pop-culture landmark. Decades later, The Substance put fame and appearances at the centre of her work again. A career doesn't have to end with its first peak.",
+      "caption": "Demi Moore. Ghost became a pop-culture landmark. Decades later, The Substance put fame and appearances at the centre of her work again. A career doesn't have to end with its first peak.",
+      "start": 138.0,
+      "duration": 19.0,
+      "lead": 0.34,
+      "guess": 3.0,
+      "hint": "A ghost story. A bold new chapter.",
+      "films": [
+        "Ghost",
+        "The Substance"
+      ],
+      "round": 1,
+      "file": "/home/user/.cache/hollywood_actresses/aligned/actress_07.wav",
+      "audio_start": 141.34,
+      "audio_duration": 12.404083333333332,
+      "speed": 1.0,
+      "source_duration": 12.404083333333332,
+      "source_offset": 41.730500000000006,
+      "batch": 1,
+      "captions": [
+        {
+          "start": 141.34,
+          "end": 142.2295,
+          "text": "Demi Moore."
+        },
+        {
+          "start": 143.2495,
+          "end": 145.1295,
+          "text": "Ghost became a pop-culture landmark."
+        },
+        {
+          "start": 145.7095,
+          "end": 150.1895,
+          "text": "Decades later, The Substance put fame and appearances at the centre of her work again."
+        },
+        {
+          "start": 150.1895,
+          "end": 153.74408333333332,
+          "text": "A career doesn't have to end with its first peak."
+        }
+      ]
+    },
+    {
+      "id": "actress_08",
+      "kind": "actress",
+      "actor": 8,
+      "name": "Meg Ryan",
+      "text": "Meg Ryan. When Harry Met Sally and You've Got Mail made conversation feel cinematic. Her comedy often lives in the timing: a pause, a glance, a slightly awkward moment.",
+      "caption": "Meg Ryan. When Harry Met Sally and You've Got Mail made conversation feel cinematic. Her comedy often lives in the timing: a pause, a glance, a slightly awkward moment.",
+      "start": 157.0,
+      "duration": 19.0,
+      "lead": 0.34,
+      "guess": 3.0,
+      "hint": "Love, laughter... and email.",
+      "films": [
+        "When Harry Met Sally",
+        "You've Got Mail"
+      ],
+      "round": 1,
+      "file": "/home/user/.cache/hollywood_actresses/aligned/actress_08.wav",
+      "audio_start": 160.34,
+      "audio_duration": 12.463125,
+      "speed": 1.0,
+      "source_duration": 12.463125,
+      "source_offset": 0.17208333333333334,
+      "batch": 2,
+      "captions": [
+        {
+          "start": 160.34,
+          "end": 161.20791666666668,
+          "text": "Meg Ryan."
+        },
+        {
+          "start": 161.88791666666668,
+          "end": 166.54791666666668,
+          "text": "When Harry Met Sally and You've Got Mail made conversation feel cinematic."
+        },
+        {
+          "start": 167.24791666666667,
+          "end": 172.803125,
+          "text": "Her comedy often lives in the timing: a pause, a glance, a slightly awkward moment."
+        }
+      ]
+    },
+    {
+      "id": "actress_09",
+      "kind": "actress",
+      "actor": 9,
+      "name": "Halle Berry",
+      "text": "Halle Berry. Storm made her a superhero; Monster's Ball brought an Oscar. Those roles ask for very different kinds of presence. Her filmography is more varied than any single label.",
+      "caption": "Halle Berry. Storm made her a superhero; Monster's Ball brought an Oscar. Those roles ask for very different kinds of presence. Her filmography is more varied than any single label.",
+      "start": 176.0,
+      "duration": 19.0,
+      "lead": 0.34,
+      "guess": 3.0,
+      "hint": "A superhero. An Oscar-winning drama.",
+      "films": [
+        "Storm",
+        "Monster's Ball"
+      ],
+      "round": 1,
+      "file": "/home/user/.cache/hollywood_actresses/aligned/actress_09.wav",
+      "audio_start": 179.34,
+      "audio_duration": 12.041333333333334,
+      "speed": 1.0,
+      "source_duration": 12.041333333333334,
+      "source_offset": 13.023625000000001,
+      "batch": 2,
+      "captions": [
+        {
+          "start": 179.34,
+          "end": 180.276375,
+          "text": "Halle Berry."
+        },
+        {
+          "start": 180.91637500000002,
+          "end": 184.496375,
+          "text": "Storm made her a superhero; Monster's Ball brought an Oscar."
+        },
+        {
+          "start": 185.156375,
+          "end": 187.476375,
+          "text": "Those roles ask for very different kinds of presence."
+        },
+        {
+          "start": 188.256375,
+          "end": 191.38133333333334,
+          "text": "Her filmography is more varied than any single label."
+        }
+      ]
+    },
+    {
+      "id": "actress_10",
+      "kind": "actress",
+      "actor": 10,
+      "name": "Charlize Theron",
+      "text": "Charlize Theron. Monster and Mad Max, Fury Road make an unusual double bill. One leans on intimate character work, the other on physical intensity. She makes space for both.",
+      "caption": "Charlize Theron. Monster and Mad Max: Fury Road make an unusual double bill. One leans on intimate character work, the other on physical intensity. She makes space for both.",
+      "start": 195.0,
+      "duration": 19.0,
+      "lead": 0.34,
+      "guess": 3.0,
+      "hint": "A desert warrior. A dramatic transformation.",
+      "films": [
+        "Monster",
+        "Mad Max: Fury Road"
+      ],
+      "round": 1,
+      "file": "/home/user/.cache/hollywood_actresses/aligned/actress_10.wav",
+      "audio_start": 198.34,
+      "audio_duration": 11.902916666666666,
+      "speed": 1.0,
+      "source_duration": 11.902916666666666,
+      "source_offset": 25.659916666666668,
+      "batch": 2,
+      "captions": [
+        {
+          "start": 198.34,
+          "end": 199.60008333333334,
+          "text": "Charlize Theron."
+        },
+        {
+          "start": 199.92008333333334,
+          "end": 204.12008333333333,
+          "text": "Monster and Mad Max: Fury Road make an unusual double bill."
+        },
+        {
+          "start": 204.54008333333334,
+          "end": 208.50008333333332,
+          "text": "One leans on intimate character work, the other on physical intensity."
+        },
+        {
+          "start": 208.92008333333334,
+          "end": 210.24291666666667,
+          "text": "She makes space for both."
+        }
+      ]
+    },
+    {
+      "id": "actress_11",
+      "kind": "actress",
+      "actor": 11,
+      "name": "Sharon Stone",
+      "text": "Sharon Stone. Casino earned her an Oscar nomination. It also shows why an actress associated with glamour can be so compelling when a character's carefully built world starts falling apart.",
+      "caption": "Sharon Stone. Casino earned her an Oscar nomination. It also shows why an actress associated with glamour can be so compelling when a character's carefully built world starts falling apart.",
+      "start": 214.0,
+      "duration": 19.0,
+      "lead": 0.34,
+      "guess": 3.0,
+      "hint": "Thrillers. Glamour. A casino.",
+      "films": [
+        "Casino"
+      ],
+      "round": 1,
+      "file": "/home/user/.cache/hollywood_actresses/aligned/actress_11.wav",
+      "audio_start": 217.34,
+      "audio_duration": 11.305958333333333,
+      "speed": 1.0,
+      "source_duration": 11.305958333333333,
+      "source_offset": 38.17854166666667,
+      "batch": 2,
+      "captions": [
+        {
+          "start": 217.34,
+          "end": 218.30145833333333,
+          "text": "Sharon Stone."
+        },
+        {
+          "start": 219.10145833333334,
+          "end": 220.86145833333333,
+          "text": "Casino earned her an Oscar nomination."
+        },
+        {
+          "start": 221.38145833333334,
+          "end": 228.64595833333334,
+          "text": "It also shows why an actress associated with glamour can be so compelling when a character's carefully built world starts falling apart."
+        }
+      ]
+    },
+    {
+      "id": "round_3",
+      "kind": "interlude",
+      "text": "Halfway. Round three.",
+      "caption": "Halfway. Round three.",
+      "start": 233.0,
+      "duration": 2.0,
+      "lead": 0.1,
+      "guess": 0,
+      "round": 2,
+      "file": "/home/user/.cache/hollywood_actresses/aligned/round_3.wav",
+      "audio_start": 233.1,
+      "audio_duration": 1.663,
+      "speed": 1.358308232931727,
+      "source_duration": 2.2547916666666667,
+      "source_offset": 0.09566666666666666,
+      "batch": 3,
+      "captions": [
+        {
+          "start": 233.1,
+          "end": 233.83964039545413,
+          "text": "Halfway."
+        },
+        {
+          "start": 233.94246955557608,
+          "end": 234.763,
+          "text": "Round three."
+        }
+      ]
+    },
+    {
+      "id": "actress_12",
+      "kind": "actress",
+      "actor": 12,
+      "name": "Salma Hayek",
+      "text": "Salma Hayek. Desperado showed her charisma; Frida put her inside a painter's story. She also helped bring Frida to the screen as a producer, not just as its leading actress.",
+      "caption": "Salma Hayek. Desperado showed her charisma; Frida put her inside a painter's story. She also helped bring Frida to the screen as a producer, not just as its leading actress.",
+      "start": 235.0,
+      "duration": 19.0,
+      "lead": 0.34,
+      "guess": 3.0,
+      "hint": "An action star... and a painter.",
+      "films": [
+        "Desperado",
+        "Frida"
+      ],
+      "round": 2,
+      "file": "/home/user/.cache/hollywood_actresses/aligned/actress_12.wav",
+      "audio_start": 238.34,
+      "audio_duration": 11.672791666666667,
+      "speed": 1.0,
+      "source_duration": 11.672791666666667,
+      "source_offset": 3.0399999999999996,
+      "batch": 3,
+      "captions": [
+        {
+          "start": 238.34,
+          "end": 239.62,
+          "text": "Salma Hayek."
+        },
+        {
+          "start": 239.98,
+          "end": 244.62,
+          "text": "Desperado showed her charisma; Frida put her inside a painter's story."
+        },
+        {
+          "start": 245.06,
+          "end": 250.01279166666666,
+          "text": "She also helped bring Frida to the screen as a producer, not just as its leading actress."
+        }
+      ]
+    },
+    {
+      "id": "actress_13",
+      "kind": "actress",
+      "actor": 13,
+      "name": "Cate Blanchett",
+      "text": "Cate Blanchett. Elizabeth, The Lord of the Rings and Tar all give her characters authority. But the queen, the elf and the conductor use their power in very different ways.",
+      "caption": "Cate Blanchett. Elizabeth, The Lord of the Rings and Tár all give her characters authority. But the queen, the elf and the conductor use their power in very different ways.",
+      "start": 254.0,
+      "duration": 19.0,
+      "lead": 0.34,
+      "guess": 3.0,
+      "hint": "A queen. An elf. A conductor.",
+      "films": [
+        "Elizabeth",
+        "The Lord of the Rings",
+        "Tár"
+      ],
+      "round": 2,
+      "file": "/home/user/.cache/hollywood_actresses/aligned/actress_13.wav",
+      "audio_start": 257.34,
+      "audio_duration": 11.543541666666666,
+      "speed": 1.0,
+      "source_duration": 11.543541666666666,
+      "source_offset": 15.196166666666667,
+      "batch": 3,
+      "captions": [
+        {
+          "start": 257.34,
+          "end": 258.54383333333334,
+          "text": "Cate Blanchett."
+        },
+        {
+          "start": 259.1038333333333,
+          "end": 263.34383333333335,
+          "text": "Elizabeth, The Lord of the Rings and Tár all give her characters authority."
+        },
+        {
+          "start": 263.8238333333333,
+          "end": 268.88354166666664,
+          "text": "But the queen, the elf and the conductor use their power in very different ways."
+        }
+      ]
+    },
+    {
+      "id": "actress_14",
+      "kind": "actress",
+      "actor": 14,
+      "name": "Anne Hathaway",
+      "text": "Anne Hathaway. Genovia's princess later became Catwoman, then Fantine in Les Miserables. Those changes show how far a familiar face can travel without staying inside one comfortable genre.",
+      "caption": "Anne Hathaway. Genovia's princess later became Catwoman, then Fantine in Les Misérables. Those changes show how far a familiar face can travel without staying inside one comfortable genre.",
+      "start": 273.0,
+      "duration": 19.0,
+      "lead": 0.34,
+      "guess": 3.0,
+      "hint": "Genovia... then Gotham.",
+      "films": [
+        "The Princess Diaries",
+        "Catwoman",
+        "Les Misérables"
+      ],
+      "round": 2,
+      "file": "/home/user/.cache/hollywood_actresses/aligned/actress_14.wav",
+      "audio_start": 276.34,
+      "audio_duration": 12.66975,
+      "speed": 1.0,
+      "source_duration": 12.66975,
+      "source_offset": 27.376958333333334,
+      "batch": 3,
+      "captions": [
+        {
+          "start": 276.34,
+          "end": 277.38304166666666,
+          "text": "Anne Hathaway."
+        },
+        {
+          "start": 279.00304166666666,
+          "end": 282.82304166666665,
+          "text": "Genovia's princess later became Catwoman, then Fantine in Les Misérables."
+        },
+        {
+          "start": 283.06304166666666,
+          "end": 289.00975,
+          "text": "Those changes show how far a familiar face can travel without staying inside one comfortable genre."
+        }
+      ]
+    },
+    {
+      "id": "actress_15",
+      "kind": "actress",
+      "actor": 15,
+      "name": "Natalie Portman",
+      "text": "Natalie Portman. A queen in Star Wars, a dancer in Black Swan, and a scientist in Thor. Three very different characters, connected by a performer who keeps changing direction.",
+      "caption": "Natalie Portman. A queen in Star Wars, a dancer in Black Swan, and a scientist in Thor. Three very different characters, connected by a performer who keeps changing direction.",
+      "start": 292.0,
+      "duration": 19.0,
+      "lead": 0.34,
+      "guess": 3.0,
+      "hint": "A queen. A dancer. A scientist.",
+      "films": [
+        "Star Wars",
+        "Black Swan",
+        "Thor"
+      ],
+      "round": 2,
+      "file": "/home/user/.cache/hollywood_actresses/aligned/actress_15.wav",
+      "audio_start": 295.34,
+      "audio_duration": 11.874666666666666,
+      "speed": 1.0,
+      "source_duration": 11.874666666666666,
+      "source_offset": 40.825250000000004,
+      "batch": 3,
+      "captions": [
+        {
+          "start": 295.34,
+          "end": 296.49475,
+          "text": "Natalie Portman."
+        },
+        {
+          "start": 296.79474999999996,
+          "end": 301.87475,
+          "text": "A queen in Star Wars, a dancer in Black Swan, and a scientist in Thor."
+        },
+        {
+          "start": 302.33475,
+          "end": 307.21466666666663,
+          "text": "Three very different characters, connected by a performer who keeps changing direction."
+        }
+      ]
+    },
+    {
+      "id": "actress_16",
+      "kind": "actress",
+      "actor": 16,
+      "name": "Scarlett Johansson",
+      "text": "Scarlett Johansson. In Her, she built a character using only her voice. Black Widow needed a different kind of presence. Same performer, completely different tools. Which role came to mind first?",
+      "caption": "Scarlett Johansson. In Her, she built a character using only her voice. Black Widow needed a different kind of presence. Same performer, completely different tools. Which role came to mind first?",
+      "start": 311.0,
+      "duration": 19.0,
+      "lead": 0.34,
+      "guess": 3.0,
+      "hint": "A superhero... and a voice-only role.",
+      "films": [
+        "Her",
+        "Black Widow"
+      ],
+      "round": 2,
+      "file": "/home/user/.cache/hollywood_actresses/aligned/actress_16.wav",
+      "audio_start": 314.34,
+      "audio_duration": 13.549875,
+      "speed": 1.0,
+      "source_duration": 13.549875,
+      "source_offset": 0.0,
+      "batch": 4,
+      "captions": [
+        {
+          "start": 314.34,
+          "end": 315.75,
+          "text": "Scarlett Johansson."
+        },
+        {
+          "start": 316.21,
+          "end": 319.71,
+          "text": "In Her, she built a character using only her voice."
+        },
+        {
+          "start": 320.09,
+          "end": 322.95,
+          "text": "Black Widow needed a different kind of presence."
+        },
+        {
+          "start": 323.57,
+          "end": 325.96999999999997,
+          "text": "Same performer, completely different tools."
+        },
+        {
+          "start": 326.21,
+          "end": 327.88987499999996,
+          "text": "Which role came to mind first?"
+        }
+      ]
+    },
+    {
+      "id": "actress_17",
+      "kind": "actress",
+      "actor": 17,
+      "name": "Penélope Cruz",
+      "text": "Penelope Cruz. Volver and Vicky Cristina Barcelona show different sides of her screen presence. Moving between Spanish-language cinema and Hollywood has made that range an important part of her career.",
+      "caption": "Penélope Cruz. Volver and Vicky Cristina Barcelona show different sides of her screen presence. Moving between Spanish-language cinema and Hollywood has made that range an important part of her career.",
+      "start": 330.0,
+      "duration": 19.0,
+      "lead": 0.34,
+      "guess": 3.0,
+      "hint": "Spanish drama. Hollywood comedy.",
+      "films": [
+        "Volver",
+        "Vicky Cristina Barcelona"
+      ],
+      "round": 2,
+      "file": "/home/user/.cache/hollywood_actresses/aligned/actress_17.wav",
+      "audio_start": 333.34,
+      "audio_duration": 12.118083333333333,
+      "speed": 1.0,
+      "source_duration": 12.118083333333333,
+      "source_offset": 14.109375000000002,
+      "batch": 4,
+      "captions": [
+        {
+          "start": 333.34,
+          "end": 334.300625,
+          "text": "Penélope Cruz."
+        },
+        {
+          "start": 335.020625,
+          "end": 339.380625,
+          "text": "Volver and Vicky Cristina Barcelona show different sides of her screen presence."
+        },
+        {
+          "start": 339.980625,
+          "end": 345.4580833333333,
+          "text": "Moving between Spanish-language cinema and Hollywood has made that range an important part of her career."
+        }
+      ]
+    },
+    {
+      "id": "round_4",
+      "kind": "interlude",
+      "text": "The final round.",
+      "caption": "The final round.",
+      "start": 349.0,
+      "duration": 2.0,
+      "lead": 0.1,
+      "guess": 0,
+      "round": 3,
+      "file": "/home/user/.cache/hollywood_actresses/aligned/round_4.wav",
+      "audio_start": 349.1,
+      "audio_duration": 1.6599166666666667,
+      "speed": 1.171686746987952,
+      "source_duration": 1.945,
+      "source_offset": 26.844125000000002,
+      "batch": 4,
+      "captions": [
+        {
+          "start": 349.1,
+          "end": 350.7599166666667,
+          "text": "The final round."
+        }
+      ]
+    },
+    {
+      "id": "actress_18",
+      "kind": "actress",
+      "actor": 18,
+      "name": "Lucy Liu",
+      "text": "Lucy Liu. Charlie's Angels made her an action favorite. Elementary then gave her a long-running role as Joan Watson. Two different formats, with the same sharp sense of character.",
+      "caption": "Lucy Liu. Charlie's Angels made her an action favorite. Elementary then gave her a long-running role as Joan Watson. Two different formats, with the same sharp sense of character.",
+      "start": 351.0,
+      "duration": 19.0,
+      "lead": 0.34,
+      "guess": 3.0,
+      "hint": "An angel. A detective.",
+      "films": [
+        "Charlie's Angels",
+        "Elementary"
+      ],
+      "round": 3,
+      "file": "/home/user/.cache/hollywood_actresses/aligned/actress_18.wav",
+      "audio_start": 354.34,
+      "audio_duration": 11.457708333333333,
+      "speed": 1.0,
+      "source_duration": 11.457708333333333,
+      "source_offset": 28.789125000000002,
+      "batch": 4,
+      "captions": [
+        {
+          "start": 354.34,
+          "end": 355.060875,
+          "text": "Lucy Liu."
+        },
+        {
+          "start": 355.56087499999995,
+          "end": 358.000875,
+          "text": "Charlie's Angels made her an action favorite."
+        },
+        {
+          "start": 358.460875,
+          "end": 361.920875,
+          "text": "Elementary then gave her a long-running role as Joan Watson."
+        },
+        {
+          "start": 362.48087499999997,
+          "end": 365.79770833333333,
+          "text": "Two different formats, with the same sharp sense of character."
+        }
+      ]
+    },
+    {
+      "id": "actress_19",
+      "kind": "actress",
+      "actor": 19,
+      "name": "Uma Thurman",
+      "text": "Uma Thurman. The dance floor in Pulp Fiction and the action of Kill Bill are hard to confuse. Yet both turn timing and physical presence into something instantly memorable.",
+      "caption": "Uma Thurman. The dance floor in Pulp Fiction and the action of Kill Bill are hard to confuse. Yet both turn timing and physical presence into something instantly memorable.",
+      "start": 370.0,
+      "duration": 19.0,
+      "lead": 0.34,
+      "guess": 3.0,
+      "hint": "A dance floor. A yellow jumpsuit.",
+      "films": [
+        "Pulp Fiction",
+        "Kill Bill"
+      ],
+      "round": 3,
+      "file": "/home/user/.cache/hollywood_actresses/aligned/actress_19.wav",
+      "audio_start": 373.34,
+      "audio_duration": 10.754125,
+      "speed": 1.0,
+      "source_duration": 10.754125,
+      "source_offset": 40.90400000000001,
+      "batch": 4,
+      "captions": [
+        {
+          "start": 373.34,
+          "end": 374.226,
+          "text": "Uma Thurman."
+        },
+        {
+          "start": 374.82599999999996,
+          "end": 378.986,
+          "text": "The dance floor in Pulp Fiction and the action of Kill Bill are hard to confuse."
+        },
+        {
+          "start": 379.38599999999997,
+          "end": 384.09412499999996,
+          "text": "Yet both turn timing and physical presence into something instantly memorable."
+        }
+      ]
+    },
+    {
+      "id": "actress_20",
+      "kind": "actress",
+      "actor": 20,
+      "name": "Jodie Foster",
+      "text": "Jodie Foster. The Silence of the Lambs made Clarice Starling iconic. She's also directed films, adding another viewpoint to a career that began in childhood. The story extends beyond acting.",
+      "caption": "Jodie Foster. The Silence of the Lambs made Clarice Starling iconic. She's also directed films, adding another viewpoint to a career that began in childhood. The story extends beyond acting.",
+      "start": 389.0,
+      "duration": 19.0,
+      "lead": 0.34,
+      "guess": 3.0,
+      "hint": "An FBI trainee... and a director.",
+      "films": [
+        "The Silence of the Lambs"
+      ],
+      "round": 3,
+      "file": "/home/user/.cache/hollywood_actresses/aligned/actress_20.wav",
+      "audio_start": 392.34,
+      "audio_duration": 13.003208333333333,
+      "speed": 1.0,
+      "source_duration": 13.003208333333333,
+      "source_offset": 0.13804166666666667,
+      "batch": 5,
+      "captions": [
+        {
+          "start": 392.34,
+          "end": 393.3419583333333,
+          "text": "Jodie Foster."
+        },
+        {
+          "start": 393.9619583333333,
+          "end": 397.12195833333334,
+          "text": "The Silence of the Lambs made Clarice Starling iconic."
+        },
+        {
+          "start": 397.56195833333334,
+          "end": 402.4619583333333,
+          "text": "She's also directed films, adding another viewpoint to a career that began in childhood."
+        },
+        {
+          "start": 403.0219583333333,
+          "end": 405.34320833333334,
+          "text": "The story extends beyond acting."
+        }
+      ]
+    },
+    {
+      "id": "actress_21",
+      "kind": "actress",
+      "actor": 21,
+      "name": "Sigourney Weaver",
+      "text": "Sigourney Weaver. Ripley in Alien became a science-fiction landmark. Ghostbusters revealed her comic side, and Avatar opened another world. That's a lot of movie history in one familiar face.",
+      "caption": "Sigourney Weaver. Ripley in Alien became a science-fiction landmark. Ghostbusters revealed her comic side, and Avatar opened another world. That's a lot of movie history in one familiar face.",
+      "start": 408.0,
+      "duration": 19.0,
+      "lead": 0.34,
+      "guess": 3.0,
+      "hint": "A space survivor. A comedy legend.",
+      "films": [
+        "Alien",
+        "Ghostbusters",
+        "Avatar"
+      ],
+      "round": 3,
+      "file": "/home/user/.cache/hollywood_actresses/aligned/actress_21.wav",
+      "audio_start": 411.34,
+      "audio_duration": 13.52825,
+      "speed": 1.0,
+      "source_duration": 13.52825,
+      "source_offset": 13.597458333333334,
+      "batch": 5,
+      "captions": [
+        {
+          "start": 411.34,
+          "end": 412.46254166666665,
+          "text": "Sigourney Weaver."
+        },
+        {
+          "start": 413.22254166666664,
+          "end": 416.3025416666667,
+          "text": "Ripley in Alien became a science-fiction landmark."
+        },
+        {
+          "start": 416.98254166666663,
+          "end": 421.20254166666666,
+          "text": "Ghostbusters revealed her comic side, and Avatar opened another world."
+        },
+        {
+          "start": 421.60254166666664,
+          "end": 424.86825,
+          "text": "That's a lot of movie history in one familiar face."
+        }
+      ]
+    },
+    {
+      "id": "actress_22",
+      "kind": "actress",
+      "actor": 22,
+      "name": "Jamie Lee Curtis",
+      "text": "Jamie Lee Curtis. Halloween made her a horror icon. Everything Everywhere All at Once brought an Oscar decades later. The contrast is a good reminder: an actor can keep surprising us.",
+      "caption": "Jamie Lee Curtis. Halloween made her a horror icon. Everything Everywhere All at Once brought an Oscar decades later. The contrast is a good reminder: an actor can keep surprising us.",
+      "start": 427.0,
+      "duration": 19.0,
+      "lead": 0.34,
+      "guess": 3.0,
+      "hint": "A scream queen. An Oscar winner.",
+      "films": [
+        "Halloween",
+        "Everything Everywhere All at Once"
+      ],
+      "round": 3,
+      "file": "/home/user/.cache/hollywood_actresses/aligned/actress_22.wav",
+      "audio_start": 430.34,
+      "audio_duration": 12.245833333333334,
+      "speed": 1.0,
+      "source_duration": 12.245833333333334,
+      "source_offset": 27.68525,
+      "batch": 5,
+      "captions": [
+        {
+          "start": 430.34,
+          "end": 431.59475,
+          "text": "Jamie Lee Curtis."
+        },
+        {
+          "start": 432.03475,
+          "end": 434.21475,
+          "text": "Halloween made her a horror icon."
+        },
+        {
+          "start": 434.65475,
+          "end": 438.31475,
+          "text": "Everything Everywhere All at Once brought an Oscar decades later."
+        },
+        {
+          "start": 438.69475,
+          "end": 442.5858333333333,
+          "text": "The contrast is a good reminder: an actor can keep surprising us."
+        }
+      ]
+    },
+    {
+      "id": "actress_23",
+      "kind": "actress",
+      "actor": 23,
+      "name": "Meryl Streep",
+      "text": "Meryl Streep. Sophie's Choice and The Devil Wears Prada give us very different versions of her talent. Part of the pleasure is never knowing exactly who she'll become in the next role.",
+      "caption": "Meryl Streep. Sophie's Choice and The Devil Wears Prada give us very different versions of her talent. Part of the pleasure is never knowing exactly who she'll become in the next role.",
+      "start": 446.0,
+      "duration": 19.0,
+      "lead": 0.34,
+      "guess": 3.0,
+      "hint": "Fashion. Music. Fearless drama.",
+      "films": [
+        "Sophie's Choice",
+        "The Devil Wears Prada"
+      ],
+      "round": 3,
+      "file": "/home/user/.cache/hollywood_actresses/aligned/actress_23.wav",
+      "audio_start": 449.34,
+      "audio_duration": 10.378083333333333,
+      "speed": 1.0,
+      "source_duration": 10.378083333333333,
+      "source_offset": 40.50116666666667,
+      "batch": 5,
+      "captions": [
+        {
+          "start": 449.34,
+          "end": 450.41883333333334,
+          "text": "Meryl Streep."
+        },
+        {
+          "start": 451.0588333333333,
+          "end": 454.9988333333333,
+          "text": "Sophie's Choice and The Devil Wears Prada give us very different versions of her talent."
+        },
+        {
+          "start": 455.4588333333333,
+          "end": 459.7180833333333,
+          "text": "Part of the pleasure is never knowing exactly who she'll become in the next role."
+        }
+      ]
+    },
+    {
+      "id": "outro",
+      "kind": "outro",
+      "text": "Your score out of twenty-four? Which face surprised you most?",
+      "caption": "Your score out of twenty-four? Which face surprised you most?",
+      "start": 465.0,
+      "duration": 5.0,
+      "lead": 0.15,
+      "guess": 0,
+      "file": "/home/user/.cache/hollywood_actresses/aligned/outro.wav",
+      "audio_start": 465.15,
+      "audio_duration": 3.3782916666666667,
+      "speed": 1.0,
+      "source_duration": 3.3782916666666667,
+      "source_offset": 51.222375,
+      "batch": 5,
+      "captions": [
+        {
+          "start": 465.15,
+          "end": 466.427625,
+          "text": "Your score out of twenty-four?"
+        },
+        {
+          "start": 467.00762499999996,
+          "end": 468.52829166666663,
+          "text": "Which face surprised you most?"
+        }
+      ]
+    }
+  ],
+  "opening_setup_seconds": 2,
+  "first_guess_start_seconds": 2,
+  "first_name_reveal_seconds": 5,
+  "second_name_reveal_seconds": 25
+}

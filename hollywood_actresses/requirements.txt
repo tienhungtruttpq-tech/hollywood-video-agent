@@ -1,0 +1,7 @@
+Pillow==12.3.0
+numpy==2.3.5
+scipy==1.17.1
+opencv-python-headless
+imageio-ffmpeg==0.6.0
+requests==2.33.0
+faster-whisper==1.2.1

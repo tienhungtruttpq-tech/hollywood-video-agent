@@ -1,0 +1,574 @@
+{
+  "parts": [
+    {
+      "id": "intro",
+      "kind": "intro",
+      "text": "Name the actress. Three seconds. Go.",
+      "caption": "Name the actress. Three seconds. Go.",
+      "start": 0.0,
+      "duration": 3.0,
+      "lead": 0.12,
+      "guess": 0
+    },
+    {
+      "id": "actress_00",
+      "kind": "actress",
+      "actor": 0,
+      "name": "Julia Roberts",
+      "text": "Julia Roberts. Pretty Woman made her a global star; Erin Brockovich brought an Oscar. Two different kinds of strength, one familiar smile. One point if you guessed correctly.",
+      "caption": "Julia Roberts. Pretty Woman made her a global star; Erin Brockovich brought an Oscar. Two different kinds of strength, one familiar smile. One point if you guessed correctly.",
+      "start": 3.0,
+      "duration": 19.0,
+      "lead": 0.34,
+      "guess": 0.0,
+      "hint": "Rom-com royalty",
+      "films": [
+        "Pretty Woman",
+        "Erin Brockovich"
+      ],
+      "round": 0
+    },
+    {
+      "id": "actress_01",
+      "kind": "actress",
+      "actor": 1,
+      "name": "Angelina Jolie",
+      "text": "Angelina Jolie. Lara Croft and Maleficent are easy to remember. But her Oscar-winning performance in Girl, Interrupted is a reminder that the action-star image is only part of the story.",
+      "caption": "Angelina Jolie. Lara Croft and Maleficent are easy to remember. But her Oscar-winning performance in Girl, Interrupted is a reminder that the action-star image is only part of the story.",
+      "start": 22.0,
+      "duration": 19.0,
+      "lead": 0.34,
+      "guess": 3.0,
+      "hint": "An adventurer. A fairy-tale villain.",
+      "films": [
+        "Lara Croft",
+        "Maleficent",
+        "Girl, Interrupted"
+      ],
+      "round": 0
+    },
+    {
+      "id": "actress_02",
+      "kind": "actress",
+      "actor": 2,
+      "name": "Nicole Kidman",
+      "text": "Nicole Kidman. Moulin Rouge and The Hours could hardly feel more different. From musical spectacle to intimate character drama, changing direction has become part of her appeal.",
+      "caption": "Nicole Kidman. Moulin Rouge and The Hours could hardly feel more different. From musical spectacle to intimate character drama, changing direction has become part of her appeal.",
+      "start": 41.0,
+      "duration": 19.0,
+      "lead": 0.34,
+      "guess": 3.0,
+      "hint": "A musical. A literary drama.",
+      "films": [
+        "Moulin Rouge",
+        "The Hours"
+      ],
+      "round": 0
+    },
+    {
+      "id": "actress_03",
+      "kind": "actress",
+      "actor": 3,
+      "name": "Kate Winslet",
+      "text": "Kate Winslet. Titanic made Rose part of movie history. Mare of Easttown later traded sweeping romance for a small-town mystery. She can make both worlds feel lived in.",
+      "caption": "Kate Winslet. Titanic made Rose part of movie history. Mare of Easttown later traded sweeping romance for a small-town mystery. She can make both worlds feel lived in.",
+      "start": 60.0,
+      "duration": 19.0,
+      "lead": 0.34,
+      "guess": 3.0,
+      "hint": "A ship. A small-town detective.",
+      "films": [
+        "Titanic",
+        "Mare of Easttown"
+      ],
+      "round": 0
+    },
+    {
+      "id": "actress_04",
+      "kind": "actress",
+      "actor": 4,
+      "name": "Sandra Bullock",
+      "text": "Sandra Bullock. Speed needed an action lead; Miss Congeniality needed comic timing. Her appeal connects the two: even in unlikely situations, her characters can feel like someone you know.",
+      "caption": "Sandra Bullock. Speed needed an action lead; Miss Congeniality needed comic timing. Her appeal connects the two: even in unlikely situations, her characters can feel like someone you know.",
+      "start": 79.0,
+      "duration": 19.0,
+      "lead": 0.34,
+      "guess": 3.0,
+      "hint": "A speeding bus. An undercover pageant.",
+      "films": [
+        "Speed",
+        "Miss Congeniality"
+      ],
+      "round": 0
+    },
+    {
+      "id": "actress_05",
+      "kind": "actress",
+      "actor": 5,
+      "name": "Cameron Diaz",
+      "text": "Cameron Diaz. The Mask and There's Something About Mary are familiar starting points. But many viewers also grew up with her voice as Princess Fiona in Shrek. Did that clue help?",
+      "caption": "Cameron Diaz. The Mask and There's Something About Mary are familiar starting points. But many viewers also grew up with her voice as Princess Fiona in Shrek. Did that clue help?",
+      "start": 98.0,
+      "duration": 19.0,
+      "lead": 0.34,
+      "guess": 3.0,
+      "hint": "Comedy... and a fairy-tale princess.",
+      "films": [
+        "The Mask",
+        "There's Something About Mary",
+        "Shrek"
+      ],
+      "round": 0
+    },
+    {
+      "id": "round_2",
+      "kind": "interlude",
+      "text": "Round two.",
+      "caption": "Round two.",
+      "start": 117.0,
+      "duration": 2.0,
+      "lead": 0.1,
+      "guess": 0,
+      "round": 1
+    },
+    {
+      "id": "actress_06",
+      "kind": "actress",
+      "actor": 6,
+      "name": "Winona Ryder",
+      "text": "Winona Ryder. Beetlejuice and Edward Scissorhands made her a defining face of offbeat cinema. Stranger Things later introduced her to another generation. A career can find a whole new audience.",
+      "caption": "Winona Ryder. Beetlejuice and Edward Scissorhands made her a defining face of offbeat cinema. Stranger Things later introduced her to another generation. A career can find a whole new audience.",
+      "start": 119.0,
+      "duration": 19.0,
+      "lead": 0.34,
+      "guess": 3.0,
+      "hint": "Offbeat cinema. A supernatural TV hit.",
+      "films": [
+        "Beetlejuice",
+        "Edward Scissorhands",
+        "Stranger Things"
+      ],
+      "round": 1
+    },
+    {
+      "id": "actress_07",
+      "kind": "actress",
+      "actor": 7,
+      "name": "Demi Moore",
+      "text": "Demi Moore. Ghost became a pop-culture landmark. Decades later, The Substance put fame and appearances at the centre of her work again. A career doesn't have to end with its first peak.",
+      "caption": "Demi Moore. Ghost became a pop-culture landmark. Decades later, The Substance put fame and appearances at the centre of her work again. A career doesn't have to end with its first peak.",
+      "start": 138.0,
+      "duration": 19.0,
+      "lead": 0.34,
+      "guess": 3.0,
+      "hint": "A ghost story. A bold new chapter.",
+      "films": [
+        "Ghost",
+        "The Substance"
+      ],
+      "round": 1
+    },
+    {
+      "id": "actress_08",
+      "kind": "actress",
+      "actor": 8,
+      "name": "Meg Ryan",
+      "text": "Meg Ryan. When Harry Met Sally and You've Got Mail made conversation feel cinematic. Her comedy often lives in the timing: a pause, a glance, a slightly awkward moment.",
+      "caption": "Meg Ryan. When Harry Met Sally and You've Got Mail made conversation feel cinematic. Her comedy often lives in the timing: a pause, a glance, a slightly awkward moment.",
+      "start": 157.0,
+      "duration": 19.0,
+      "lead": 0.34,
+      "guess": 3.0,
+      "hint": "Love, laughter... and email.",
+      "films": [
+        "When Harry Met Sally",
+        "You've Got Mail"
+      ],
+      "round": 1
+    },
+    {
+      "id": "actress_09",
+      "kind": "actress",
+      "actor": 9,
+      "name": "Halle Berry",
+      "text": "Halle Berry. Storm made her a superhero; Monster's Ball brought an Oscar. Those roles ask for very different kinds of presence. Her filmography is more varied than any single label.",
+      "caption": "Halle Berry. Storm made her a superhero; Monster's Ball brought an Oscar. Those roles ask for very different kinds of presence. Her filmography is more varied than any single label.",
+      "start": 176.0,
+      "duration": 19.0,
+      "lead": 0.34,
+      "guess": 3.0,
+      "hint": "A superhero. An Oscar-winning drama.",
+      "films": [
+        "Storm",
+        "Monster's Ball"
+      ],
+      "round": 1
+    },
+    {
+      "id": "actress_10",
+      "kind": "actress",
+      "actor": 10,
+      "name": "Charlize Theron",
+      "text": "Charlize Theron. Monster and Mad Max, Fury Road make an unusual double bill. One leans on intimate character work, the other on physical intensity. She makes space for both.",
+      "caption": "Charlize Theron. Monster and Mad Max: Fury Road make an unusual double bill. One leans on intimate character work, the other on physical intensity. She makes space for both.",
+      "start": 195.0,
+      "duration": 19.0,
+      "lead": 0.34,
+      "guess": 3.0,
+      "hint": "A desert warrior. A dramatic transformation.",
+      "films": [
+        "Monster",
+        "Mad Max: Fury Road"
+      ],
+      "round": 1
+    },
+    {
+      "id": "actress_11",
+      "kind": "actress",
+      "actor": 11,
+      "name": "Sharon Stone",
+      "text": "Sharon Stone. Casino earned her an Oscar nomination. It also shows why an actress associated with glamour can be so compelling when a character's carefully built world starts falling apart.",
+      "caption": "Sharon Stone. Casino earned her an Oscar nomination. It also shows why an actress associated with glamour can be so compelling when a character's carefully built world starts falling apart.",
+      "start": 214.0,
+      "duration": 19.0,
+      "lead": 0.34,
+      "guess": 3.0,
+      "hint": "Thrillers. Glamour. A casino.",
+      "films": [
+        "Casino"
+      ],
+      "round": 1
+    },
+    {
+      "id": "round_3",
+      "kind": "interlude",
+      "text": "Halfway. Round three.",
+      "caption": "Halfway. Round three.",
+      "start": 233.0,
+      "duration": 2.0,
+      "lead": 0.1,
+      "guess": 0,
+      "round": 2
+    },
+    {
+      "id": "actress_12",
+      "kind": "actress",
+      "actor": 12,
+      "name": "Salma Hayek",
+      "text": "Salma Hayek. Desperado showed her charisma; Frida put her inside a painter's story. She also helped bring Frida to the screen as a producer, not just as its leading actress.",
+      "caption": "Salma Hayek. Desperado showed her charisma; Frida put her inside a painter's story. She also helped bring Frida to the screen as a producer, not just as its leading actress.",
+      "start": 235.0,
+      "duration": 19.0,
+      "lead": 0.34,
+      "guess": 3.0,
+      "hint": "An action star... and a painter.",
+      "films": [
+        "Desperado",
+        "Frida"
+      ],
+      "round": 2
+    },
+    {
+      "id": "actress_13",
+      "kind": "actress",
+      "actor": 13,
+      "name": "Cate Blanchett",
+      "text": "Cate Blanchett. Elizabeth, The Lord of the Rings and Tar all give her characters authority. But the queen, the elf and the conductor use their power in very different ways.",
+      "caption": "Cate Blanchett. Elizabeth, The Lord of the Rings and Tár all give her characters authority. But the queen, the elf and the conductor use their power in very different ways.",
+      "start": 254.0,
+      "duration": 19.0,
+      "lead": 0.34,
+      "guess": 3.0,
+      "hint": "A queen. An elf. A conductor.",
+      "films": [
+        "Elizabeth",
+        "The Lord of the Rings",
+        "Tár"
+      ],
+      "round": 2
+    },
+    {
+      "id": "actress_14",
+      "kind": "actress",
+      "actor": 14,
+      "name": "Anne Hathaway",
+      "text": "Anne Hathaway. Genovia's princess later became Catwoman, then Fantine in Les Miserables. Those changes show how far a familiar face can travel without staying inside one comfortable genre.",
+      "caption": "Anne Hathaway. Genovia's princess later became Catwoman, then Fantine in Les Misérables. Those changes show how far a familiar face can travel without staying inside one comfortable genre.",
+      "start": 273.0,
+      "duration": 19.0,
+      "lead": 0.34,
+      "guess": 3.0,
+      "hint": "Genovia... then Gotham.",
+      "films": [
+        "The Princess Diaries",
+        "Catwoman",
+        "Les Misérables"
+      ],
+      "round": 2
+    },
+    {
+      "id": "actress_15",
+      "kind": "actress",
+      "actor": 15,
+      "name": "Natalie Portman",
+      "text": "Natalie Portman. A queen in Star Wars, a dancer in Black Swan, and a scientist in Thor. Three very different characters, connected by a performer who keeps changing direction.",
+      "caption": "Natalie Portman. A queen in Star Wars, a dancer in Black Swan, and a scientist in Thor. Three very different characters, connected by a performer who keeps changing direction.",
+      "start": 292.0,
+      "duration": 19.0,
+      "lead": 0.34,
+      "guess": 3.0,
+      "hint": "A queen. A dancer. A scientist.",
+      "films": [
+        "Star Wars",
+        "Black Swan",
+        "Thor"
+      ],
+      "round": 2
+    },
+    {
+      "id": "actress_16",
+      "kind": "actress",
+      "actor": 16,
+      "name": "Scarlett Johansson",
+      "text": "Scarlett Johansson. In Her, she built a character using only her voice. Black Widow needed a different kind of presence. Same performer, completely different tools. Which role came to mind first?",
+      "caption": "Scarlett Johansson. In Her, she built a character using only her voice. Black Widow needed a different kind of presence. Same performer, completely different tools. Which role came to mind first?",
+      "start": 311.0,
+      "duration": 19.0,
+      "lead": 0.34,
+      "guess": 3.0,
+      "hint": "A superhero... and a voice-only role.",
+      "films": [
+        "Her",
+        "Black Widow"
+      ],
+      "round": 2
+    },
+    {
+      "id": "actress_17",
+      "kind": "actress",
+      "actor": 17,
+      "name": "Penélope Cruz",
+      "text": "Penelope Cruz. Volver and Vicky Cristina Barcelona show different sides of her screen presence. Moving between Spanish-language cinema and Hollywood has made that range an important part of her career.",
+      "caption": "Penélope Cruz. Volver and Vicky Cristina Barcelona show different sides of her screen presence. Moving between Spanish-language cinema and Hollywood has made that range an important part of her career.",
+      "start": 330.0,
+      "duration": 19.0,
+      "lead": 0.34,
+      "guess": 3.0,
+      "hint": "Spanish drama. Hollywood comedy.",
+      "films": [
+        "Volver",
+        "Vicky Cristina Barcelona"
+      ],
+      "round": 2
+    },
+    {
+      "id": "round_4",
+      "kind": "interlude",
+      "text": "The final round.",
+      "caption": "The final round.",
+      "start": 349.0,
+      "duration": 2.0,
+      "lead": 0.1,
+      "guess": 0,
+      "round": 3
+    },
+    {
+      "id": "actress_18",
+      "kind": "actress",
+      "actor": 18,
+      "name": "Lucy Liu",
+      "text": "Lucy Liu. Charlie's Angels made her an action favorite. Elementary then gave her a long-running role as Joan Watson. Two different formats, with the same sharp sense of character.",
+      "caption": "Lucy Liu. Charlie's Angels made her an action favorite. Elementary then gave her a long-running role as Joan Watson. Two different formats, with the same sharp sense of character.",
+      "start": 351.0,
+      "duration": 19.0,
+      "lead": 0.34,
+      "guess": 3.0,
+      "hint": "An angel. A detective.",
+      "films": [
+        "Charlie's Angels",
+        "Elementary"
+      ],
+      "round": 3
+    },
+    {
+      "id": "actress_19",
+      "kind": "actress",
+      "actor": 19,
+      "name": "Uma Thurman",
+      "text": "Uma Thurman. The dance floor in Pulp Fiction and the action of Kill Bill are hard to confuse. Yet both turn timing and physical presence into something instantly memorable.",
+      "caption": "Uma Thurman. The dance floor in Pulp Fiction and the action of Kill Bill are hard to confuse. Yet both turn timing and physical presence into something instantly memorable.",
+      "start": 370.0,
+      "duration": 19.0,
+      "lead": 0.34,
+      "guess": 3.0,
+      "hint": "A dance floor. A yellow jumpsuit.",
+      "films": [
+        "Pulp Fiction",
+        "Kill Bill"
+      ],
+      "round": 3
+    },
+    {
+      "id": "actress_20",
+      "kind": "actress",
+      "actor": 20,
+      "name": "Jodie Foster",
+      "text": "Jodie Foster. The Silence of the Lambs made Clarice Starling iconic. She's also directed films, adding another viewpoint to a career that began in childhood. The story extends beyond acting.",
+      "caption": "Jodie Foster. The Silence of the Lambs made Clarice Starling iconic. She's also directed films, adding another viewpoint to a career that began in childhood. The story extends beyond acting.",
+      "start": 389.0,
+      "duration": 19.0,
+      "lead": 0.34,
+      "guess": 3.0,
+      "hint": "An FBI trainee... and a director.",
+      "films": [
+        "The Silence of the Lambs"
+      ],
+      "round": 3
+    },
+    {
+      "id": "actress_21",
+      "kind": "actress",
+      "actor": 21,
+      "name": "Sigourney Weaver",
+      "text": "Sigourney Weaver. Ripley in Alien became a science-fiction landmark. Ghostbusters revealed her comic side, and Avatar opened another world. That's a lot of movie history in one familiar face.",
+      "caption": "Sigourney Weaver. Ripley in Alien became a science-fiction landmark. Ghostbusters revealed her comic side, and Avatar opened another world. That's a lot of movie history in one familiar face.",
+      "start": 408.0,
+      "duration": 19.0,
+      "lead": 0.34,
+      "guess": 3.0,
+      "hint": "A space survivor. A comedy legend.",
+      "films": [
+        "Alien",
+        "Ghostbusters",
+        "Avatar"
+      ],
+      "round": 3
+    },
+    {
+      "id": "actress_22",
+      "kind": "actress",
+      "actor": 22,
+      "name": "Jamie Lee Curtis",
+      "text": "Jamie Lee Curtis. Halloween made her a horror icon. Everything Everywhere All at Once brought an Oscar decades later. The contrast is a good reminder: an actor can keep surprising us.",
+      "caption": "Jamie Lee Curtis. Halloween made her a horror icon. Everything Everywhere All at Once brought an Oscar decades later. The contrast is a good reminder: an actor can keep surprising us.",
+      "start": 427.0,
+      "duration": 19.0,
+      "lead": 0.34,
+      "guess": 3.0,
+      "hint": "A scream queen. An Oscar winner.",
+      "films": [
+        "Halloween",
+        "Everything Everywhere All at Once"
+      ],
+      "round": 3
+    },
+    {
+      "id": "actress_23",
+      "kind": "actress",
+      "actor": 23,
+      "name": "Meryl Streep",
+      "text": "Meryl Streep. Sophie's Choice and The Devil Wears Prada give us very different versions of her talent. Part of the pleasure is never knowing exactly who she'll become in the next role.",
+      "caption": "Meryl Streep. Sophie's Choice and The Devil Wears Prada give us very different versions of her talent. Part of the pleasure is never knowing exactly who she'll become in the next role.",
+      "start": 446.0,
+      "duration": 19.0,
+      "lead": 0.34,
+      "guess": 3.0,
+      "hint": "Fashion. Music. Fearless drama.",
+      "films": [
+        "Sophie's Choice",
+        "The Devil Wears Prada"
+      ],
+      "round": 3
+    },
+    {
+      "id": "outro",
+      "kind": "outro",
+      "text": "Your score out of twenty-four? Which face surprised you most?",
+      "caption": "Your score out of twenty-four? Which face surprised you most?",
+      "start": 465.0,
+      "duration": 5.0,
+      "lead": 0.15,
+      "guess": 0
+    }
+  ],
+  "batches": [
+    {
+      "index": 0,
+      "file": "batch_00.wav",
+      "parts": [
+        "intro",
+        "actress_00",
+        "actress_01",
+        "actress_02",
+        "actress_03"
+      ],
+      "text": "Name the actress. Three seconds. Go.\n\nJulia Roberts. Pretty Woman made her a global star; Erin Brockovich brought an Oscar. Two different kinds of strength, one familiar smile. One point if you guessed correctly.\n\nAngelina Jolie. Lara Croft and Maleficent are easy to remember. But her Oscar-winning performance in Girl, Interrupted is a reminder that the action-star image is only part of the story.\n\nNicole Kidman. Moulin Rouge and The Hours could hardly feel more different. From musical spectacle to intimate character drama, changing direction has become part of her appeal.\n\nKate Winslet. Titanic made Rose part of movie history. Mare of Easttown later traded sweeping romance for a small-town mystery. She can make both worlds feel lived in."
+    },
+    {
+      "index": 1,
+      "file": "batch_01.wav",
+      "parts": [
+        "actress_04",
+        "actress_05",
+        "round_2",
+        "actress_06",
+        "actress_07"
+      ],
+      "text": "Sandra Bullock. Speed needed an action lead; Miss Congeniality needed comic timing. Her appeal connects the two: even in unlikely situations, her characters can feel like someone you know.\n\nCameron Diaz. The Mask and There's Something About Mary are familiar starting points. But many viewers also grew up with her voice as Princess Fiona in Shrek. Did that clue help?\n\nRound two.\n\nWinona Ryder. Beetlejuice and Edward Scissorhands made her a defining face of offbeat cinema. Stranger Things later introduced her to another generation. A career can find a whole new audience.\n\nDemi Moore. Ghost became a pop-culture landmark. Decades later, The Substance put fame and appearances at the centre of her work again. A career doesn't have to end with its first peak."
+    },
+    {
+      "index": 2,
+      "file": "batch_02.wav",
+      "parts": [
+        "actress_08",
+        "actress_09",
+        "actress_10",
+        "actress_11"
+      ],
+      "text": "Meg Ryan. When Harry Met Sally and You've Got Mail made conversation feel cinematic. Her comedy often lives in the timing: a pause, a glance, a slightly awkward moment.\n\nHalle Berry. Storm made her a superhero; Monster's Ball brought an Oscar. Those roles ask for very different kinds of presence. Her filmography is more varied than any single label.\n\nCharlize Theron. Monster and Mad Max, Fury Road make an unusual double bill. One leans on intimate character work, the other on physical intensity. She makes space for both.\n\nSharon Stone. Casino earned her an Oscar nomination. It also shows why an actress associated with glamour can be so compelling when a character's carefully built world starts falling apart."
+    },
+    {
+      "index": 3,
+      "file": "batch_03.wav",
+      "parts": [
+        "round_3",
+        "actress_12",
+        "actress_13",
+        "actress_14",
+        "actress_15"
+      ],
+      "text": "Halfway. Round three.\n\nSalma Hayek. Desperado showed her charisma; Frida put her inside a painter's story. She also helped bring Frida to the screen as a producer, not just as its leading actress.\n\nCate Blanchett. Elizabeth, The Lord of the Rings and Tar all give her characters authority. But the queen, the elf and the conductor use their power in very different ways.\n\nAnne Hathaway. Genovia's princess later became Catwoman, then Fantine in Les Miserables. Those changes show how far a familiar face can travel without staying inside one comfortable genre.\n\nNatalie Portman. A queen in Star Wars, a dancer in Black Swan, and a scientist in Thor. Three very different characters, connected by a performer who keeps changing direction."
+    },
+    {
+      "index": 4,
+      "file": "batch_04.wav",
+      "parts": [
+        "actress_16",
+        "actress_17",
+        "round_4",
+        "actress_18",
+        "actress_19"
+      ],
+      "text": "Scarlett Johansson. In Her, she built a character using only her voice. Black Widow needed a different kind of presence. Same performer, completely different tools. Which role came to mind first?\n\nPenelope Cruz. Volver and Vicky Cristina Barcelona show different sides of her screen presence. Moving between Spanish-language cinema and Hollywood has made that range an important part of her career.\n\nThe final round.\n\nLucy Liu. Charlie's Angels made her an action favorite. Elementary then gave her a long-running role as Joan Watson. Two different formats, with the same sharp sense of character.\n\nUma Thurman. The dance floor in Pulp Fiction and the action of Kill Bill are hard to confuse. Yet both turn timing and physical presence into something instantly memorable."
+    },
+    {
+      "index": 5,
+      "file": "batch_05.wav",
+      "parts": [
+        "actress_20",
+        "actress_21",
+        "actress_22",
+        "actress_23",
+        "outro"
+      ],
+      "text": "Jodie Foster. The Silence of the Lambs made Clarice Starling iconic. She's also directed films, adding another viewpoint to a career that began in childhood. The story extends beyond acting.\n\nSigourney Weaver. Ripley in Alien became a science-fiction landmark. Ghostbusters revealed her comic side, and Avatar opened another world. That's a lot of movie history in one familiar face.\n\nJamie Lee Curtis. Halloween made her a horror icon. Everything Everywhere All at Once brought an Oscar decades later. The contrast is a good reminder: an actor can keep surprising us.\n\nMeryl Streep. Sophie's Choice and The Devil Wears Prada give us very different versions of her talent. Part of the pleasure is never knowing exactly who she'll become in the next role.\n\nYour score out of twenty-four? Which face surprised you most?"
+    }
+  ],
+  "rounds": [
+    "THE OPENING SIX",
+    "MOVIE MEMORIES",
+    "CHANGING ROLES",
+    "THE FINAL SIX"
+  ],
+  "duration": 480
+}
