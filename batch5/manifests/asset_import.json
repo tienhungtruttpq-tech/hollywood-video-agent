@@ -1,0 +1,662 @@
+[
+  {
+    "episode": "01_leading_men",
+    "person": "Tom Cruise",
+    "era": "then",
+    "input": "image-search/tom-cruise-young-and-recent-portrait-wik-1.jpg",
+    "output": "assets/photos/01_leading_men/00_then.jpg",
+    "normalized_size": [
+      1600,
+      1462
+    ]
+  },
+  {
+    "episode": "01_leading_men",
+    "person": "Tom Cruise",
+    "era": "now",
+    "input": "image-search/tom-cruise-young-and-recent-portrait-wik-2.jpg",
+    "output": "assets/photos/01_leading_men/00_now.jpg",
+    "normalized_size": [
+      906,
+      1036
+    ]
+  },
+  {
+    "episode": "01_leading_men",
+    "person": "Leonardo DiCaprio",
+    "era": "then",
+    "input": "image-search/leonardo-dicaprio-young-and-recent-portr-1.jpg",
+    "output": "assets/photos/01_leading_men/01_then.jpg",
+    "normalized_size": [
+      1024,
+      1485
+    ]
+  },
+  {
+    "episode": "01_leading_men",
+    "person": "Leonardo DiCaprio",
+    "era": "now",
+    "input": "image-search/leonardo-dicaprio-young-and-recent-portr-2.jpg",
+    "output": "assets/photos/01_leading_men/01_now.jpg",
+    "normalized_size": [
+      1024,
+      1548
+    ]
+  },
+  {
+    "episode": "01_leading_men",
+    "person": "Tom Hanks",
+    "era": "then",
+    "input": "image-search/tom-hanks-young-and-recent-portrait-wiki-1.jpg",
+    "output": "assets/photos/01_leading_men/02_then.jpg",
+    "normalized_size": [
+      1545,
+      1259
+    ]
+  },
+  {
+    "episode": "01_leading_men",
+    "person": "Tom Hanks",
+    "era": "now",
+    "input": "image-search/tom-hanks-young-and-recent-portrait-wiki-2.jpg",
+    "output": "assets/photos/01_leading_men/02_now.jpg",
+    "normalized_size": [
+      1360,
+      1085
+    ]
+  },
+  {
+    "episode": "01_leading_men",
+    "person": "Brad Pitt",
+    "era": "then",
+    "input": "image-search/brad-pitt-young-and-recent-portrait-wiki-1.jpg",
+    "output": "assets/photos/01_leading_men/03_then.jpg",
+    "normalized_size": [
+      360,
+      180
+    ]
+  },
+  {
+    "episode": "01_leading_men",
+    "person": "Brad Pitt",
+    "era": "now",
+    "input": "image-search/brad-pitt-young-and-recent-portrait-wiki-2.jpg",
+    "output": "assets/photos/01_leading_men/03_now.jpg",
+    "normalized_size": [
+      500,
+      743
+    ]
+  },
+  {
+    "episode": "01_leading_men",
+    "person": "Denzel Washington",
+    "era": "then",
+    "input": "image-search/denzel-washington-1990-solo-portrait-1.jpg",
+    "output": "assets/photos/01_leading_men/04_then.jpg",
+    "normalized_size": [
+      676,
+      1024
+    ]
+  },
+  {
+    "episode": "01_leading_men",
+    "person": "Denzel Washington",
+    "era": "now",
+    "input": "image-search/denzel-washington-young-and-recent-portr-2.jpg",
+    "output": "assets/photos/01_leading_men/04_now.jpg",
+    "normalized_size": [
+      1600,
+      1257
+    ]
+  },
+  {
+    "episode": "01_leading_men",
+    "person": "George Clooney",
+    "era": "then",
+    "input": "image-search/george-clooney-young-and-recent-portrait-1.jpg",
+    "output": "assets/photos/01_leading_men/05_then.jpg",
+    "normalized_size": [
+      612,
+      380
+    ]
+  },
+  {
+    "episode": "01_leading_men",
+    "person": "George Clooney",
+    "era": "now",
+    "input": "image-search/george-clooney-young-and-recent-portrait-2.jpg",
+    "output": "assets/photos/01_leading_men/05_now.jpg",
+    "normalized_size": [
+      427,
+      612
+    ]
+  },
+  {
+    "episode": "02_leading_ladies",
+    "person": "Julia Roberts",
+    "era": "then",
+    "input": "image-search/julia-roberts-young-and-recent-portrait--1.jpg",
+    "output": "assets/photos/02_leading_ladies/00_then.jpg",
+    "normalized_size": [
+      250,
+      375
+    ]
+  },
+  {
+    "episode": "02_leading_ladies",
+    "person": "Julia Roberts",
+    "era": "now",
+    "input": "image-search/julia-roberts-2024-solo-portrait-2.jpg",
+    "output": "assets/photos/02_leading_ladies/00_now.jpg",
+    "normalized_size": [
+      490,
+      612
+    ]
+  },
+  {
+    "episode": "02_leading_ladies",
+    "person": "Angelina Jolie",
+    "era": "then",
+    "input": "image-search/angelina-jolie-early-and-recent-portrait-2.jpg",
+    "output": "assets/photos/02_leading_ladies/01_then.jpg",
+    "normalized_size": [
+      1237,
+      1600
+    ]
+  },
+  {
+    "episode": "02_leading_ladies",
+    "person": "Angelina Jolie",
+    "era": "now",
+    "input": "image-search/angelina-jolie-2024-solo-portrait-1.jpg",
+    "output": "assets/photos/02_leading_ladies/01_now.jpg",
+    "normalized_size": [
+      612,
+      408
+    ]
+  },
+  {
+    "episode": "02_leading_ladies",
+    "person": "Nicole Kidman",
+    "era": "then",
+    "input": "image-search/nicole-kidman-young-and-recent-portrait--1.jpg",
+    "output": "assets/photos/02_leading_ladies/02_then.jpg",
+    "normalized_size": [
+      1080,
+      1080
+    ]
+  },
+  {
+    "episode": "02_leading_ladies",
+    "person": "Nicole Kidman",
+    "era": "now",
+    "input": "image-search/nicole-kidman-2024-solo-portrait-3.jpg",
+    "output": "assets/photos/02_leading_ladies/02_now.jpg",
+    "normalized_size": [
+      419,
+      612
+    ]
+  },
+  {
+    "episode": "02_leading_ladies",
+    "person": "Kate Winslet",
+    "era": "then",
+    "input": "image-search/kate-winslet-young-and-recent-portrait-w-2.jpg",
+    "output": "assets/photos/02_leading_ladies/03_then.jpg",
+    "normalized_size": [
+      500,
+      664
+    ]
+  },
+  {
+    "episode": "02_leading_ladies",
+    "person": "Kate Winslet",
+    "era": "now",
+    "input": "image-search/kate-winslet-young-and-recent-portrait-w-1.jpg",
+    "output": "assets/photos/02_leading_ladies/03_now.jpg",
+    "normalized_size": [
+      650,
+      1000
+    ]
+  },
+  {
+    "episode": "02_leading_ladies",
+    "person": "Charlize Theron",
+    "era": "then",
+    "input": "image-search/charlize-theron-young-and-recent-portrai-2.jpg",
+    "output": "assets/photos/02_leading_ladies/04_then.jpg",
+    "normalized_size": [
+      500,
+      750
+    ]
+  },
+  {
+    "episode": "02_leading_ladies",
+    "person": "Charlize Theron",
+    "era": "now",
+    "input": "image-search/charlize-theron-young-and-recent-portrai-1.jpg",
+    "output": "assets/photos/02_leading_ladies/04_now.jpg",
+    "normalized_size": [
+      1080,
+      1080
+    ]
+  },
+  {
+    "episode": "02_leading_ladies",
+    "person": "Anne Hathaway",
+    "era": "then",
+    "input": "image-search/anne-hathaway-early-and-recent-portrait--1.jpg",
+    "output": "assets/photos/02_leading_ladies/05_then.jpg",
+    "normalized_size": [
+      1600,
+      1600
+    ]
+  },
+  {
+    "episode": "02_leading_ladies",
+    "person": "Anne Hathaway",
+    "era": "now",
+    "input": "image-search/anne-hathaway-early-and-recent-portrait--2.jpg",
+    "output": "assets/photos/02_leading_ladies/05_now.jpg",
+    "normalized_size": [
+      995,
+      1600
+    ]
+  },
+  {
+    "episode": "03_action_icons",
+    "person": "Arnold Schwarzenegger",
+    "era": "then",
+    "input": "image-search/arnold-schwarzenegger-early-and-recent-p-2.jpg",
+    "output": "assets/photos/03_action_icons/00_then.jpg",
+    "normalized_size": [
+      980,
+      536
+    ]
+  },
+  {
+    "episode": "03_action_icons",
+    "person": "Arnold Schwarzenegger",
+    "era": "now",
+    "input": "image-search/arnold-schwarzenegger-early-and-recent-p-1.jpg",
+    "output": "assets/photos/03_action_icons/00_now.jpg",
+    "normalized_size": [
+      768,
+      768
+    ]
+  },
+  {
+    "episode": "03_action_icons",
+    "person": "Sylvester Stallone",
+    "era": "then",
+    "input": "image-search/sylvester-stallone-1985-solo-portrait-1.jpg",
+    "output": "assets/photos/03_action_icons/01_then.jpg",
+    "normalized_size": [
+      412,
+      612
+    ]
+  },
+  {
+    "episode": "03_action_icons",
+    "person": "Sylvester Stallone",
+    "era": "now",
+    "input": "image-search/sylvester-stallone-early-and-recent-port-2.jpg",
+    "output": "assets/photos/03_action_icons/01_now.jpg",
+    "normalized_size": [
+      500,
+      750
+    ]
+  },
+  {
+    "episode": "03_action_icons",
+    "person": "Harrison Ford",
+    "era": "then",
+    "input": "image-search/harrison-ford-early-and-recent-portrait--1.jpg",
+    "output": "assets/photos/03_action_icons/02_then.jpg",
+    "normalized_size": [
+      212,
+      254
+    ]
+  },
+  {
+    "episode": "03_action_icons",
+    "person": "Harrison Ford",
+    "era": "now",
+    "input": "image-search/harrison-ford-early-and-recent-portrait--2.jpg",
+    "output": "assets/photos/03_action_icons/02_now.jpg",
+    "normalized_size": [
+      500,
+      751
+    ]
+  },
+  {
+    "episode": "03_action_icons",
+    "person": "Samuel L. Jackson",
+    "era": "then",
+    "input": "image-search/samuel-l-jackson-actor-1990s-portrait-an-1.jpg",
+    "output": "assets/photos/03_action_icons/03_then.jpg",
+    "normalized_size": [
+      417,
+      612
+    ]
+  },
+  {
+    "episode": "03_action_icons",
+    "person": "Samuel L. Jackson",
+    "era": "now",
+    "input": "image-search/samuel-l-jackson-actor-1990s-portrait-an-2.jpg",
+    "output": "assets/photos/03_action_icons/03_now.jpg",
+    "normalized_size": [
+      408,
+      612
+    ]
+  },
+  {
+    "episode": "03_action_icons",
+    "person": "Hugh Jackman",
+    "era": "then",
+    "input": "image-search/hugh-jackman-2024-solo-portrait-2.jpg",
+    "output": "assets/photos/03_action_icons/04_then.jpg",
+    "normalized_size": [
+      612,
+      408
+    ]
+  },
+  {
+    "episode": "03_action_icons",
+    "person": "Hugh Jackman",
+    "era": "now",
+    "input": "image-search/hugh-jackman-early-and-recent-portrait-w-1.jpg",
+    "output": "assets/photos/03_action_icons/04_now.jpg",
+    "normalized_size": [
+      360,
+      180
+    ]
+  },
+  {
+    "episode": "03_action_icons",
+    "person": "Sigourney Weaver",
+    "era": "then",
+    "input": "image-search/sigourney-weaver-early-and-recent-portra-1.jpg",
+    "output": "assets/photos/03_action_icons/05_then.jpg",
+    "normalized_size": [
+      500,
+      695
+    ]
+  },
+  {
+    "episode": "03_action_icons",
+    "person": "Sigourney Weaver",
+    "era": "now",
+    "input": "image-search/sigourney-weaver-early-and-recent-portra-2.jpg",
+    "output": "assets/photos/03_action_icons/05_now.jpg",
+    "normalized_size": [
+      680,
+      1019
+    ]
+  },
+  {
+    "episode": "04_nineties_icons",
+    "person": "Winona Ryder",
+    "era": "then",
+    "input": "image-search/winona-ryder-actress-1990-portrait-and-2-2.jpg",
+    "output": "assets/photos/04_nineties_icons/00_then.jpg",
+    "normalized_size": [
+      456,
+      612
+    ]
+  },
+  {
+    "episode": "04_nineties_icons",
+    "person": "Winona Ryder",
+    "era": "now",
+    "input": "image-search/winona-ryder-actress-1990-portrait-and-2-1.jpg",
+    "output": "assets/photos/04_nineties_icons/00_now.jpg",
+    "normalized_size": [
+      612,
+      408
+    ]
+  },
+  {
+    "episode": "04_nineties_icons",
+    "person": "Meg Ryan",
+    "era": "then",
+    "input": "image-search/meg-ryan-early-and-recent-portrait-wikim-1.jpg",
+    "output": "assets/photos/04_nineties_icons/01_then.jpg",
+    "normalized_size": [
+      1399,
+      1600
+    ]
+  },
+  {
+    "episode": "04_nineties_icons",
+    "person": "Meg Ryan",
+    "era": "now",
+    "input": "image-search/meg-ryan-early-and-recent-portrait-wikim-2.jpg",
+    "output": "assets/photos/04_nineties_icons/01_now.jpg",
+    "normalized_size": [
+      500,
+      784
+    ]
+  },
+  {
+    "episode": "04_nineties_icons",
+    "person": "Johnny Depp",
+    "era": "then",
+    "input": "image-search/johnny-depp-early-and-recent-portrait-wi-1.jpg",
+    "output": "assets/photos/04_nineties_icons/02_then.jpg",
+    "normalized_size": [
+      500,
+      655
+    ]
+  },
+  {
+    "episode": "04_nineties_icons",
+    "person": "Johnny Depp",
+    "era": "now",
+    "input": "image-search/johnny-depp-early-and-recent-portrait-wi-2.jpg",
+    "output": "assets/photos/04_nineties_icons/02_now.jpg",
+    "normalized_size": [
+      1179,
+      1600
+    ]
+  },
+  {
+    "episode": "04_nineties_icons",
+    "person": "Will Smith",
+    "era": "then",
+    "input": "image-search/will-smith-actor-1990s-portrait-and-2024-3.jpg",
+    "output": "assets/photos/04_nineties_icons/03_then.jpg",
+    "normalized_size": [
+      612,
+      406
+    ]
+  },
+  {
+    "episode": "04_nineties_icons",
+    "person": "Will Smith",
+    "era": "now",
+    "input": "image-search/will-smith-actor-1990s-portrait-and-2024-1.jpg",
+    "output": "assets/photos/04_nineties_icons/03_now.jpg",
+    "normalized_size": [
+      432,
+      612
+    ]
+  },
+  {
+    "episode": "04_nineties_icons",
+    "person": "Halle Berry",
+    "era": "then",
+    "input": "image-search/halle-berry-1995-solo-portrait-1.jpg",
+    "output": "assets/photos/04_nineties_icons/04_then.jpg",
+    "normalized_size": [
+      408,
+      612
+    ]
+  },
+  {
+    "episode": "04_nineties_icons",
+    "person": "Halle Berry",
+    "era": "now",
+    "input": "image-search/halle-berry-early-and-recent-portrait-wi-1.jpg",
+    "output": "assets/photos/04_nineties_icons/04_now.jpg",
+    "normalized_size": [
+      1080,
+      1080
+    ]
+  },
+  {
+    "episode": "04_nineties_icons",
+    "person": "Uma Thurman",
+    "era": "then",
+    "input": "image-search/uma-thurman-1994-solo-portrait-1.jpg",
+    "output": "assets/photos/04_nineties_icons/05_then.jpg",
+    "normalized_size": [
+      640,
+      806
+    ]
+  },
+  {
+    "episode": "04_nineties_icons",
+    "person": "Uma Thurman",
+    "era": "now",
+    "input": "image-search/uma-thurman-early-and-recent-portrait-wi-1.jpg",
+    "output": "assets/photos/04_nineties_icons/05_now.jpg",
+    "normalized_size": [
+      1323,
+      931
+    ]
+  },
+  {
+    "episode": "05_comedy_stars",
+    "person": "Jim Carrey",
+    "era": "then",
+    "input": "image-search/jim-carrey-early-and-recent-portrait-wik-2.jpg",
+    "output": "assets/photos/05_comedy_stars/00_then.jpg",
+    "normalized_size": [
+      1176,
+      915
+    ]
+  },
+  {
+    "episode": "05_comedy_stars",
+    "person": "Jim Carrey",
+    "era": "now",
+    "input": "image-search/jim-carrey-early-and-recent-portrait-wik-1.jpg",
+    "output": "assets/photos/05_comedy_stars/00_now.jpg",
+    "normalized_size": [
+      810,
+      1080
+    ]
+  },
+  {
+    "episode": "05_comedy_stars",
+    "person": "Adam Sandler",
+    "era": "then",
+    "input": "image-search/adam-sandler-early-and-recent-portrait-w-2.jpg",
+    "output": "assets/photos/05_comedy_stars/01_then.jpg",
+    "normalized_size": [
+      1600,
+      1600
+    ]
+  },
+  {
+    "episode": "05_comedy_stars",
+    "person": "Adam Sandler",
+    "era": "now",
+    "input": "image-search/adam-sandler-early-and-recent-portrait-w-1.jpg",
+    "output": "assets/photos/05_comedy_stars/01_now.jpg",
+    "normalized_size": [
+      900,
+      1350
+    ]
+  },
+  {
+    "episode": "05_comedy_stars",
+    "person": "Ben Stiller",
+    "era": "then",
+    "input": "image-search/ben-stiller-2000-solo-portrait-1.jpg",
+    "output": "assets/photos/05_comedy_stars/02_then.jpg",
+    "normalized_size": [
+      1300,
+      960
+    ]
+  },
+  {
+    "episode": "05_comedy_stars",
+    "person": "Ben Stiller",
+    "era": "now",
+    "input": "image-search/ben-stiller-early-and-recent-portrait-wi-2.jpg",
+    "output": "assets/photos/05_comedy_stars/02_now.jpg",
+    "normalized_size": [
+      500,
+      333
+    ]
+  },
+  {
+    "episode": "05_comedy_stars",
+    "person": "Eddie Murphy",
+    "era": "then",
+    "input": "image-search/eddie-murphy-early-and-recent-portrait-w-2.jpg",
+    "output": "assets/photos/05_comedy_stars/03_then.jpg",
+    "normalized_size": [
+      500,
+      702
+    ]
+  },
+  {
+    "episode": "05_comedy_stars",
+    "person": "Eddie Murphy",
+    "era": "now",
+    "input": "image-search/eddie-murphy-actor-1980s-portrait-and-20-3.jpg",
+    "output": "assets/photos/05_comedy_stars/03_now.jpg",
+    "normalized_size": [
+      612,
+      408
+    ]
+  },
+  {
+    "episode": "05_comedy_stars",
+    "person": "Steve Carell",
+    "era": "then",
+    "input": "image-search/steve-carell-early-and-recent-portrait-w-1.jpg",
+    "output": "assets/photos/05_comedy_stars/04_then.jpg",
+    "normalized_size": [
+      1600,
+      1068
+    ]
+  },
+  {
+    "episode": "05_comedy_stars",
+    "person": "Steve Carell",
+    "era": "now",
+    "input": "image-search/steve-carell-early-and-recent-portrait-w-2.jpg",
+    "output": "assets/photos/05_comedy_stars/04_now.jpg",
+    "normalized_size": [
+      1000,
+      667
+    ]
+  },
+  {
+    "episode": "05_comedy_stars",
+    "person": "Melissa McCarthy",
+    "era": "then",
+    "input": "image-search/melissa-mccarthy-early-and-recent-portra-2.jpg",
+    "output": "assets/photos/05_comedy_stars/05_then.jpg",
+    "normalized_size": [
+      1600,
+      900
+    ]
+  },
+  {
+    "episode": "05_comedy_stars",
+    "person": "Melissa McCarthy",
+    "era": "now",
+    "input": "image-search/melissa-mccarthy-early-and-recent-portra-1.jpg",
+    "output": "assets/photos/05_comedy_stars/05_now.jpg",
+    "normalized_size": [
+      1600,
+      900
+    ]
+  }
+]

@@ -1,0 +1,1937 @@
+{
+  "format": {
+    "width": 1280,
+    "height": 720,
+    "fps": 24,
+    "duration_seconds": 480,
+    "language": "en"
+  },
+  "series": "Hollywood Then & Now — Five-Episode Collection",
+  "voice": "voice-00 selected by the user via Arena speech synthesis",
+  "music": "Original procedural ambient score generated in batch5/render_batch.py",
+  "episodes": [
+    {
+      "id": "01_leading_men",
+      "number": 1,
+      "title": "HOLLYWOOD LEADING MEN",
+      "strapline": "THEN & NOW",
+      "accent": [
+        69,
+        202,
+        238
+      ],
+      "accent2": [
+        113,
+        90,
+        238
+      ],
+      "filename": "01_Hollywood_Leading_Men_Then_Now.mp4",
+      "people": [
+        {
+          "index": 0,
+          "name": "Tom Cruise",
+          "years": [
+            1989,
+            2025
+          ],
+          "then": {
+            "title": "File:Tom Cruise 1989 2.jpg",
+            "source": "https://commons.wikimedia.org/wiki/File:Tom_Cruise_1989_2.jpg",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Tom_Cruise_1989_2.jpg",
+            "width": 669,
+            "height": 1024,
+            "year": 1989,
+            "date": "1989",
+            "description": "Tom Cruise taken at 61st Academy Awards 3/29/89",
+            "artist": "Alan Light",
+            "license": "CC BY 2.0",
+            "license_url": "https://creativecommons.org/licenses/by/2.0",
+            "credit": "",
+            "file": "photos/00_then_9f5699ce.jpg",
+            "downloaded_size": [
+              669,
+              1024
+            ],
+            "anchor": [
+              0.5,
+              0.33
+            ],
+            "locked_crop": [
+              0.12705530642750373,
+              0.060546875,
+              0.7279521674140508,
+              0.4736328125
+            ]
+          },
+          "now": {
+            "title": "File:Tom Cruise 2428 (square).jpg",
+            "source": "https://commons.wikimedia.org/wiki/File:Tom_Cruise_2428_(square).jpg",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Tom_Cruise_2428_%28square%29.jpg/960px-Tom_Cruise_2428_%28square%29.jpg",
+            "width": 2615,
+            "height": 2617,
+            "year": 2025,
+            "date": "2025-05-14",
+            "description": "Actor Tom Cruise at the 2025 Cannes Film Festival",
+            "artist": "Harald Krichel",
+            "license": "CC BY-SA 4.0",
+            "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+            "credit": "Own work",
+            "file": "photos/00_now_9cb9ac4b.jpg",
+            "downloaded_size": [
+              960,
+              961
+            ],
+            "anchor": [
+              0.5,
+              0.33
+            ]
+          },
+          "delta": 36,
+          "assets": {
+            "then": "assets/photos/01_leading_men/00_then.jpg",
+            "now": "assets/photos/01_leading_men/00_now.jpg"
+          },
+          "card_copy": [
+            "TOP GUN • MISSION: IMPOSSIBLE",
+            "A screen career built around precision, velocity and a very public love of cinema."
+          ]
+        },
+        {
+          "index": 1,
+          "name": "Leonardo DiCaprio",
+          "years": [
+            2000,
+            2025
+          ],
+          "then": {
+            "title": "File:Leonardo DiCaprio.jpeg",
+            "source": "https://commons.wikimedia.org/wiki/File:Leonardo_DiCaprio.jpeg",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Leonardo_DiCaprio.jpeg",
+            "width": 366,
+            "height": 489,
+            "year": 2000,
+            "date": "2000-02",
+            "description": "w:Leonardo DiCaprio during press conference on \"The Beach\"",
+            "artist": "Jaud (de:Benutzer:Falkenauge)",
+            "license": "CC BY-SA 3.0",
+            "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+            "credit": "own photography, uploaded by de:Benutzer:Falkenauge to de-Wikipedia (de:Bild:Leonardo DiCaprio.jpg)",
+            "file": "photos/01_then_02972e7d.jpg",
+            "downloaded_size": [
+              366,
+              489
+            ],
+            "anchor": [
+              0.5,
+              0.33
+            ]
+          },
+          "now": {
+            "title": "File:Leonardo DiCaprio - BFI Southbank 3 (crop).jpg",
+            "source": "https://commons.wikimedia.org/wiki/File:Leonardo_DiCaprio_-_BFI_Southbank_3_(crop).jpg",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Leonardo_DiCaprio_-_BFI_Southbank_3_%28crop%29.jpg/500px-Leonardo_DiCaprio_-_BFI_Southbank_3_%28crop%29.jpg",
+            "width": 622,
+            "height": 764,
+            "year": 2025,
+            "date": "2025-11-19 21:58:50",
+            "description": "Leonardo DiCaprio In Conversation - BFI Southbank - Wednesday 19th November 2025",
+            "artist": "Raph_PH",
+            "license": "CC BY 4.0",
+            "license_url": "https://creativecommons.org/licenses/by/4.0",
+            "credit": "https://www.flickr.com/photos/raph_ph/54940587404/",
+            "file": "photos/01_now_24465eee.jpg",
+            "downloaded_size": [
+              500,
+              614
+            ],
+            "anchor": [
+              0.5,
+              0.33
+            ]
+          },
+          "delta": 25,
+          "assets": {
+            "then": "assets/photos/01_leading_men/01_then.jpg",
+            "now": "assets/photos/01_leading_men/01_now.jpg"
+          },
+          "card_copy": [
+            "TITANIC • THE REVENANT",
+            "From a young dramatic lead to an Oscar-winning collaborator with major filmmakers."
+          ]
+        },
+        {
+          "index": 2,
+          "name": "Tom Hanks",
+          "years": [
+            1989,
+            2024
+          ],
+          "then": {
+            "title": "File:1989 Tom Hanks (cropped).jpg",
+            "source": "https://commons.wikimedia.org/wiki/File:1989_Tom_Hanks_(cropped).jpg",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/1989_Tom_Hanks_%28cropped%29.jpg/500px-1989_Tom_Hanks_%28cropped%29.jpg",
+            "width": 577,
+            "height": 775,
+            "year": 1989,
+            "date": "1989",
+            "description": "Tom Hanks at the Governor's Ball after the telecast of the 61st Annual Academy Awards, 1989.",
+            "artist": "Alan Light",
+            "license": "CC BY 2.0",
+            "license_url": "https://creativecommons.org/licenses/by/2.0",
+            "credit": "This image has been extracted from another file",
+            "file": "photos/02_then_5f11b8b2.jpg",
+            "downloaded_size": [
+              500,
+              672
+            ],
+            "anchor": [
+              0.5,
+              0.33
+            ]
+          },
+          "now": {
+            "title": "File:Tom Hanks interview by Christiane Amanpour at the Normandy American Cemetery ahead of the 80th D-Day Ceremony in Normandy, France, June 6, 2024.jpg",
+            "source": "https://commons.wikimedia.org/wiki/File:Tom_Hanks_interview_by_Christiane_Amanpour_at_the_Normandy_American_Cemetery_ahead_of_the_80th_D-Day_Ceremony_in_Normandy,_France,_June_6,_2024.jpg",
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Tom_Hanks_interview_by_Christiane_Amanpour_at_the_Normandy_American_Cemetery_ahead_of_the_80th_D-Day_Ceremony_in_Normandy%2C_France%2C_June_6%2C_2024.jpg/960px-Tom_Hanks_interview_by_Christiane_Amanpour_at_the_Normandy_American_Cemetery_ahead_of_the_80th_D-Day_Ceremony_in_Normandy%2C_France%2C_June_6%2C_2024.jpg",
+            "width": 6919,
+            "height": 4947,
+            "year": 2024,
+            "date": "2024-06-06 04:14:16",
+            "description": "Gen. CQ Brown, Jr., Chairman of the Joint Chiefs of Staff, participates in an interview with Christiane Amanpour at the Normandy American Cemetery together with actor and producer Tom Hanks ahead of the 80th D-Day Ceremony in Normandy, France, June 6, 2024. (DoD photo by Benjamin Applebaum)",
+            "artist": "Chairman of the Joint Chiefs of Staff",
+            "license": "CC BY 2.0",
+            "license_url": "https://creativecommons.org/licenses/by/2.0",
+            "credit": "https://www.flickr.com/photos/42310076@N04/53775032533/",
+            "file": "photos/02_now_5da195e9.jpg",
+            "downloaded_size": [
+              2400,
+              1716
+            ],
+            "anchor": [
+              0.5,
+              0.33
+            ],
+            "locked_crop": [
+              0.2760416666666667,
+              0.10924981791697014,
+              0.5807291666666666,
+              0.6773488710852149
+            ]
+          },
+          "delta": 35,
+          "assets": {
+            "then": "assets/photos/01_leading_men/02_then.jpg",
+            "now": "assets/photos/01_leading_men/02_now.jpg"
+          },
+          "card_copy": [
+            "BIG • FORREST GUMP • TOY STORY",
+            "Warmth, humor and emotional clarity made ordinary people feel unforgettable."
+          ]
+        },
+        {
+          "index": 3,
+          "name": "Brad Pitt",
+          "years": [
+            2001,
+            2024
+          ],
+          "then": {
+            "pageid": 19686,
+            "title": "File:Brad Pitt at Incirlik2.jpg",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Brad_Pitt_at_Incirlik2.jpg",
+            "source": "https://commons.wikimedia.org/wiki/File:Brad_Pitt_at_Incirlik2.jpg",
+            "width": 419,
+            "height": 545,
+            "year": 2001,
+            "date": "2001-12-07",
+            "description": "Brad Pitt, Matt Damon and George Clooney enjoy a morning laugh prior to their Dec. 7 tour of Incirlik Air Base, Turkey. The trio, along with Julia Roberts and Andy Garcia, visited the base to show their appreciation for U.S. troops overseas.",
+            "artist": "Airman 1st Class Tanaya M. Harms",
+            "license": "Public domain",
+            "license_url": "",
+            "credit": "https://web.archive.org/web/20030101045017/http://www.usafe.af.mil/news/news01/uns01425.htm (Specifically [1])",
+            "download": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Brad_Pitt_at_Incirlik2.jpg",
+            "file": "photos/03_then_07575c1f.jpg",
+            "downloaded_size": [
+              419,
+              545
+            ],
+            "anchor": [
+              0.5,
+              0.33
+            ]
+          },
+          "now": {
+            "pageid": 152113880,
+            "title": "File:Brad Pitt-69858.jpg",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Brad_Pitt-69858.jpg",
+            "source": "https://commons.wikimedia.org/wiki/File:Brad_Pitt-69858.jpg",
+            "width": 1683,
+            "height": 2244,
+            "year": 2024,
+            "date": "2024-09-01",
+            "description": "Actor Brad Pitt at the 81st Venice International Film Festival",
+            "artist": "Harald Krichel",
+            "license": "CC BY-SA 4.0",
+            "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+            "credit": "Own work",
+            "file": "photos/03_now_d217ea2d.jpg",
+            "downloaded_size": [
+              1280,
+              1707
+            ],
+            "anchor": [
+              0.5,
+              0.33
+            ]
+          },
+          "delta": 23,
+          "assets": {
+            "then": "assets/photos/01_leading_men/03_then.jpg",
+            "now": "assets/photos/01_leading_men/03_now.jpg"
+          },
+          "card_copy": [
+            "FIGHT CLUB • ONCE UPON A TIME IN HOLLYWOOD",
+            "A restless screen presence that keeps moving between movie-star scale and character detail."
+          ]
+        },
+        {
+          "index": 6,
+          "name": "Denzel Washington",
+          "years": [
+            1990,
+            2025
+          ],
+          "then": {
+            "pageid": 83181304,
+            "title": "File:Denzel Washington (2106641898) (cropped).jpg",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Denzel_Washington_%282106641898%29_%28cropped%29.jpg",
+            "source": "https://commons.wikimedia.org/wiki/File:Denzel_Washington_(2106641898)_(cropped).jpg",
+            "width": 604,
+            "height": 691,
+            "year": 1990,
+            "date": "1990-03-01 00:00",
+            "description": "1990 Academy Awards\nNOTE:  Permission granted to copy, publish, broadcast or post any of my photos, but please credit \"photo by Alan Light\" if you can. Thanks.\n\nScanned from the original 35MM film negative.",
+            "artist": "Alan Light",
+            "license": "CC BY 2.0",
+            "license_url": "https://creativecommons.org/licenses/by/2.0",
+            "credit": "Denzel Washington\n\nUploaded by MaybeMaybeMaybe",
+            "file": "photos/06_then_c52c4c60.jpg",
+            "downloaded_size": [
+              604,
+              691
+            ],
+            "anchor": [
+              0.32,
+              0.36
+            ]
+          },
+          "now": {
+            "pageid": 165750669,
+            "title": "File:Denzel Washington at the 2025 Cannes Film Festival.jpg",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Denzel_Washington_at_the_2025_Cannes_Film_Festival.jpg",
+            "source": "https://commons.wikimedia.org/wiki/File:Denzel_Washington_at_the_2025_Cannes_Film_Festival.jpg",
+            "width": 5060,
+            "height": 7083,
+            "year": 2025,
+            "date": "2025-05-19 19:03:43",
+            "description": "Denzel Washington attends the premiere of the film \"Highest 2 Lowest\" at the 2025 Cannes Film Festival",
+            "artist": "Gabriel Hutchinson",
+            "license": "CC BY-SA 4.0",
+            "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+            "credit": "Own work",
+            "file": "photos/06_now_2dd215a2.jpg",
+            "downloaded_size": [
+              1280,
+              1792
+            ],
+            "anchor": [
+              0.5,
+              0.33
+            ]
+          },
+          "delta": 35,
+          "assets": {
+            "then": "assets/photos/01_leading_men/04_then.jpg",
+            "now": "assets/photos/01_leading_men/04_now.jpg"
+          },
+          "card_copy": [
+            "GLORY • MALCOLM X • FENCES",
+            "Commanding performances built from restraint, rhythm and close attention to character."
+          ]
+        },
+        {
+          "index": 7,
+          "name": "George Clooney",
+          "years": [
+            1995,
+            2025
+          ],
+          "then": {
+            "pageid": 74932768,
+            "title": "File:George Clooney 1995.jpg",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/George_Clooney_1995.jpg",
+            "source": "https://commons.wikimedia.org/wiki/File:George_Clooney_1995.jpg",
+            "width": 363,
+            "height": 526,
+            "year": 1995,
+            "date": "2018-12-08 11:28",
+            "description": "From Wash D.C. Annual  PBS Memorial day celebration  May  27, 1995\n\nCopyright John Mathew Smith  2001",
+            "artist": "Kingkongphoto & www.celebrity-photos.com from Laurel  Maryland, USA",
+            "license": "CC BY-SA 2.0",
+            "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+            "credit": "George Clooney",
+            "file": "photos/07_then_dd6bdea2.jpg",
+            "downloaded_size": [
+              363,
+              526
+            ],
+            "anchor": [
+              0.5,
+              0.33
+            ]
+          },
+          "now": {
+            "pageid": 176334223,
+            "title": "File:George Clooney Jay Kelly-19 (cropped).jpg",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/George_Clooney_Jay_Kelly-19_%28cropped%29.jpg",
+            "source": "https://commons.wikimedia.org/wiki/File:George_Clooney_Jay_Kelly-19_(cropped).jpg",
+            "width": 3330,
+            "height": 4438,
+            "year": 2025,
+            "date": "2025-09-29 19:26:06",
+            "description": "George Clooney, actor, at the 63rd annual New York Film Festival at Lincoln Center in 2025 for the film Jay Kelly",
+            "artist": "Bryan Berlin",
+            "license": "CC BY-SA 4.0",
+            "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+            "credit": "Own work",
+            "file": "photos/07_now_71c52658.jpg",
+            "downloaded_size": [
+              1280,
+              1706
+            ],
+            "anchor": [
+              0.5,
+              0.33
+            ]
+          },
+          "delta": 30,
+          "assets": {
+            "then": "assets/photos/01_leading_men/05_then.jpg",
+            "now": "assets/photos/01_leading_men/05_now.jpg"
+          },
+          "card_copy": [
+            "OCEAN'S ELEVEN • THE DESCENDANTS",
+            "Charm became a bridge to drama, producing and directing."
+          ]
+        }
+      ],
+      "narration": {
+        "a": "Welcome to Hollywood Leading Men, Then and Now. We begin with Tom Cruise. A nineteen eighty nine Oscars portrait catches him just after Top Gun made him a defining movie star. A recent festival image shows the same focused screen presence, now backed by decades of daring action films. Leonardo DiCaprio moved from youthful dramatic roles to an Oscar winning career that includes Titanic, The Departed, and The Revenant. His two portraits trace a performer who keeps choosing ambitious collaborators and very different worlds. Tom Hanks brings another kind of range. From the playful energy of Big to the humanity of Forrest Gump, Apollo 13, and Toy Story, he made warmth feel cinematic. Look closely at these first three pairs, then see which familiar expression has stayed with each actor.",
+        "b": "Now for three more leading men. Brad Pitt arrived with a restless edge that carried from Thelma and Louise to Fight Club and Once Upon a Time in Hollywood. The years change the style, but the calm intensity remains easy to recognize. Denzel Washington has brought authority and detail to characters in Glory, Malcolm X, Training Day, and Fences. His portraits frame a career built on listening as carefully as speaking. George Clooney turned television charm into a varied film career, from Ocean's Eleven to Syriana, The Descendants, and directing work behind the camera. Six careers, six different paths through Hollywood. Which early and recent pairing surprised you most?"
+      },
+      "audio": {
+        "a": "assets/audio/01_leading_men_a.mp3",
+        "b": "assets/audio/01_leading_men_b.mp3"
+      }
+    },
+    {
+      "id": "02_leading_ladies",
+      "number": 2,
+      "title": "HOLLYWOOD LEADING LADIES",
+      "strapline": "THEN & NOW",
+      "accent": [
+        248,
+        115,
+        188
+      ],
+      "accent2": [
+        132,
+        94,
+        194
+      ],
+      "filename": "02_Hollywood_Leading_Ladies_Then_Now.mp4",
+      "people": [
+        {
+          "index": 0,
+          "name": "Julia Roberts",
+          "years": [
+            1990,
+            2025
+          ],
+          "then": {
+            "title": "File:JuliaRoberts90.jpg",
+            "pageid": 5647513,
+            "source": "https://commons.wikimedia.org/wiki/File:JuliaRoberts90.jpg",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/8/80/JuliaRoberts90.jpg",
+            "width": 1308,
+            "height": 2076,
+            "year": 1990,
+            "date": "1990-09",
+            "description": "L'actrice américaine Julia Roberts au Festival du cinéma américain de Deauville (Normandie, France) en septembre 1990.",
+            "artist": "Roland Godefroy",
+            "license": "CC BY-SA 3.0",
+            "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+            "credit": "Own work",
+            "file": "/home/user/.cache/hollywood_actresses/photos/00_then_82ba20a3.jpg",
+            "downloaded_size": [
+              1280,
+              2032
+            ],
+            "anchor": [
+              0.5,
+              0.32
+            ],
+            "context": ""
+          },
+          "now": {
+            "title": "File:Julia Roberts 2025 (cropped).jpg",
+            "pageid": 176696058,
+            "source": "https://commons.wikimedia.org/wiki/File:Julia_Roberts_2025_(cropped).jpg",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Julia_Roberts_2025_%28cropped%29.jpg",
+            "width": 1244,
+            "height": 1470,
+            "year": 2025,
+            "date": "2025-08-29 12:50:31",
+            "description": "Julia Roberts at the 2025 82nd Venice Film Festival",
+            "artist": "Colleen Sturtevant",
+            "license": "CC BY-SA 4.0",
+            "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+            "credit": "Own work",
+            "file": "/home/user/.cache/hollywood_actresses/photos/00_now_34b2a234.jpg",
+            "downloaded_size": [
+              1244,
+              1470
+            ],
+            "anchor": [
+              0.5,
+              0.32
+            ],
+            "context": ""
+          },
+          "delta": 35,
+          "assets": {
+            "then": "assets/photos/02_leading_ladies/00_then.jpg",
+            "now": "assets/photos/02_leading_ladies/00_now.jpg"
+          },
+          "card_copy": [
+            "PRETTY WOMAN • ERIN BROCKOVICH",
+            "A familiar smile that can land a joke or sharpen a moment of conviction."
+          ]
+        },
+        {
+          "index": 1,
+          "name": "Angelina Jolie",
+          "years": [
+            2004,
+            2025
+          ],
+          "then": {
+            "title": "File:Angelina Jolie.jpg",
+            "pageid": 61392,
+            "source": "https://commons.wikimedia.org/wiki/File:Angelina_Jolie.jpg",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Angelina_Jolie.jpg",
+            "width": 520,
+            "height": 649,
+            "year": 2004,
+            "date": "2004-12-17",
+            "description": "Angelina Jolie at the premiere of Alexander in Cologne.",
+            "artist": "Stefan Servos",
+            "license": "CC BY-SA 3.0",
+            "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+            "credit": "See below",
+            "file": "/home/user/.cache/hollywood_actresses/photos/01_then_3c40c4d0.jpg",
+            "downloaded_size": [
+              500,
+              624
+            ],
+            "anchor": [
+              0.5,
+              0.32
+            ],
+            "context": ""
+          },
+          "now": {
+            "title": "File:Angelina Jolie at the 2025 Toronto International Film Festival. 02.jpg",
+            "pageid": 176354958,
+            "source": "https://commons.wikimedia.org/wiki/File:Angelina_Jolie_at_the_2025_Toronto_International_Film_Festival._02.jpg",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Angelina_Jolie_at_the_2025_Toronto_International_Film_Festival._02.jpg",
+            "width": 4134,
+            "height": 5303,
+            "year": 2025,
+            "date": "2025-09-07 15:10:01",
+            "description": "Angelina Jolie, actor, at the 2025 Toronto International Film Festival (TIFF) for the movie Couture.",
+            "artist": "Sara Komatsu",
+            "license": "CC BY-SA 4.0",
+            "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+            "credit": "Own work",
+            "file": "/home/user/.cache/hollywood_actresses/photos/01_now_4f8eb9c8.jpg",
+            "downloaded_size": [
+              1280,
+              1642
+            ],
+            "anchor": [
+              0.5,
+              0.32
+            ],
+            "context": ""
+          },
+          "delta": 21,
+          "assets": {
+            "then": "assets/photos/02_leading_ladies/01_then.jpg",
+            "now": "assets/photos/02_leading_ladies/01_now.jpg"
+          },
+          "card_copy": [
+            "GIRL, INTERRUPTED • MALEFICENT",
+            "A career that crosses intimate drama, mythic spectacle and work behind the camera."
+          ]
+        },
+        {
+          "index": 2,
+          "name": "Nicole Kidman",
+          "years": [
+            2001,
+            2025
+          ],
+          "then": {
+            "title": "File:Nicole kidman3cropped.jpg",
+            "pageid": 2109696,
+            "source": "https://commons.wikimedia.org/wiki/File:Nicole_kidman3cropped.jpg",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Nicole_kidman3cropped.jpg",
+            "width": 310,
+            "height": 398,
+            "year": 2001,
+            "date": "2001",
+            "description": "Nicole Kidman at Cannes Film Festival 2001",
+            "artist": "Rita Molnár, cropped by Machocarioca",
+            "license": "CC BY-SA 2.5",
+            "license_url": "https://creativecommons.org/licenses/by-sa/2.5",
+            "credit": "crop from Image:Nicole kidman3.jpg",
+            "file": "/home/user/.cache/hollywood_actresses/photos/02_then_448a6801.jpg",
+            "downloaded_size": [
+              310,
+              398
+            ],
+            "anchor": [
+              0.5,
+              0.32
+            ],
+            "context": ""
+          },
+          "now": {
+            "title": "File:MKr384262 Nicole Kidman (Women In Motion, Cannes 2025).jpg",
+            "pageid": 185230861,
+            "source": "https://commons.wikimedia.org/wiki/File:MKr384262_Nicole_Kidman_(Women_In_Motion,_Cannes_2025).jpg",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/MKr384262_Nicole_Kidman_%28Women_In_Motion%2C_Cannes_2025%29.jpg",
+            "width": 3095,
+            "height": 4643,
+            "year": 2025,
+            "date": "2025-05-18",
+            "description": "Nicole Kidman at Women In Motion, 2025 Cannes Film Festival",
+            "artist": "Martin Kraft",
+            "license": "CC BY-SA 4.0",
+            "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+            "credit": "Own work",
+            "file": "/home/user/.cache/hollywood_actresses/photos/02_now_d8e093af.jpg",
+            "downloaded_size": [
+              1280,
+              1920
+            ],
+            "anchor": [
+              0.5,
+              0.32
+            ],
+            "context": ""
+          },
+          "delta": 24,
+          "assets": {
+            "then": "assets/photos/02_leading_ladies/02_then.jpg",
+            "now": "assets/photos/02_leading_ladies/02_now.jpg"
+          },
+          "card_copy": [
+            "MOULIN ROUGE • THE HOURS",
+            "Glamour, suspense and vulnerability become different tools in each new role."
+          ]
+        },
+        {
+          "index": 3,
+          "name": "Kate Winslet",
+          "years": [
+            2006,
+            2025
+          ],
+          "then": {
+            "title": "File:Kate Winslet TIFF 2006 (cropped).jpg",
+            "pageid": 160233882,
+            "source": "https://commons.wikimedia.org/wiki/File:Kate_Winslet_TIFF_2006_(cropped).jpg",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Kate_Winslet_TIFF_2006_%28cropped%29.jpg",
+            "width": 394,
+            "height": 511,
+            "year": 2006,
+            "date": "2006-09-09",
+            "description": "Kate Winslet at the premiere of \"All the King's Men\", Toronto International Film Festival 2006.",
+            "artist": "Tony Shek",
+            "license": "CC BY-SA 2.0",
+            "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+            "credit": "Kate Winslet",
+            "file": "/home/user/.cache/hollywood_actresses/photos/03_then_7159ca8b.jpg",
+            "downloaded_size": [
+              394,
+              511
+            ],
+            "anchor": [
+              0.5,
+              0.32
+            ],
+            "context": ""
+          },
+          "now": {
+            "title": "File:KateWinslet (cropped).jpg",
+            "pageid": 182057483,
+            "source": "https://commons.wikimedia.org/wiki/File:KateWinslet_(cropped).jpg",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/KateWinslet_%28cropped%29.jpg",
+            "width": 1092,
+            "height": 1366,
+            "year": 2025,
+            "date": "2025-12-09 21:41:03",
+            "description": "Kate Winslet at a screening of \"Goodbye June\" At Film at Lincoln Center in 2025",
+            "artist": "Colleen Sturtevant",
+            "license": "CC BY-SA 4.0",
+            "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+            "credit": "Own work",
+            "file": "/home/user/.cache/hollywood_actresses/photos/03_now_8a177606.jpg",
+            "downloaded_size": [
+              1092,
+              1366
+            ],
+            "anchor": [
+              0.5,
+              0.32
+            ],
+            "context": ""
+          },
+          "delta": 19,
+          "assets": {
+            "then": "assets/photos/02_leading_ladies/03_then.jpg",
+            "now": "assets/photos/02_leading_ladies/03_now.jpg"
+          },
+          "card_copy": [
+            "TITANIC • MARE OF EASTTOWN",
+            "A performer drawn to characters that feel lived in rather than merely polished."
+          ]
+        },
+        {
+          "index": 10,
+          "name": "Charlize Theron",
+          "years": [
+            2005,
+            2026
+          ],
+          "then": {
+            "title": "File:Charlize Theron 2005.jpg",
+            "pageid": 1343696,
+            "source": "https://commons.wikimedia.org/wiki/File:Charlize_Theron_2005.jpg",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Charlize_Theron_2005.jpg",
+            "width": 470,
+            "height": 634,
+            "year": 2005,
+            "date": "2005",
+            "description": "Charlize Theron at the premiere of North Country at the 2005 Toronto International Film Festival.North Country_010",
+            "artist": "Tony Shek",
+            "license": "CC BY 2.0",
+            "license_url": "https://creativecommons.org/licenses/by/2.0",
+            "credit": "Flickr",
+            "file": "/home/user/.cache/hollywood_actresses/photos/10_then_1b7e3423.jpg",
+            "downloaded_size": [
+              470,
+              634
+            ],
+            "anchor": [
+              0.5,
+              0.32
+            ],
+            "context": ""
+          },
+          "now": {
+            "title": "File:CharlizeTheron-byPhilipRomano3 (headshot).jpg",
+            "pageid": 196311104,
+            "source": "https://commons.wikimedia.org/wiki/File:CharlizeTheron-byPhilipRomano3_(headshot).jpg",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/CharlizeTheron-byPhilipRomano3_%28headshot%29.jpg",
+            "width": 2731,
+            "height": 3640,
+            "year": 2026,
+            "date": "2026-07-14 20:59:36",
+            "description": "Charlize Theron at the NYC Premiere of \"The Odyssey\" - July 14, 2026",
+            "artist": "Original: PhilipRomano / Derivative work: Danyele",
+            "license": "CC BY-SA 4.0",
+            "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+            "credit": "This image has been extracted from another file",
+            "file": "/home/user/.cache/hollywood_actresses/photos/10_now_61a2b63a.jpg",
+            "downloaded_size": [
+              1280,
+              1706
+            ],
+            "anchor": [
+              0.5,
+              0.32
+            ],
+            "context": ""
+          },
+          "delta": 21,
+          "assets": {
+            "then": "assets/photos/02_leading_ladies/04_then.jpg",
+            "now": "assets/photos/02_leading_ladies/04_now.jpg"
+          },
+          "card_copy": [
+            "MONSTER • MAD MAX: FURY ROAD",
+            "Range that is both emotionally exacting and physically fearless."
+          ]
+        },
+        {
+          "index": 14,
+          "name": "Anne Hathaway",
+          "years": [
+            2008,
+            2026
+          ],
+          "then": {
+            "title": "File:Anne Hathaway (actress).jpg",
+            "pageid": 3840611,
+            "source": "https://commons.wikimedia.org/wiki/File:Anne_Hathaway_(actress).jpg",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Anne_Hathaway_%28actress%29.jpg",
+            "width": 454,
+            "height": 658,
+            "year": 2008,
+            "date": "2008-02-04",
+            "description": "Actress Anne Hathaway arrives at Mercedes-Benz Fashion Week at the Bryant Park tents in New York City on February 4, 2008.",
+            "artist": "Christopherpeterson (talk) Original uploader was Christopherpeterson at en.wikipedia",
+            "license": "CC BY 3.0",
+            "license_url": "https://creativecommons.org/licenses/by/3.0",
+            "credit": "Own work Transferred from en.wikipedia",
+            "file": "/home/user/.cache/hollywood_actresses/photos/14_then_8b69cf37.jpg",
+            "downloaded_size": [
+              250,
+              362
+            ],
+            "anchor": [
+              0.5,
+              0.32
+            ],
+            "context": ""
+          },
+          "now": {
+            "title": "File:Anne Hathaway \"The Devil Wears Prada 2\" 55194764955 (cropped).jpg",
+            "pageid": 191510259,
+            "source": "https://commons.wikimedia.org/wiki/File:Anne_Hathaway_%22The_Devil_Wears_Prada_2%22_55194764955_(cropped).jpg",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Anne_Hathaway_%22The_Devil_Wears_Prada_2%22_55194764955_%28cropped%29.jpg",
+            "width": 1058,
+            "height": 1425,
+            "year": 2026,
+            "date": "2026-04-08 09:59:11",
+            "description": "Press conference for the film \"The Devil Wears Prada 2\" April 8, 2026 Four Seasons Hotel Seoul, Seoul Ministry of culture, sports and Tourism Official Photographer : Lee jeong woo All photographs in the official Flickr account of the Republic of Korea are available only for publication by news organizations and/or for public purposes with proper attribution to the correct source (photographer and organizations mentioned above). Any distortion to the original meaning of a photograph for provision to a third party through posting and resale, partial reproduction, falsification or use of the photograph with other images is strictly prohibited without the express written permission of the government of the Republic of Korea. Thank you. —————————————————————————— 영화 ‘악마는 프라다를 입는다 2’ 내한 기자간담회 2026-04-08 서울시 종로구 포시즌스 호텔 문화체육관광부 이정우 플리커 채널 'Republic of Korea'에 게재되는 대한민국정부 사진은 올바른 저작권 이름 (촬영자 / 상기 명기된 기관)으로 표기한 이후 보도 혹은 공익목적으로 사용하실 수 있습니다. 의미를 왜곡하는 맥락에서 사진을 게시하고 재판매, 부분 복제, 변조 또는 다른 이미지에 통합하는 것과 같은 사진의 모든 수정, 자료를 제3자에게 제공하는 것은 대한민국정부(운영자/저작권자)의 명시적인 허가 없이 금지됩니다.",
+            "artist": "Ministry of culture, sports and Tourism- Lee Jeong-woo",
+            "license": "CC BY-SA 4.0",
+            "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+            "credit": "https://www.flickr.com/photos/koreanet/55194764955/",
+            "resolution_note": "Official source thumbnail, source-matched working copy.",
+            "file": "/home/user/.cache/hollywood_actresses/photos/14_now_65920970.jpg",
+            "downloaded_size": [
+              500,
+              673
+            ],
+            "anchor": [
+              0.5,
+              0.32
+            ],
+            "context": ""
+          },
+          "delta": 18,
+          "assets": {
+            "then": "assets/photos/02_leading_ladies/05_then.jpg",
+            "now": "assets/photos/02_leading_ladies/05_now.jpg"
+          },
+          "card_copy": [
+            "THE PRINCESS DIARIES • INTERSTELLAR",
+            "From quick wit and musical drama to high-stakes science fiction."
+          ]
+        }
+      ],
+      "narration": {
+        "a": "Welcome to Hollywood Leading Ladies, Then and Now. Julia Roberts became a global favorite with Pretty Woman, then gave Erin Brockovich a sharp, determined center. Across the years, her famous smile still carries both comedy and conviction. Angelina Jolie has moved between action spectacle, intimate drama, directing, and humanitarian work. Lara Croft, Girl Interrupted, and Maleficent show only a few of the contrasting images in her career. Nicole Kidman has made reinvention part of her screen language. From Moulin Rouge to The Hours, The Others, and Big Little Lies, she can make glamour, suspense, and quiet vulnerability feel equally precise. Compare the early and recent portraits and notice how each actress has reshaped a familiar image.",
+        "b": "The next three leading ladies carry that story forward. Kate Winslet made Rose unforgettable in Titanic, then kept seeking complicated characters in films and television dramas. Her work often feels lived in rather than posed. Charlize Theron has crossed from the dramatic transformation of Monster to the physical force of Mad Max Fury Road, proving that range can be both emotional and athletic. Anne Hathaway first introduced many viewers to a shy princess in The Princess Diaries. Later roles in The Devil Wears Prada, Les Miserables, and Interstellar revealed a performer comfortable with wit, music, and depth. Six portraits, six evolving careers. Which role appears in your mind the moment you see each face?"
+      },
+      "audio": {
+        "a": "assets/audio/02_leading_ladies_a.mp3",
+        "b": "assets/audio/02_leading_ladies_b.mp3"
+      }
+    },
+    {
+      "id": "03_action_icons",
+      "number": 3,
+      "title": "ACTION MOVIE ICONS",
+      "strapline": "THEN & NOW",
+      "accent": [
+        250,
+        153,
+        55
+      ],
+      "accent2": [
+        239,
+        68,
+        68
+      ],
+      "filename": "03_Action_Movie_Icons_Then_Now.mp4",
+      "people": [
+        {
+          "index": 20,
+          "name": "Arnold Schwarzenegger",
+          "years": [
+            1984,
+            2025
+          ],
+          "then": {
+            "pageid": 167036950,
+            "title": "File:Arnold Schwarzenegger 1984 (shoulder crop).jpg",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Arnold_Schwarzenegger_1984_%28shoulder_crop%29.jpg",
+            "source": "https://commons.wikimedia.org/wiki/File:Arnold_Schwarzenegger_1984_(shoulder_crop).jpg",
+            "width": 1655,
+            "height": 2610,
+            "year": 1984,
+            "date": "1984-10-16",
+            "description": "Arnold Schwarzenegger standing with arms crossed in front of some photos of him and posters for movies that he appeared in",
+            "artist": "Mary Frampton, Los Angeles Times",
+            "license": "CC BY 4.0",
+            "license_url": "https://creativecommons.org/licenses/by/4.0",
+            "credit": "https://digital.library.ucla.edu/catalog/ark:/21198/zz0002tpw1",
+            "file": "photos/20_then_a9ad1cf8.jpg",
+            "downloaded_size": [
+              1280,
+              2019
+            ],
+            "anchor": [
+              0.5,
+              0.33
+            ]
+          },
+          "now": {
+            "pageid": 192425135,
+            "title": "File:Arnold Schwarzenegger 2025 (cropped).jpg",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Arnold_Schwarzenegger_2025_%28cropped%29.jpg",
+            "source": "https://commons.wikimedia.org/wiki/File:Arnold_Schwarzenegger_2025_(cropped).jpg",
+            "width": 978,
+            "height": 1308,
+            "year": 2025,
+            "date": "Taken on 4 July 2025, 11:33:18",
+            "description": "Department of Homeland Security (DHS) Deputy Secretary Troy Edgar administers the oath of allegiance and provides congratulatory remarks, alongside actor and former California Governor Arnold Schwarzenegger, at a USCIS naturalization ceremony held at Mount Vernon in Virginia, July 4th, 2025. (DHS photo by Mikaela McGee)",
+            "artist": "DHSgov",
+            "license": "Public domain",
+            "license_url": "",
+            "credit": "DHS Deputy Secretary Troy Edgar Gives Remarks At Naturalization Ceremony at Mt. Vernon",
+            "file": "photos/20_now_4bda379a.jpg",
+            "downloaded_size": [
+              978,
+              1308
+            ],
+            "anchor": [
+              0.5,
+              0.33
+            ]
+          },
+          "delta": 41,
+          "assets": {
+            "then": "assets/photos/03_action_icons/00_then.jpg",
+            "now": "assets/photos/03_action_icons/00_now.jpg"
+          },
+          "card_copy": [
+            "THE TERMINATOR • PREDATOR",
+            "A physical icon whose later chapters include comedy and public service."
+          ]
+        },
+        {
+          "index": 21,
+          "name": "Sylvester Stallone",
+          "years": [
+            1985,
+            2025
+          ],
+          "then": {
+            "pageid": 91293465,
+            "title": "File:Sylvester Stallone Brigitte Nielsen (cropped).jpg",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Sylvester_Stallone_Brigitte_Nielsen_%28cropped%29.jpg",
+            "source": "https://commons.wikimedia.org/wiki/File:Sylvester_Stallone_Brigitte_Nielsen_(cropped).jpg",
+            "width": 2864,
+            "height": 2220,
+            "year": 1985,
+            "date": "Taken on 8 October 1985",
+            "description": "C31323-10, President and Nancy Reagan posing with Sylvester Stallone and Brigitte Nielsen during a state dinner for Prime Minister Lee Kuan Yew of Singapore. 10/8/85.",
+            "artist": "All the photographs are in the public domain and may be credited \"Courtesy Ronald Reagan Library.\" first uploaded by Wikifreund, 9. November 2006 on German Wikipedia",
+            "license": "Public domain",
+            "license_url": "",
+            "credit": "https://catalog.archives.gov/id/75854347 U.S. National Archive",
+            "file": "photos/21_then_23027e3a.jpg",
+            "downloaded_size": [
+              1920,
+              1488
+            ],
+            "anchor": [
+              0.865,
+              0.3
+            ]
+          },
+          "now": {
+            "pageid": 192506094,
+            "title": "File:P20251206DT-0472 (cropped; Sylvester Stallone) (less headroom).jpg",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/P20251206DT-0472_%28cropped%3B_Sylvester_Stallone%29_%28less_headroom%29.jpg",
+            "source": "https://commons.wikimedia.org/wiki/File:P20251206DT-0472_(cropped;_Sylvester_Stallone)_(less_headroom).jpg",
+            "width": 488,
+            "height": 617,
+            "year": 2025,
+            "date": "2025-12-06 18:43:24",
+            "description": "President Donald Trump hosts the 2025 Kennedy Center honorees for a medal presentation in the Oval Office, Saturday, December 6, 2025. (Official White House Photo by Daniel Torok)",
+            "artist": "The White House",
+            "license": "Public domain",
+            "license_url": "",
+            "credit": "https://www.flickr.com/photos/202101414@N05/55008310873/",
+            "file": "photos/21_now_b9496c3a.jpg",
+            "downloaded_size": [
+              488,
+              617
+            ],
+            "anchor": [
+              0.5,
+              0.33
+            ]
+          },
+          "delta": 40,
+          "assets": {
+            "then": "assets/photos/03_action_icons/01_then.jpg",
+            "now": "assets/photos/03_action_icons/01_now.jpg"
+          },
+          "card_copy": [
+            "ROCKY • RAMBO",
+            "Two different underdogs, both carried by unwavering determination."
+          ]
+        },
+        {
+          "index": 12,
+          "name": "Harrison Ford",
+          "years": [
+            2007,
+            2025
+          ],
+          "then": {
+            "pageid": 44312521,
+            "title": "File:Indianajones4 (cropped).jpg",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Indianajones4_%28cropped%29.jpg",
+            "source": "https://commons.wikimedia.org/wiki/File:Indianajones4_(cropped).jpg",
+            "width": 502,
+            "height": 665,
+            "year": 2007,
+            "date": "2007-06-22 15:20:46",
+            "description": "First shot of Indiana Jones on the set of part 4",
+            "artist": "John Griffiths",
+            "license": "CC BY-SA 2.0",
+            "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+            "credit": "originally posted to Flickr as Indy's Back",
+            "file": "photos/12_then_215fd8bf.jpg",
+            "downloaded_size": [
+              502,
+              665
+            ],
+            "anchor": [
+              0.5,
+              0.33
+            ]
+          },
+          "now": {
+            "pageid": 187896484,
+            "title": "File:Harrison Ford - Televerse 2025-02.jpg",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Harrison_Ford_-_Televerse_2025-02.jpg",
+            "source": "https://commons.wikimedia.org/wiki/File:Harrison_Ford_-_Televerse_2025-02.jpg",
+            "width": 1600,
+            "height": 2000,
+            "year": 2025,
+            "date": "2025-08-15 17:03:31",
+            "description": "Harrison Ford at an FYC panel for Shrinking at Televerse 2025 in Los Angeles, California.",
+            "artist": "Kevin Paul",
+            "license": "CC BY 4.0",
+            "license_url": "https://creativecommons.org/licenses/by/4.0",
+            "credit": "Own work",
+            "file": "photos/12_now_124a09f7.jpg",
+            "downloaded_size": [
+              1280,
+              1600
+            ],
+            "anchor": [
+              0.5,
+              0.33
+            ]
+          },
+          "delta": 18,
+          "assets": {
+            "then": "assets/photos/03_action_icons/02_then.jpg",
+            "now": "assets/photos/03_action_icons/02_now.jpg"
+          },
+          "card_copy": [
+            "STAR WARS • INDIANA JONES",
+            "Adventure heroes made memorable by dry humor, skepticism and nerve."
+          ]
+        },
+        {
+          "index": 19,
+          "name": "Samuel L. Jackson",
+          "years": [
+            2008,
+            2024
+          ],
+          "then": {
+            "pageid": 74000250,
+            "title": "File:Samuel L Jackson at San Diego ComicCon 2008 (cropped).jpg",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Samuel_L_Jackson_at_San_Diego_ComicCon_2008_%28cropped%29.jpg",
+            "source": "https://commons.wikimedia.org/wiki/File:Samuel_L_Jackson_at_San_Diego_ComicCon_2008_(cropped).jpg",
+            "width": 2005,
+            "height": 2306,
+            "year": 2008,
+            "date": "2008-07-25 16:45:12",
+            "description": "Samuel L. Jackson at the San Diego ComicCon 2008",
+            "artist": "pinguino k",
+            "license": "CC BY 2.0",
+            "license_url": "https://creativecommons.org/licenses/by/2.0",
+            "credit": "originally posted to Flickr as samuel l jackson",
+            "file": "photos/19_then_44c7dbef.jpg",
+            "downloaded_size": [
+              1280,
+              1472
+            ],
+            "anchor": [
+              0.5,
+              0.33
+            ]
+          },
+          "now": {
+            "pageid": 194966972,
+            "title": "File:Samuel L. Jackson attending the World premier of \"Argylle\" in London , January 2024 (cropped).jpg",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Samuel_L._Jackson_attending_the_World_premier_of_%22Argylle%22_in_London_%2C_January_2024_%28cropped%29.jpg",
+            "source": "https://commons.wikimedia.org/wiki/File:Samuel_L._Jackson_attending_the_World_premier_of_%22Argylle%22_in_London_,_January_2024_(cropped).jpg",
+            "width": 1027,
+            "height": 1373,
+            "year": 2024,
+            "date": "2024-01-24 19:05:13",
+            "description": "Samuel L. Jackson  attending the World premier of \"Argylle\" in London , January 2024",
+            "artist": "Daltoncitys",
+            "license": "CC BY-SA 4.0",
+            "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+            "credit": "Own work",
+            "file": "photos/19_now_b362e708.jpg",
+            "downloaded_size": [
+              1027,
+              1373
+            ],
+            "anchor": [
+              0.5,
+              0.33
+            ]
+          },
+          "delta": 16,
+          "assets": {
+            "then": "assets/photos/03_action_icons/03_then.jpg",
+            "now": "assets/photos/03_action_icons/03_now.jpg"
+          },
+          "card_copy": [
+            "PULP FICTION • NICK FURY",
+            "Voice, timing and presence that can make an ensemble feel larger."
+          ]
+        },
+        {
+          "index": 23,
+          "name": "Hugh Jackman",
+          "years": [
+            2003,
+            2025
+          ],
+          "then": {
+            "pageid": 4672852,
+            "title": "File:Hugh Jackman.jpg",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Hugh_Jackman.jpg",
+            "source": "https://commons.wikimedia.org/wiki/File:Hugh_Jackman.jpg",
+            "width": 579,
+            "height": 693,
+            "year": 2003,
+            "date": "2003-10-25 03:56",
+            "description": "Image from Flickr, cropped.",
+            "artist": "Phil Guest from Bournemouth, UK",
+            "license": "CC BY-SA 2.0",
+            "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+            "credit": "Hugh Jackman",
+            "file": "photos/23_then_2b1e9704.jpg",
+            "downloaded_size": [
+              500,
+              598
+            ],
+            "anchor": [
+              0.5,
+              0.33
+            ]
+          },
+          "now": {
+            "pageid": 176541081,
+            "title": "File:Hugh Jackman Is This Thing On-68 (cropped).jpg",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Hugh_Jackman_Is_This_Thing_On-68_%28cropped%29.jpg",
+            "source": "https://commons.wikimedia.org/wiki/File:Hugh_Jackman_Is_This_Thing_On-68_(cropped).jpg",
+            "width": 2513,
+            "height": 3350,
+            "year": 2025,
+            "date": "2025-10-10 17:41:28",
+            "description": "Hugh Jackman at the 63rd annual New York Film Festival at Lincoln Center in 2025 for the film Is This Thing On?",
+            "artist": "Bryan Berlin",
+            "license": "CC BY-SA 4.0",
+            "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+            "credit": "Own work",
+            "file": "photos/23_now_4283c784.jpg",
+            "downloaded_size": [
+              1280,
+              1706
+            ],
+            "anchor": [
+              0.5,
+              0.33
+            ]
+          },
+          "delta": 22,
+          "assets": {
+            "then": "assets/photos/03_action_icons/04_then.jpg",
+            "now": "assets/photos/03_action_icons/04_now.jpg"
+          },
+          "card_copy": [
+            "WOLVERINE • THE GREATEST SHOWMAN",
+            "Musical-theater energy meets fierce physical commitment."
+          ]
+        },
+        {
+          "index": 21,
+          "name": "Sigourney Weaver",
+          "years": [
+            1989,
+            2025
+          ],
+          "then": {
+            "title": "File:Sigourney Weaver 1989 (cropped).jpg",
+            "pageid": 39650632,
+            "source": "https://commons.wikimedia.org/wiki/File:Sigourney_Weaver_1989_(cropped).jpg",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Sigourney_Weaver_1989_%28cropped%29.jpg",
+            "width": 416,
+            "height": 531,
+            "year": 1989,
+            "date": "1989-03",
+            "description": "Sigourney Weaver at the Governor's Ball after the telecast of the 61st Annual Academy Awards, 1989.",
+            "artist": "Alan Light",
+            "license": "CC BY 2.0",
+            "license_url": "https://creativecommons.org/licenses/by/2.0",
+            "credit": "This image has been extracted from another file",
+            "file": "/home/user/.cache/hollywood_actresses/photos/21_then_e35b5ca2.jpg",
+            "downloaded_size": [
+              416,
+              531
+            ],
+            "anchor": [
+              0.5,
+              0.32
+            ],
+            "context": ""
+          },
+          "now": {
+            "title": "File:Sigourney Weaver at the 2025 Toronto International Film Festival (cropped).jpg",
+            "pageid": 175853843,
+            "source": "https://commons.wikimedia.org/wiki/File:Sigourney_Weaver_at_the_2025_Toronto_International_Film_Festival_(cropped).jpg",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Sigourney_Weaver_at_the_2025_Toronto_International_Film_Festival_%28cropped%29.jpg",
+            "width": 1874,
+            "height": 2501,
+            "year": 2025,
+            "date": "2025-09-08 23:18:13",
+            "description": "Sigourney Weaver, actor, at the 2025 Toronto International Film Festival (TIFF) for the movie Dust Bunny.",
+            "artist": "Desmond Herzfelder",
+            "license": "CC BY 4.0",
+            "license_url": "https://creativecommons.org/licenses/by/4.0",
+            "credit": "Own work",
+            "file": "/home/user/.cache/hollywood_actresses/photos/21_now_3dbed496.jpg",
+            "downloaded_size": [
+              1280,
+              1708
+            ],
+            "anchor": [
+              0.5,
+              0.32
+            ],
+            "context": ""
+          },
+          "delta": 36,
+          "assets": {
+            "then": "assets/photos/03_action_icons/05_then.jpg",
+            "now": "assets/photos/03_action_icons/05_now.jpg"
+          },
+          "card_copy": [
+            "ALIEN • GHOSTBUSTERS • AVATAR",
+            "Science fiction, comedy and imagination in one singular screen career."
+          ]
+        }
+      ],
+      "narration": {
+        "a": "Welcome to Action Icons, Then and Now. Arnold Schwarzenegger turned a champion bodybuilder's physical presence into an unmistakable movie persona. The Terminator, Predator, and Total Recall made him a symbol of eighties action, while later work added comedy and public service to the story. Sylvester Stallone created two of cinema's most durable underdogs. Rocky and Rambo began as very different characters, but both carried the determination that made his screen image so lasting. Harrison Ford brought a dry, grounded humor to extraordinary adventures. Han Solo and Indiana Jones remain legendary because he made heroes look brave, skeptical, and human at the same time. These early and later portraits span more than changing hairstyles. They capture how action stardom learned to endure.",
+        "b": "The next icons prove that action can take many forms. Samuel L Jackson can turn a few lines into a defining movie moment, from Pulp Fiction to Nick Fury and beyond. His voice, timing, and presence make even an ensemble feel larger. Hugh Jackman brought musical theater energy and fierce physical commitment to Wolverine, then showed another side in The Greatest Showman. Sigourney Weaver changed science fiction with Ripley in Alien, a character defined by intelligence and survival rather than easy stereotypes. Ghostbusters and Avatar later displayed her comedy and imagination. Six action careers, each built on a different kind of strength. Which hero or heroine would you add to the next chapter?"
+      },
+      "audio": {
+        "a": "assets/audio/03_action_icons_a.mp3",
+        "b": "assets/audio/03_action_icons_b.mp3"
+      }
+    },
+    {
+      "id": "04_nineties_icons",
+      "number": 4,
+      "title": "NINETIES HOLLYWOOD ICONS",
+      "strapline": "THEN & NOW",
+      "accent": [
+        34,
+        211,
+        238
+      ],
+      "accent2": [
+        236,
+        72,
+        153
+      ],
+      "filename": "04_Nineties_Hollywood_Icons_Then_Now.mp4",
+      "people": [
+        {
+          "index": 6,
+          "name": "Winona Ryder",
+          "years": [
+            2008,
+            2024
+          ],
+          "then": {
+            "title": "File:WinonaRyderSept08.jpg",
+            "pageid": 10707249,
+            "source": "https://commons.wikimedia.org/wiki/File:WinonaRyderSept08.jpg",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/WinonaRyderSept08.jpg",
+            "width": 268,
+            "height": 412,
+            "year": 2008,
+            "date": "2008-09-08",
+            "description": "Winona Ryder at the Marc Jacobs Show in September 2008.",
+            "artist": "Eric Weiss at https://www.flickr.com/photos/weissfoto/",
+            "license": "CC BY 2.0",
+            "license_url": "https://creativecommons.org/licenses/by/2.0",
+            "credit": "https://www.flickr.com/photos/weissfoto/2870792262/",
+            "file": "/home/user/.cache/hollywood_actresses/photos/06_then_fb1988fa.jpg",
+            "downloaded_size": [
+              268,
+              412
+            ],
+            "anchor": [
+              0.5,
+              0.32
+            ],
+            "context": ""
+          },
+          "now": {
+            "title": "File:Winona Ryder-63849 (cropped).jpg",
+            "pageid": 163533336,
+            "source": "https://commons.wikimedia.org/wiki/File:Winona_Ryder-63849_(cropped).jpg",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Winona_Ryder-63849_%28cropped%29.jpg",
+            "width": 1454,
+            "height": 1960,
+            "year": 2024,
+            "date": "2024-08-28",
+            "description": "Actress Winona Ryder at the 81st Venice International Film Festival",
+            "artist": "Harald Krichel",
+            "license": "CC BY-SA 4.0",
+            "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+            "credit": "Own work",
+            "file": "/home/user/.cache/hollywood_actresses/photos/06_now_fbeef38c.jpg",
+            "downloaded_size": [
+              1280,
+              1725
+            ],
+            "anchor": [
+              0.5,
+              0.32
+            ],
+            "context": ""
+          },
+          "delta": 16,
+          "assets": {
+            "then": "assets/photos/04_nineties_icons/00_then.jpg",
+            "now": "assets/photos/04_nineties_icons/00_now.jpg"
+          },
+          "card_copy": [
+            "BEETLEJUICE • STRANGER THINGS",
+            "A defining face of offbeat cinema, rediscovered by a new generation."
+          ]
+        },
+        {
+          "index": 8,
+          "name": "Meg Ryan",
+          "years": [
+            2006,
+            2025
+          ],
+          "then": {
+            "title": "File:Meg Ryan.jpg",
+            "pageid": 2746611,
+            "source": "https://commons.wikimedia.org/wiki/File:Meg_Ryan.jpg",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Meg_Ryan.jpg",
+            "width": 560,
+            "height": 656,
+            "year": 2006,
+            "date": "2006-09-25 18:16",
+            "description": "Actress Meg Ryan",
+            "artist": "Arthur from Westchester County north of NYC, USA, at Arthur@NYCArthur.com",
+            "license": "CC BY-SA 2.0",
+            "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+            "credit": "Cropped from the original, Meg Ryan",
+            "file": "/home/user/.cache/hollywood_actresses/photos/08_then_2e1d3594.jpg",
+            "downloaded_size": [
+              560,
+              656
+            ],
+            "anchor": [
+              0.5,
+              0.32
+            ],
+            "context": ""
+          },
+          "now": {
+            "title": "File:Meg Ryan-5.jpg",
+            "pageid": 169092001,
+            "source": "https://commons.wikimedia.org/wiki/File:Meg_Ryan-5.jpg",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Meg_Ryan-5.jpg",
+            "width": 4000,
+            "height": 2664,
+            "year": 2025,
+            "date": "2025-07-02",
+            "description": "Meg Ryan na Sarajevo Film Festivalu",
+            "artist": "Adnasaida",
+            "license": "CC BY-SA 4.0",
+            "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+            "credit": "Own work",
+            "file": "/home/user/.cache/hollywood_actresses/photos/08_now_3c56dad0.jpg",
+            "downloaded_size": [
+              3840,
+              2557
+            ],
+            "anchor": [
+              0.49,
+              0.24
+            ],
+            "context": ""
+          },
+          "delta": 19,
+          "assets": {
+            "then": "assets/photos/04_nineties_icons/01_then.jpg",
+            "now": "assets/photos/04_nineties_icons/01_now.jpg"
+          },
+          "card_copy": [
+            "WHEN HARRY MET SALLY • YOU'VE GOT MAIL",
+            "Romantic comedy powered by timing, warmth and the perfect pause."
+          ]
+        },
+        {
+          "index": 5,
+          "name": "Johnny Depp",
+          "years": [
+            1992,
+            2023
+          ],
+          "then": {
+            "pageid": 9071724,
+            "title": "File:Johnny Depp Cannes nineties.jpg",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Johnny_Depp_Cannes_nineties.jpg",
+            "source": "https://commons.wikimedia.org/wiki/File:Johnny_Depp_Cannes_nineties.jpg",
+            "width": 448,
+            "height": 604,
+            "year": 1992,
+            "date": "1992-11-10",
+            "description": "Johnny Depp at the 1992 Cannes Film Festival.",
+            "artist": "Georges Biard",
+            "license": "CC BY-SA 3.0",
+            "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+            "credit": "Own work",
+            "file": "photos/05_then_814cd4c0.jpg",
+            "downloaded_size": [
+              448,
+              604
+            ],
+            "anchor": [
+              0.5,
+              0.33
+            ]
+          },
+          "now": {
+            "pageid": 188114945,
+            "title": "File:JeffBeckTribute2RAH230523 (9 of 81) (52922493928) (cropped).jpg",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/JeffBeckTribute2RAH230523_%289_of_81%29_%2852922493928%29_%28cropped%29.jpg",
+            "source": "https://commons.wikimedia.org/wiki/File:JeffBeckTribute2RAH230523_(9_of_81)_(52922493928)_(cropped).jpg",
+            "width": 650,
+            "height": 797,
+            "year": 2023,
+            "date": "2023-05-23 19:58",
+            "description": "JeffBeckTribute2RAH230523 (9 of 81)",
+            "artist": "Raph_PH",
+            "license": "CC BY 2.0",
+            "license_url": "https://creativecommons.org/licenses/by/2.0",
+            "credit": "JeffBeckTribute2RAH230523 (9 of 81)",
+            "file": "photos/05_now_b9d7b2c0.jpg",
+            "downloaded_size": [
+              650,
+              797
+            ],
+            "anchor": [
+              0.5,
+              0.33
+            ]
+          },
+          "delta": 31,
+          "assets": {
+            "then": "assets/photos/04_nineties_icons/02_then.jpg",
+            "now": "assets/photos/04_nineties_icons/02_now.jpg"
+          },
+          "card_copy": [
+            "EDWARD SCISSORHANDS • ED WOOD",
+            "An early career defined by transformations rather than predictability."
+          ]
+        },
+        {
+          "index": 10,
+          "name": "Will Smith",
+          "years": [
+            1993,
+            2025
+          ],
+          "then": {
+            "pageid": 93458336,
+            "title": "File:Will Smith (2078379272) (cropped).jpg",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Will_Smith_%282078379272%29_%28cropped%29.jpg",
+            "source": "https://commons.wikimedia.org/wiki/File:Will_Smith_(2078379272)_(cropped).jpg",
+            "width": 558,
+            "height": 775,
+            "year": 1993,
+            "date": "1993-09-01 00:00",
+            "description": "1993 Emmy Awards\nNOTE:  Permission granted to copy, publish, broadcast or post any of my photos, but please credit \"photo by Alan Light\" if you can. Thanks.\n\nScanned from the original 35MM film negative.",
+            "artist": "Alan Light",
+            "license": "CC BY 2.0",
+            "license_url": "https://creativecommons.org/licenses/by/2.0",
+            "credit": "Will Smith\n\nUploaded by MaybeMaybeMaybe",
+            "file": "photos/10_then_567dee22.jpg",
+            "downloaded_size": [
+              558,
+              775
+            ],
+            "anchor": [
+              0.5,
+              0.33
+            ]
+          },
+          "now": {
+            "pageid": 174849004,
+            "title": "File:Will Smith 01.jpg",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Will_Smith_01.jpg",
+            "source": "https://commons.wikimedia.org/wiki/File:Will_Smith_01.jpg",
+            "width": 6000,
+            "height": 4000,
+            "year": 2025,
+            "date": "2025-08-28 22:19:20",
+            "description": "Will Smith in 2025",
+            "artist": "Raph_PH",
+            "license": "CC BY 4.0",
+            "license_url": "https://creativecommons.org/licenses/by/4.0",
+            "credit": "https://www.flickr.com/photos/raph_ph/54774448551/",
+            "file": "photos/10_now_c5391b82.jpg",
+            "downloaded_size": [
+              1920,
+              1280
+            ],
+            "anchor": [
+              0.57,
+              0.3
+            ]
+          },
+          "delta": 32,
+          "assets": {
+            "then": "assets/photos/04_nineties_icons/03_then.jpg",
+            "now": "assets/photos/04_nineties_icons/03_now.jpg"
+          },
+          "card_copy": [
+            "THE FRESH PRINCE • MEN IN BLACK",
+            "Music, television, action and comedy met in a star with event-movie energy."
+          ]
+        },
+        {
+          "index": 9,
+          "name": "Halle Berry",
+          "years": [
+            1996,
+            2025
+          ],
+          "then": {
+            "title": "File:Halle Berry signs autographs for US soldiers in Bosnia-Herzegovina.jpg",
+            "pageid": 6405669,
+            "source": "https://commons.wikimedia.org/wiki/File:Halle_Berry_signs_autographs_for_US_soldiers_in_Bosnia-Herzegovina.jpg",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Halle_Berry_signs_autographs_for_US_soldiers_in_Bosnia-Herzegovina.jpg",
+            "width": 519,
+            "height": 556,
+            "year": 1996,
+            "date": "1996-12-24",
+            "description": "Halle Berry signs autographs for US soldiers at Tuzla Main Base, Bosnia-Herzegovina, during Operation JOINT GUARD.",
+            "artist": "SPC James Gordon, USA",
+            "license": "Public domain",
+            "license_url": "",
+            "credit": "http://www.dodmedia.osd.mil",
+            "file": "/home/user/.cache/hollywood_actresses/photos/09_then_30c1f328.jpg",
+            "downloaded_size": [
+              519,
+              556
+            ],
+            "anchor": [
+              0.48,
+              0.33
+            ],
+            "context": ""
+          },
+          "now": {
+            "title": "File:Halle Berry at the 2025 Cannes Film Festival 33 (cropped).jpg",
+            "pageid": 172944231,
+            "source": "https://commons.wikimedia.org/wiki/File:Halle_Berry_at_the_2025_Cannes_Film_Festival_33_(cropped).jpg",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Halle_Berry_at_the_2025_Cannes_Film_Festival_33_%28cropped%29.jpg",
+            "width": 2690,
+            "height": 3587,
+            "year": 2025,
+            "date": "2025-05-13 07:56:40",
+            "description": "Halle Berry during a photocall at the 2025 Cannes Film Festival. They are part of the jury for the 2025 festival.",
+            "artist": "Gabriel Hutchinson",
+            "license": "CC BY-SA 4.0",
+            "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+            "credit": "Own work",
+            "file": "/home/user/.cache/hollywood_actresses/photos/09_now_9ef9a265.jpg",
+            "downloaded_size": [
+              1280,
+              1707
+            ],
+            "anchor": [
+              0.5,
+              0.32
+            ],
+            "context": ""
+          },
+          "delta": 29,
+          "assets": {
+            "then": "assets/photos/04_nineties_icons/04_then.jpg",
+            "now": "assets/photos/04_nineties_icons/04_now.jpg"
+          },
+          "card_copy": [
+            "MONSTER'S BALL • X-MEN",
+            "Charisma, risk-taking and a willingness to change genres."
+          ]
+        },
+        {
+          "index": 19,
+          "name": "Uma Thurman",
+          "years": [
+            1994,
+            2024
+          ],
+          "then": {
+            "title": "File:1994 Uma Thurman 03.jpg",
+            "pageid": 67874779,
+            "source": "https://commons.wikimedia.org/wiki/File:1994_Uma_Thurman_03.jpg",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/1994_Uma_Thurman_03.jpg",
+            "width": 3551,
+            "height": 5298,
+            "year": 1994,
+            "date": "1994",
+            "description": "uma thurman",
+            "artist": "Gorup de Besanez",
+            "license": "CC BY-SA 4.0",
+            "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+            "credit": "Own work",
+            "file": "/home/user/.cache/hollywood_actresses/photos/19_then_21db97d5.jpg",
+            "downloaded_size": [
+              1280,
+              1910
+            ],
+            "anchor": [
+              0.5,
+              0.32
+            ],
+            "context": ""
+          },
+          "now": {
+            "title": "File:Actress Uma Thurman at Oh, Canada Press Conference at 2024 Cannes Film Festival (cropped).jpg",
+            "pageid": 182607118,
+            "source": "https://commons.wikimedia.org/wiki/File:Actress_Uma_Thurman_at_Oh,_Canada_Press_Conference_at_2024_Cannes_Film_Festival_(cropped).jpg",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Actress_Uma_Thurman_at_Oh%2C_Canada_Press_Conference_at_2024_Cannes_Film_Festival_%28cropped%29.jpg",
+            "width": 2002,
+            "height": 2604,
+            "year": 2024,
+            "date": "2024-05-18 03:58:30",
+            "description": "Oh, Canada Actress, Uma Thurman, at 2024 Cannes Film Festival press conference",
+            "artist": "Ariela Ortiz-Barrantes",
+            "license": "CC BY-SA 4.0",
+            "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+            "credit": "Own work",
+            "file": "/home/user/.cache/hollywood_actresses/photos/19_now_54fc9a83.jpg",
+            "downloaded_size": [
+              1280,
+              1665
+            ],
+            "anchor": [
+              0.5,
+              0.32
+            ],
+            "context": ""
+          },
+          "delta": 30,
+          "assets": {
+            "then": "assets/photos/04_nineties_icons/05_then.jpg",
+            "now": "assets/photos/04_nineties_icons/05_now.jpg"
+          },
+          "card_copy": [
+            "PULP FICTION • KILL BILL",
+            "Cool precision and physical force, used in entirely different ways."
+          ]
+        }
+      ],
+      "narration": {
+        "a": "Welcome to Nineties Hollywood Icons, Then and Now. Winona Ryder made offbeat characters feel instantly memorable in Beetlejuice, Heathers, Edward Scissorhands, and Reality Bites. Stranger Things later introduced her to a new generation without losing that distinctive intensity. Meg Ryan became one of the era's essential romantic comedy stars. When Harry Met Sally and You've Got Mail showed how a pause, a look, or a perfectly timed line can make a love story feel personal. Johnny Depp built an early career around unusual choices, from Edward Scissorhands to Ed Wood and Fear and Loathing in Las Vegas. His portraits reflect an actor drawn to transformation rather than a single predictable type. Take a moment with these images and remember where you first saw them.",
+        "b": "The nineties also made room for stars who could move between music, comedy, drama, and action. Will Smith went from The Fresh Prince of Bel Air to Independence Day and Men in Black with an ease that made every new role feel like an event. Halle Berry combined charisma with risk taking performances, from romantic drama to Storm in the X Men films and her Oscar winning work in Monster's Ball. Uma Thurman brought a cool, precise presence to Pulp Fiction, then returned to action in Kill Bill with a completely different kind of force. These six faces helped define a decade, but their later portraits remind us that a cultural moment is only one chapter of a long career."
+      },
+      "audio": {
+        "a": "assets/audio/04_nineties_icons_a.mp3",
+        "b": "assets/audio/04_nineties_icons_b.mp3"
+      }
+    },
+    {
+      "id": "05_comedy_stars",
+      "number": 5,
+      "title": "HOLLYWOOD COMEDY STARS",
+      "strapline": "THEN & NOW",
+      "accent": [
+        250,
+        204,
+        21
+      ],
+      "accent2": [
+        249,
+        115,
+        22
+      ],
+      "filename": "05_Hollywood_Comedy_Stars_Then_Now.mp4",
+      "people": [
+        {
+          "name": "Jim Carrey",
+          "key": "comedy_jim_carrey",
+          "years": [
+            2008,
+            2020
+          ],
+          "then": {
+            "title": "File:Jim Carrey 2008.jpg",
+            "source": "https://commons.wikimedia.org/wiki/File:Jim_Carrey_2008.jpg",
+            "year": 2008,
+            "artist": "Ian Smith from London, England",
+            "license": "CC BY-SA 2.0",
+            "license_url": "https://creativecommons.org/licenses/by-sa/2.0/"
+          },
+          "now": {
+            "title": "File:Jim Carrey 2020.jpg",
+            "source": "https://commons.wikimedia.org/wiki/File:Jim_Carrey_2020.jpg",
+            "year": 2020,
+            "artist": "SHOWTIME",
+            "license": "CC BY 3.0",
+            "license_url": "https://creativecommons.org/licenses/by/3.0/"
+          },
+          "assets": {
+            "then": "assets/photos/05_comedy_stars/00_then.jpg",
+            "now": "assets/photos/05_comedy_stars/00_now.jpg"
+          },
+          "card_copy": [
+            "THE MASK • LIAR LIAR",
+            "Fearless physical comedy, then unexpected turns toward quieter drama."
+          ],
+          "delta": 12
+        },
+        {
+          "name": "Adam Sandler",
+          "key": "comedy_adam_sandler",
+          "years": [
+            2011,
+            2025
+          ],
+          "then": {
+            "title": "File:Adam Sandler 2011 (Cropped).jpg",
+            "source": "https://commons.wikimedia.org/wiki/File:Adam_Sandler_2011_(Cropped).jpg",
+            "year": 2011,
+            "artist": "Angela George",
+            "license": "CC BY-SA 3.0",
+            "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+          },
+          "now": {
+            "title": "File:Adam Sandler 2025.jpg",
+            "source": "https://commons.wikimedia.org/wiki/File:Adam_Sandler_2025.jpg",
+            "year": 2025,
+            "artist": "Raph_PH",
+            "license": "CC BY 4.0",
+            "license_url": "https://creativecommons.org/licenses/by/4.0/"
+          },
+          "assets": {
+            "then": "assets/photos/05_comedy_stars/01_then.jpg",
+            "now": "assets/photos/05_comedy_stars/01_now.jpg"
+          },
+          "card_copy": [
+            "HAPPY GILMORE • THE WEDDING SINGER",
+            "Offbeat characters, warm friendships and a dramatic side beneath the laughs."
+          ],
+          "delta": 14
+        },
+        {
+          "name": "Ben Stiller",
+          "key": "comedy_ben_stiller",
+          "years": [
+            2008,
+            2024
+          ],
+          "then": {
+            "title": "File:BenStillerTropicThunderPendleton.jpg",
+            "source": "https://commons.wikimedia.org/wiki/File:BenStillerTropicThunderPendleton.jpg",
+            "year": 2008,
+            "artist": "Dave Gatley, U.S. Marine Corps",
+            "license": "Public domain",
+            "license_url": "https://commons.wikimedia.org/wiki/File:BenStillerTropicThunderPendleton.jpg"
+          },
+          "now": {
+            "title": "File:Ben Stiller at the 2024 Toronto International Film Festival (cropped).jpg",
+            "source": "https://commons.wikimedia.org/wiki/File:Ben_Stiller_at_the_2024_Toronto_International_Film_Festival_(cropped).jpg",
+            "year": 2024,
+            "artist": "Frank Sun",
+            "license": "CC BY-SA 4.0",
+            "license_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+          },
+          "assets": {
+            "then": "assets/photos/05_comedy_stars/02_then.jpg",
+            "now": "assets/photos/05_comedy_stars/02_now.jpg"
+          },
+          "card_copy": [
+            "ZOOLANDER • MEET THE PARENTS",
+            "Awkward confidence turned into a precise and enduring comic language."
+          ],
+          "delta": 16
+        },
+        {
+          "name": "Eddie Murphy",
+          "key": "comedy_eddie_murphy",
+          "years": [
+            2010,
+            2012
+          ],
+          "then": {
+            "title": "File:Eddie Murphy Tribeca Shankbone 2010 NYC (2).jpg",
+            "source": "https://commons.wikimedia.org/wiki/File:Eddie_Murphy_Tribeca_Shankbone_2010_NYC_(2).jpg",
+            "year": 2010,
+            "artist": "David Shankbone",
+            "license": "CC BY 3.0",
+            "license_url": "https://creativecommons.org/licenses/by/3.0/"
+          },
+          "now": {
+            "title": "File:Casey Patterson and Eddie Murphy.jpg",
+            "source": "https://commons.wikimedia.org/wiki/File:Casey_Patterson_and_Eddie_Murphy.jpg",
+            "year": 2012,
+            "artist": "Viacom / New 38th Floor Productions Inc.",
+            "license": "CC BY-SA 3.0",
+            "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+          },
+          "assets": {
+            "then": "assets/photos/05_comedy_stars/03_then.jpg",
+            "now": "assets/photos/05_comedy_stars/03_now.jpg"
+          },
+          "card_copy": [
+            "TRADING PLACES • COMING TO AMERICA",
+            "Big characters, quick voices and enough energy to fill a frame."
+          ],
+          "delta": 2
+        },
+        {
+          "name": "Steve Carell",
+          "key": "comedy_steve_carell",
+          "years": [
+            2013,
+            2025
+          ],
+          "then": {
+            "title": "File:Steve Carell 2, 2013.jpg",
+            "source": "https://commons.wikimedia.org/wiki/File:Steve_Carell_2,_2013.jpg",
+            "year": 2013,
+            "artist": "Eva Rinaldi",
+            "license": "CC BY-SA 2.0",
+            "license_url": "https://creativecommons.org/licenses/by-sa/2.0/"
+          },
+          "now": {
+            "title": "File:Steve Carell - The 40-Year-Old-Virgin.jpg",
+            "source": "https://commons.wikimedia.org/wiki/File:Steve_Carell_-_The_40-Year-Old-Virgin.jpg",
+            "year": 2025,
+            "artist": "Kevin Paul",
+            "license": "CC BY 4.0",
+            "license_url": "https://creativecommons.org/licenses/by/4.0/"
+          },
+          "assets": {
+            "then": "assets/photos/05_comedy_stars/04_then.jpg",
+            "now": "assets/photos/05_comedy_stars/04_now.jpg"
+          },
+          "card_copy": [
+            "THE OFFICE • ANCHORMAN",
+            "A pause can be funnier than a punchline, and just as moving."
+          ],
+          "delta": 12
+        },
+        {
+          "name": "Melissa McCarthy",
+          "key": "comedy_melissa_mccarthy",
+          "years": [
+            2012,
+            2018
+          ],
+          "then": {
+            "title": "File:Melissa McCarthy 2012 (Straighten Crop).jpg",
+            "source": "https://commons.wikimedia.org/wiki/File:Melissa_McCarthy_2012_(Straighten_Crop).jpg",
+            "year": 2012,
+            "artist": "MingleMediaTV",
+            "license": "CC BY-SA 2.0",
+            "license_url": "https://creativecommons.org/licenses/by-sa/2.0/"
+          },
+          "now": {
+            "title": "File:Melissa McCarthy in 2018 (cropped).jpg",
+            "source": "https://commons.wikimedia.org/wiki/File:Melissa_McCarthy_in_2018_(cropped).jpg",
+            "year": 2018,
+            "artist": "Greg2600",
+            "license": "CC BY-SA 2.0",
+            "license_url": "https://creativecommons.org/licenses/by-sa/2.0/"
+          },
+          "assets": {
+            "then": "assets/photos/05_comedy_stars/05_then.jpg",
+            "now": "assets/photos/05_comedy_stars/05_now.jpg"
+          },
+          "card_copy": [
+            "BRIDESMAIDS • SPY",
+            "Physical precision, improvisational spark and genuine feeling."
+          ],
+          "delta": 6
+        }
+      ],
+      "narration": {
+        "a": "Welcome to Comedy Stars, Then and Now. Jim Carrey turned elastic expressions and fearless physical comedy into a signature style in The Mask, Ace Ventura, and Liar Liar. He later surprised audiences with thoughtful dramatic work, showing that a comic persona can hold more than one note. Adam Sandler built a devoted audience with offbeat characters and warm, messy friendships in films such as The Wedding Singer, Happy Gilmore, and Fifty First Dates. His later dramatic roles revealed another layer beneath the familiar humor. Ben Stiller has made awkward confidence a comedy art form, whether leading Zoolander, meeting the in laws, or playing with action movie clichés. Watch the early and later portraits, and think about how much comic timing can live in a single glance.",
+        "b": "Comedy has many rhythms. Eddie Murphy became a movie star through bold characters, quick voices, and enormous energy in Trading Places, Beverly Hills Cop, Coming to America, and The Nutty Professor. Steve Carell can make a pause funnier than a punchline, then shift from The Office and Anchorman to deeply human dramatic roles. Melissa McCarthy brings physical precision, improvisational spark, and genuine feeling to Bridesmaids, Spy, Can You Ever Forgive Me, and more. These six careers show that laughter changes with the times, but generosity, timing, and surprise never go out of style. Which comedy performance still makes you laugh before the scene has even started?"
+      },
+      "audio": {
+        "a": "assets/audio/05_comedy_stars_a.mp3",
+        "b": "assets/audio/05_comedy_stars_b.mp3"
+      }
+    }
+  ]
+}
