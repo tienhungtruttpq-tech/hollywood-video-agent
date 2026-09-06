@@ -33,3 +33,6 @@ image-search/
 # Generated source-to-original projects and render drafts (may contain private rights metadata)
 projects/
 *.egg-info/
+
+# Local Python virtual environments
+.venv/
