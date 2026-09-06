@@ -1,0 +1,35 @@
+{
+  "title": "Hollywood Stars: Then & Now",
+  "intro": "From breakout roles to living legends, here is how seven of Hollywood's biggest stars have changed over the decades.",
+  "actors": [
+    {
+      "name": "Tom Hanks",
+      "narration": "Tom Hanks rose from the comedy hit Big to become one of the most beloved actors of his generation, winning back-to-back Oscars for Philadelphia and Forrest Gump. His career spans Saving Private Ryan, Cast Away and the voice of Woody in the Toy Story films, and he continues to headline major projects today."
+    },
+    {
+      "name": "Leonardo DiCaprio",
+      "narration": "Leonardo DiCaprio became a global sensation as a young heartthrob in Romeo + Juliet and Titanic. He then built a serious body of work with Martin Scorsese in The Departed and The Wolf of Wall Street, and finally won the Best Actor Oscar for The Revenant in 2016."
+    },
+    {
+      "name": "Robert Downey Jr.",
+      "narration": "Robert Downey Jr. earned an Oscar nomination as a young star in Chaplin before personal struggles nearly derailed his career. His 2008 comeback as Iron Man launched the Marvel Cinematic Universe, and in 2024 he won the Academy Award for Best Supporting Actor for Oppenheimer."
+    },
+    {
+      "name": "Morgan Freeman",
+      "narration": "Morgan Freeman broke through in his fifties with Driving Miss Daisy and delivered an unforgettable performance in The Shawshank Redemption. Known for his iconic voice, he won an Oscar for Million Dollar Baby and appeared in Se7en, Bruce Almighty and The Dark Knight trilogy."
+    },
+    {
+      "name": "Harrison Ford",
+      "narration": "Harrison Ford became a legend as Han Solo in Star Wars and as the whip-cracking Indiana Jones. He also starred in Blade Runner, Witness, The Fugitive and Air Force One, and returned to his most famous role in Indiana Jones and the Dial of Destiny in 2023."
+    },
+    {
+      "name": "Samuel L. Jackson",
+      "narration": "Samuel L. Jackson gained attention in Spike Lee's Jungle Fever before his Oscar-nominated turn as Jules in Pulp Fiction made him a household name. He went on to play Mace Windu in the Star Wars prequels and Nick Fury in the Marvel films, becoming one of the highest-grossing actors in history."
+    },
+    {
+      "name": "Tom Cruise",
+      "narration": "Tom Cruise shot to stardom with Risky Business and the 1986 blockbuster Top Gun, then earned acclaim in Rain Man and Jerry Maguire. As Ethan Hunt in the Mission: Impossible franchise he became famous for his daring stunts, and Top Gun: Maverick in 2022 was the biggest hit of his career."
+    }
+  ],
+  "outro": "Time changes everyone, but these stars have never stopped lighting up the screen. Thanks for watching!"
+}

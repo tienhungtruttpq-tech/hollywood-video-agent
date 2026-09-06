@@ -1,0 +1,79 @@
+[
+  {
+    "name": "Tom Hanks",
+    "then_photo": "tom_hanks_then.jpg",
+    "now_photo": "tom_hanks_now.jpg",
+    "then_source": "https://upload.wikimedia.org/wikipedia/commons/9/9f/1989_Tom_Hanks_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "now_source": "https://upload.wikimedia.org/wikipedia/commons/c/c8/TomHanksPrincEdw031223_%2832_of_41%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "then_license": "CC BY 2.0",
+    "now_license": "CC BY 2.0",
+    "then_artist": "Alan Light",
+    "now_artist": "Raph_PH"
+  },
+  {
+    "name": "Leonardo DiCaprio",
+    "then_photo": "leonardo_dicaprio_then.jpg",
+    "now_photo": "leonardo_dicaprio_now.jpg",
+    "then_source": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Leonardo_DiCaprio_2002_%28cropped%29_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "now_source": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Leonardo_DiCaprio_2016_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "then_license": "CC BY-SA 3.0",
+    "now_license": "CC BY-SA 3.0",
+    "then_artist": "Georges Biard",
+    "now_artist": "Georges Biard"
+  },
+  {
+    "name": "Robert Downey Jr.",
+    "then_photo": "robert_downey_jr_then.jpg",
+    "now_photo": "robert_downey_jr_now.jpg",
+    "then_source": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Robert_Downey_Jr.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "now_source": "https://upload.wikimedia.org/wikipedia/commons/9/90/Robert_Downey_Jr._-_2019_Disney_Legends_Awards_Ceremony_-_D23_EXPO_2019_-_51440495726.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "then_license": "CC BY 2.0",
+    "now_license": "CC BY-SA 2.0",
+    "then_artist": "Alan Light",
+    "now_artist": "nagi usano"
+  },
+  {
+    "name": "Morgan Freeman",
+    "then_photo": "morgan_freeman_then.jpg",
+    "now_photo": "morgan_freeman_now.jpg",
+    "then_source": "https://upload.wikimedia.org/wikipedia/commons/5/51/Henry_A._Morgan_portraits_-_DPLA_-_68b93f43a1f4c568744a824156f981ec_%28page_2%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "now_source": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Morgan_Freeman_1998.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "then_license": "Public domain",
+    "now_license": "CC BY-SA 2.0",
+    "then_artist": "",
+    "now_artist": "Kingkongphoto &amp; www.celebrity-photos.com from Laurel  Maryland, USA"
+  },
+  {
+    "name": "Harrison Ford",
+    "then_photo": "harrison_ford_then.jpg",
+    "now_photo": "harrison_ford_now.jpg",
+    "then_source": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Harrison_Ford_and_Calista_Flockhart_at_the_2009_Deauville_American_Film_Festival-04_CROPPED.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "now_source": "https://upload.wikimedia.org/wikipedia/commons/6/63/Harrison_Ford_%2836067509161%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "then_license": "CC BY-SA 2.0",
+    "now_license": "CC BY-SA 2.0",
+    "then_artist": "Mireille Ampilhac",
+    "now_artist": "Gage Skidmore from Peoria, AZ, United States of America"
+  },
+  {
+    "name": "Samuel L. Jackson",
+    "then_photo": "samuel_l_jackson_then.jpg",
+    "now_photo": "samuel_l_jackson_now.jpg",
+    "then_source": "https://upload.wikimedia.org/wikipedia/commons/5/52/Samuel_L_Jackson_at_San_Diego_ComicCon_2008_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "now_source": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Samuel_L._Jackson_2019_by_Glenn_Francis.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "then_license": "CC BY 2.0",
+    "now_license": "CC BY-SA 4.0",
+    "then_artist": "pinguino k",
+    "now_artist": "Toglenn"
+  },
+  {
+    "name": "Tom Cruise",
+    "then_photo": "tom_cruise_then.jpg",
+    "now_photo": "tom_cruise_now.jpg",
+    "then_source": "https://upload.wikimedia.org/wikipedia/commons/3/3e/TomCruiseAcademyAwards.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "now_source": "https://upload.wikimedia.org/wikipedia/commons/3/34/Tom_Cruise_at_Top_Gun-_Maverick_premiere_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "then_license": "CC BY 2.0",
+    "now_license": "CC BY-SA 4.0",
+    "then_artist": "Alan Light",
+    "now_artist": "Gabriel Hutchinson"
+  }
+]
