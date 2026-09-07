@@ -1,0 +1,89 @@
+{
+  "total": 259.0,
+  "segments": [
+    {
+      "id": "cold_open",
+      "kind": "speech",
+      "start": 0.0,
+      "dur": 6.0,
+      "path": null
+    },
+    {
+      "id": "card_act1",
+      "kind": "card",
+      "start": 6.0,
+      "dur": 3.0,
+      "path": null
+    },
+    {
+      "id": "act1_intro",
+      "kind": "speech",
+      "start": 9.0,
+      "dur": 6.0,
+      "path": null
+    },
+    {
+      "id": "star_01",
+      "kind": "star",
+      "start": 15.0,
+      "dur": 30.0,
+      "path": null
+    },
+    {
+      "id": "star_02",
+      "kind": "star",
+      "start": 45.0,
+      "dur": 30.0,
+      "path": null
+    },
+    {
+      "id": "star_03",
+      "kind": "star",
+      "start": 75.0,
+      "dur": 30.0,
+      "path": null
+    },
+    {
+      "id": "star_04",
+      "kind": "star",
+      "start": 105.0,
+      "dur": 30.0,
+      "path": null
+    },
+    {
+      "id": "star_05",
+      "kind": "star",
+      "start": 135.0,
+      "dur": 30.0,
+      "path": null
+    },
+    {
+      "id": "star_06",
+      "kind": "star",
+      "start": 165.0,
+      "dur": 30.0,
+      "path": null
+    },
+    {
+      "id": "star_07",
+      "kind": "star",
+      "start": 195.0,
+      "dur": 30.0,
+      "path": null
+    },
+    {
+      "id": "star_08",
+      "kind": "star",
+      "start": 225.0,
+      "dur": 30.0,
+      "path": null
+    },
+    {
+      "id": "end",
+      "kind": "end",
+      "start": 255.0,
+      "dur": 4.0,
+      "path": null
+    }
+  ]
+}
