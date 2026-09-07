@@ -1,0 +1,54 @@
+{
+  "_comment": "Episode queue for the scheduled GitHub Actions run. The workflow picks (day_of_year + run_index) % len(topics). Add your own topics here: topic, entities (research), image_queries (Wikimedia Commons), minutes.",
+  "topics": [
+    {
+      "topic": "Mi-28N interceptado por drones FPV ucranianos",
+      "entities": ["Mil Mi-28", "STC Orlan-10", "Wild Hornets", "Unmanned Systems Forces"],
+      "image_queries": ["Mil Mi-28 helicopter", "Orlan-10 UAV", "FPV drone"],
+      "minutes": 12,
+      "template": "mi28n-es"
+    },
+    {
+      "topic": "El Shahed-136: el misil de 20.000 dólares que satura defensas de millones",
+      "entities": ["Shahed 136", "Loitering munition"],
+      "image_queries": ["Shahed 136 drone", "Geran-2"],
+      "minutes": 10
+    },
+    {
+      "topic": "Bayraktar TB2: cómo un dron de 5 millones cambió tres guerras",
+      "entities": ["Baykar Bayraktar TB2"],
+      "image_queries": ["Bayraktar TB2 drone"],
+      "minutes": 10
+    },
+    {
+      "topic": "HIMARS: la artillería de precisión que obligó a Rusia a mover sus depósitos 90 km",
+      "entities": ["M142 HIMARS", "GMLRS"],
+      "image_queries": ["M142 HIMARS"],
+      "minutes": 11
+    },
+    {
+      "topic": "Guerra electrónica: cómo un pueblo de juguete de 600 dólares ciega un dron de 50.000",
+      "entities": ["Electronic warfare", "Drone jamming"],
+      "image_queries": ["electronic warfare antenna", "drone jammer"],
+      "minutes": 9
+    },
+    {
+      "topic": "El F-16 en Ucrania: lo que cambia y lo que no cambia en el frente aéreo",
+      "entities": ["General Dynamics F-16 Fighting Falcon"],
+      "image_queries": ["F-16 fighter jet"],
+      "minutes": 11
+    },
+    {
+      "topic": "Drones de fibra óptica: la respuesta ucraniana que la guerra electrónica no puede tocar",
+      "entities": ["Fibre-optic guided drone", "First-person-view drone"],
+      "image_queries": ["FPV drone fiber optic"],
+      "minutes": 9
+    },
+    {
+      "topic": "Patriot vs Kinzhal: la noche en que un misil de 3,7 millones derribó uno de 10",
+      "entities": ["MIM-104 Patriot", "Kh-47M2 Kinzhal"],
+      "image_queries": ["MIM-104 Patriot missile", "Kinzhal missile"],
+      "minutes": 11
+    }
+  ]
+}

@@ -1,0 +1,194 @@
+name: miltech-video
+
+# ─────────────────────────────────────────────────────────────
+# Automated episode factory (Gorilla Tech style).
+#   • manual:  Actions → "miltech-video" → Run workflow (choose topic/lang/…)
+#   • nightly: 22:00 UTC (05:00 GMT+7) — rotates through gorilla_tech/topics.json
+# Outputs per run:
+#   • GitHub Artifact  → <slug>.mp4 + thumbnail + .srt + package.json + CREDITS.md
+#   • GitHub Release   → same files, permanent (schedule runs or release=true)
+# Secrets (all optional): GT_LLM_API_KEY, ELEVENLABS_API_KEY, GT_IMAGE_API_KEY
+# ─────────────────────────────────────────────────────────────
+on:
+  workflow_dispatch:
+    inputs:
+      topic:
+        description: "Episode topic (leave empty to rotate topics.json)"
+        required: false
+        default: ""
+      template:
+        description: "Committed script template (e.g. mi28n-es) — empty = write with LLM"
+        required: false
+        default: ""
+      lang:
+        description: "Narration language"
+        required: false
+        default: "es"
+        type: choice
+        options: ["es", "en", "vi"]
+      minutes:
+        description: "Target runtime in minutes"
+        required: false
+        default: "12"
+      resolution:
+        description: "Output resolution"
+        required: false
+        default: "1080p"
+        type: choice
+        options: ["720p", "1080p"]
+      tts:
+        description: "Narration provider"
+        required: false
+        default: "edge"
+        type: choice
+        options: ["edge", "none"]
+      preview:
+        description: "Smoke-test only: render first N seconds (0 = full video)"
+        required: false
+        default: "0"
+      release:
+        description: "Publish a GitHub Release with the video"
+        required: false
+        default: "false"
+        type: choice
+        options: ["true", "false"]
+  schedule:
+    - cron: "0 22 * * *"   # 22:00 UTC = 05:00 Asia/Saigon
+
+concurrency:
+  group: miltech-video
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    env:
+      GT_LLM_API_KEY: ${{ secrets.GT_LLM_API_KEY }}
+      ELEVENLABS_API_KEY: ${{ secrets.ELEVENLABS_API_KEY }}
+      GT_IMAGE_API_KEY: ${{ secrets.GT_IMAGE_API_KEY }}
+      GT_IMAGE_API_BASE: ${{ secrets.GT_IMAGE_API_BASE }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+          cache-dependency-path: gorilla_tech/requirements.txt
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          python -m pip install -r gorilla_tech/requirements.txt
+          sudo apt-get update -qq && sudo apt-get install -y -qq fonts-dejavu-core || true
+
+      - name: Pick episode
+        id: pick
+        run: |
+          python - <<'PY'
+          import json, os, datetime
+          dispatch_topic = os.environ.get("INPUT_TOPIC", "").strip()
+          dispatch_template = os.environ.get("INPUT_TEMPLATE", "").strip()
+          minutes = os.environ.get("INPUT_MINUTES", "").strip() or "12"
+          topics = json.load(open("gorilla_tech/topics.json"))["topics"]
+          if dispatch_topic:
+              topic, template, entities, images = dispatch_topic, "", "", ""
+          elif dispatch_template:
+              topic, template, entities, images = "", dispatch_template, "", ""
+          else:
+              day = datetime.date.today().toordinal()
+              entry = topics[day % len(topics)]
+              topic = entry["topic"]
+              template = dispatch_template or entry.get("template", "")
+              entities = ",".join(entry.get("entities", []))
+              images = ",".join(entry.get("image_queries", []))
+              minutes = minutes if dispatch_topic else str(entry.get("minutes", minutes))
+          with open(os.environ["GITHUB_OUTPUT"], "a") as fh:
+              fh.write(f"topic={topic}\n")
+              fh.write(f"template={template}\n")
+              fh.write(f"entities={entities}\n")
+              fh.write(f"images={images}\n")
+              fh.write(f"minutes={minutes}\n")
+          PY
+        env:
+          INPUT_TOPIC: ${{ github.event.inputs.topic }}
+          INPUT_TEMPLATE: ${{ github.event.inputs.template }}
+          INPUT_MINUTES: ${{ github.event.inputs.minutes }}
+
+      - name: Generate episode
+        id: run
+        run: |
+          ARGS=(--lang "${{ github.event.inputs.lang || 'es' }}"
+                --minutes "${{ steps.pick.outputs.minutes }}"
+                --resolution "${{ github.event.inputs.resolution || '1080p' }}"
+                --tts "${{ github.event.inputs.tts || 'edge' }}"
+                --workers 4 --json)
+          if [ -n "${{ steps.pick.outputs.template }}" ]; then
+            ARGS+=(--template "${{ steps.pick.outputs.template }}")
+          else
+            ARGS+=(--topic "${{ steps.pick.outputs.topic }}")
+          fi
+          if [ -n "${{ steps.pick.outputs.entities }}" ]; then
+            ARGS+=(--entities "${{ steps.pick.outputs.entities }}")
+            ARGS+=(--image-queries "${{ steps.pick.outputs.images }}")
+          fi
+          if [ "${{ github.event.inputs.preview || '0' }}" != "0" ]; then
+            ARGS+=(--preview "${{ github.event.inputs.preview }}")
+          fi
+          mkdir -p gorilla_tech/projects
+          python gorilla_tech/make_video.py "${ARGS[@]}" | tee gorilla_tech/projects/run.log
+          python - <<'PY'
+          import glob, json, os
+          reports = sorted(glob.glob("gorilla_tech/projects/*/output/run_report.json"),
+                           key=os.path.getmtime)
+          report = json.load(open(reports[-1]))
+          with open(os.environ["GITHUB_OUTPUT"], "a") as fh:
+              fh.write(f"video={report['video']}\n")
+              fh.write(f"title={report['title']}\n")
+              fh.write(f"slug={os.path.basename(os.path.dirname(os.path.dirname(report['video'])))}\n")
+          summary = os.environ.get("GITHUB_STEP_SUMMARY", "")
+          if summary:
+              with open(summary, "a") as fh:
+                  fh.write(f"## {report['title']}\n\n")
+                  fh.write(f"- duración: {report['duration_sec']:.0f}s\n")
+                  fh.write(f"- resolución: {report['resolution']}\n")
+                  fh.write(f"- tamaño: {report['size_bytes']/1e6:.1f} MB\n")
+                  fh.write(f"- narración: {report['tts_provider']}\n")
+                  fh.write(f"- imágenes CC: {report['images_used']}\n")
+                  fh.write(f"- validación: {'OK' if report['validation_passed'] else 'REVISAR'}\n")
+          PY
+
+      - name: Upload episode artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: episode-${{ steps.run.outputs.slug }}
+          path: |
+            gorilla_tech/projects/*/output/*.mp4
+            gorilla_tech/projects/*/output/*.srt
+            gorilla_tech/projects/*/output/thumbnail.jpg
+            gorilla_tech/projects/*/output/package.json
+            gorilla_tech/projects/*/output/CREDITS.md
+            gorilla_tech/projects/*/output/description.txt
+            gorilla_tech/projects/*/output/run_report.json
+          if-no-files-found: error
+          retention-days: 30
+
+      - name: Publish release
+        if: github.event_name == 'schedule' || github.event.inputs.release == 'true'
+        env:
+          GH_TOKEN: ${{ github.GITHUB_TOKEN }}
+        run: |
+          TAG="video-$(date -u +%Y%m%d-%H%M)"
+          OUT="gorilla_tech/projects/${{ steps.run.outputs.slug }}/output"
+          gh release create "$TAG" \
+            --title "${{ steps.run.outputs.title }}" \
+            --notes "Episodio generado automáticamente por el agente gorilla_tech.
+          Incluye vídeo, subtítulos, miniatura y metadatos de YouTube (package.json)." \
+            "$OUT"/*.mp4 "$OUT"/thumbnail.jpg "$OUT"/package.json "$OUT"/*.srt || \
+            echo "::warning::release upload skipped"

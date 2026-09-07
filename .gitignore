@@ -29,3 +29,6 @@ image-search/
 # IDE
 .vscode/
 .idea/
+
+# gorilla_tech generated workspaces (renders, audio, downloads)
+gorilla_tech/projects/
