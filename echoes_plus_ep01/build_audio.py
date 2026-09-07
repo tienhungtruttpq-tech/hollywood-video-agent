@@ -1,28 +1,30 @@
 #!/usr/bin/env python3
 """
-build_audio.py — Dựng timeline + audio master + SRT cho pilot/full episode.
+build_audio.py v2 — Timeline + audio master cho EP1 (35 sao).
 
-Đầu vào : assets/audio/<id>.mp3 (cold_open, act1, star_<no>, break_<n>, outro)
-Đầu ra  : timeline.json, output/audio_master.wav, output/subtitles.srt
-
-Underscore: pad 4 hợp âm (Am F C G) sinh bằng numpy, lowpass, duck −18 dB dưới lời.
+Bundle TTS: 1 file mp3 chứa nhiều phần (act intro + 2-4 star + break/outro).
+Tách bundle theo tỉ lệ ký tự, snap vào điểm im ảng (RMS thấp nhất) trong ±2.5s.
+Segment sao: preroll 2.6s (visual trước, wipe 1.5→2.35s) + speech + tail 1.4s.
+Underscore: pad Am-F-C-G, lowpass FFT, duck khi có lời.
+Xuất: timeline.json, .cache/audio_master.wav (intermediate ngoài repo).
 """
 import json, os, subprocess, wave
 import numpy as np
-from PIL import Image  # noqa (keeps parity if run inside venv without numpy-only tooling)
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 AUD = os.path.join(HERE, "assets", "audio")
-OUT = os.path.join(HERE, "output")
-os.makedirs(OUT, exist_ok=True)
+CACHE = os.path.join("/home/user/.cache", "goldenhour")
+os.makedirs(CACHE, exist_ok=True)
+os.makedirs(os.path.join(HERE, "output"), exist_ok=True)
 SR = 48000
+PREROLL, TAIL = 2.6, 1.4
+WIPE0, WIPE1 = 1.5, 2.35
 
 def ff():
     import imageio_ffmpeg
     return imageio_ffmpeg.get_ffmpeg_exe()
 
 def decode(path):
-    """MP3 -> float32 mono numpy at SR."""
     cmd = [ff(), "-v", "error", "-i", path, "-f", "f32le", "-ac", "1", "-ar", str(SR), "-"]
     raw = subprocess.run(cmd, capture_output=True, check=True).stdout
     return np.frombuffer(raw, dtype=np.float32).copy()
@@ -34,103 +36,145 @@ def save_wav(path, stereo):
         w.setnchannels(2); w.setsampwidth(2); w.setframerate(SR)
         w.writeframes(pcm.tobytes())
 
-def underscore(n_samples, seed=7):
-    """Warm slow pad, Am–F–C–G, one chord per 8 s, simple additive synth + lowpass."""
-    rng = np.random.default_rng(seed)
+def snap_bounds(speech, parts, n_parts):
+    """Char-proportional boundaries snapped to lowest-RMS point ±2.5s."""
+    total_chars = sum(p["chars"] for p in parts)
+    cum = np.cumsum([p["chars"] for p in parts])[:-1] / total_chars * len(speech)
+    hop = SR // 8
+    bounds = []
+    for est in cum:
+        w = int(2.5 * SR)
+        lo, hi = int(max(0, est - w)), int(min(len(speech) - hop, est + w))
+        best, bestv = est, 1e9
+        for s0 in range(lo, hi, hop):
+            v = float(np.sqrt(np.mean(speech[s0:s0 + hop] ** 2)) + 1e-9)
+            if v < bestv:
+                bestv, best = v, s0 + hop / 2
+        bounds.append(int(best))
+    return bounds
+
+def underscore(n_samples):
     t = np.arange(n_samples) / SR
-    chords = [110.0, 87.31, 65.41, 98.0]  # A2, F2, C2, G2 roots
+    chords = [110.0, 87.31, 65.41, 98.0]  # A2 F2 C2 G2
     seg = 8.0
     sig = np.zeros(n_samples, dtype=np.float32)
     for i in range(int(np.ceil(n_samples / SR / seg))):
         a, b = int(i * seg * SR), min(n_samples, int((i + 1) * seg * SR))
         root = chords[i % 4]
-        freqs = [root, root * 1.5, root * 2.0, root * 2.5]  # fifth, octave, tenth-ish
-        for k, f in enumerate(freqs):
+        for k, f in enumerate([root, root * 1.5, root * 2.0, root * 2.5]):
             vib = 1 + 0.0015 * np.sin(2 * np.pi * (0.13 + 0.01 * k) * t[a:b])
-            amp = 0.05 / (k + 1)
-            sig[a:b] += amp * np.sin(2 * np.pi * f * vib * t[a:b]).astype(np.float32)
-    # slow attack per chord
+            sig[a:b] += (0.05 / (k + 1)) * np.sin(2 * np.pi * f * vib * t[a:b]).astype(np.float32)
     edge = int(0.8 * SR)
     for i in range(1, int(np.ceil(n_samples / SR / seg))):
         s0 = int(i * seg * SR)
         if s0 < n_samples:
             e = min(n_samples, s0 + edge)
-            ramp = np.linspace(0, 1, e - s0, dtype=np.float32)
-            sig[s0:e] *= ramp
-    # one-pole lowpass
-    alpha = 0.12
-    out = np.empty_like(sig)
-    acc = 0.0
-    for i in range(len(sig)):  # small n → ok (30 min ≈ 86M — too slow!) → use FFT filter instead
-        break
-    # FFT lowpass (fast)
+            sig[s0:e] *= np.linspace(0, 1, e - s0, dtype=np.float32)
     S = np.fft.rfft(sig)
-    freqs_fft = np.fft.rfftfreq(len(sig), 1 / SR)
-    S *= 1 / (1 + (freqs_fft / 900) ** 4)
-    sig = np.fft.irfft(S, len(sig)).astype(np.float32)
-    sig *= 0.5
-    return sig
+    fr = np.fft.rfftfreq(len(sig), 1 / SR)
+    S *= 1 / (1 + (fr / 900) ** 4)
+    return (np.fft.irfft(S, len(sig)).astype(np.float32) * 0.5)
 
-def build(pilot=True):
+def main():
     ep = json.load(open(os.path.join(HERE, "episode.json"), encoding="utf-8"))
-    segs = []  # (id, kind, path_or_None, extra_seconds)
-    segs.append(("cold_open", "speech", os.path.join(AUD, "cold_open.mp3"), 1.0))
-    acts = ep["acts"][:1] if pilot else ep["acts"]
-    for act in acts:
-        segs.append((f"card_act{act['no']}", "card", None, 3.0))
-        segs.append((f"act{act['no']}_intro", "speech", os.path.join(AUD, f"act{act['no']}_intro.mp3"), 0.6))
-        act_stars = [s for s in ep["stars"] if s["act"] == act["no"]]
-        if pilot:
-            lo, hi = ep.get("pilot", {}).get("star_range", [1, 8])
-            act_stars = [s for s in act_stars if lo <= s["no"] <= hi]
-        for s in act_stars:
-            segs.append((f"star_{s['no']:02d}", "star", os.path.join(AUD, f"star_{s['no']:02d}.mp3"), 1.2))
-        if pilot:
-            break
-    segs.append(("end", "end", None, 8.0))
-    # build audio track + timeline
-    timeline = []
-    speech_spans = []
+    stars = {s["no"]: s for s in ep["stars"]}
+    breaks = ep["memory_breaks"]
+    segs, pieces = [], []
     cursor = 0.0
-    pieces = []
-    for sid, kind, path, extra in segs:
-        dur = extra
-        speech = None
-        if kind in ("speech", "star"):
-            speech = decode(path)
-            dur = len(speech) / SR + extra
-            speech_spans.append((cursor, cursor + len(speech) / SR))
-        timeline.append({"id": sid, "kind": kind, "start": round(cursor, 3),
-                         "dur": round(dur, 3), "path": path})
-        if speech is not None:
-            pieces.append((cursor, speech))
-        cursor += dur
-    total = int(cursor * SR) + SR * 4
-    mix = np.zeros(total, dtype=np.float32)
-    for start, sp in pieces:
-        i0 = int(start * SR)
-        mix[i0:i0 + len(sp)] += sp
-    mus = underscore(total)
-    # ducking envelope
-    env = np.ones(total, dtype=np.float32) * 0.16   # music level under silence
-    for a, b in speech_spans:
-        i0, i1 = int(a * SR), int(b * SR)
-        env[i0:i1] = 0.055                            # duck under speech
-    # smooth envelope (250 ms)
-    k = int(0.25 * SR)
-    kernel = np.hanning(k).astype(np.float32); kernel /= kernel.sum()
-    env = np.convolve(env, kernel, mode="same").astype(np.float32)
+
+    def add_speech(id_, kind, audio, pre, post, extra=None):
+        nonlocal cursor
+        start = cursor + pre
+        seg = {"id": id_, "kind": kind, "start": round(cursor, 3),
+               "speech_start": round(start, 3), "speech_end": round(start + len(audio) / SR, 3),
+               "dur": round(pre + len(audio) / SR + post, 3)}
+        if extra: seg.update(extra)
+        segs.append(seg); pieces.append((start, audio))
+        cursor += seg["dur"]
+
+    def add_file(fname, spec):
+        audio = decode(os.path.join(AUD, fname))
+        parts = spec["parts"]
+        if len(parts) == 1:
+            p = parts[0]
+            kind = p["kind"]
+            if kind == "star":
+                add_speech(p["id"], "star", audio, PREROLL, TAIL,
+                           {"no": int(p["id"].split("_")[1]), "wipe0": WIPE0, "wipe1": WIPE1})
+            elif kind == "break":
+                add_speech(p["id"], "break", audio, 1.0, 5.0, {"no": p.get("no", 0)})
+            elif p["id"] == "outro":
+                add_speech("outro", "outro", audio, 1.0, 0.8)
+            else:
+                add_speech(p["id"], "intro", audio, 0.4, 0.8)
+            return
+        speech = audio
+        total_chars = sum(p["chars"] for p in parts)
+        bounds = snap_bounds(speech, parts, len(parts))
+        edges = [0] + bounds + [len(speech)]
+        for i, p in enumerate(parts):
+            a = speech[edges[i]:edges[i + 1]]
+            kind = p["kind"]
+            if kind == "star":
+                add_speech(p["id"], "star", a, PREROLL, TAIL,
+                           {"no": int(p["id"].split("_")[1]), "wipe0": WIPE0, "wipe1": WIPE1})
+            elif kind == "break":
+                add_speech(p["id"], "break", a, 1.0, 5.0, {"no": p.get("no", 0)})
+            elif p["id"] == "outro":
+                add_speech("outro", "outro", a, 1.0, 0.8)
+            else:
+                add_speech(p["id"], "intro", a, 0.4, 0.8)
+
+    # 1) cold open
+    add_file("cold_open.mp3", {"parts": [{"id": "cold_open", "kind": "speech", "chars": 1}]})
+
+    # 2) acts
+    for act in ep["acts"]:
+        an = act["no"]
+        segs.append({"id": f"card_act{an}", "kind": "card", "start": round(cursor, 3),
+                     "speech_start": None, "speech_end": None, "dur": 3.5})
+        cursor += 3.5
+        if an == 1:
+            add_file("act1_intro.mp3", {"parts": [{"id": "act1_intro", "kind": "speech", "chars": 1}]})
+            for no in range(1, 9):
+                add_file(f"star_{no:02d}.mp3", {"parts": [{"id": f"star_{no:02d}", "kind": "star", "chars": 1}]})
+        else:
+            for fname, spec in ep["audio_bundles"].items():
+                if isinstance(spec, dict) and spec.get("act") == an:
+                    add_file(fname, spec)
+
+    # 3) end card
+    segs.append({"id": "end", "kind": "end", "start": round(cursor, 3), "speech_start": None,
+                 "speech_end": None, "dur": 9.0})
+    cursor += 9.0
+
+    # ---- mix ----
+    total_n = int((cursor + 1) * SR)
+    mix = np.zeros(total_n, dtype=np.float32)
+    spans = []
+    for start, a in pieces:
+        i0 = int(start * SR); i1 = min(total_n, i0 + len(a))
+        mix[i0:i1] += a[:i1 - i0]
+        spans.append((i0, i1))
+    mus = underscore(total_n)
+    env = np.full(total_n, 0.15, dtype=np.float32)
+    for i0, i1 in spans:
+        env[i0:i1] = 0.05
+    k = int(0.3 * SR)
+    ker = np.hanning(k).astype(np.float32); ker /= ker.sum()
+    env = np.convolve(env, ker, mode="same").astype(np.float32)
     mix += mus * env
-    # gentle fade in/out
-    f = int(1.5 * SR)
-    mix[:f] *= np.linspace(0, 1, f, dtype=np.float32)
-    mix[-f:] *= np.linspace(1, 0, f, dtype=np.float32)
-    wav_path = os.path.join(OUT, "audio_master.wav")
-    save_wav(wav_path, np.stack([mix, mix], axis=1))
-    json.dump({"total": cursor, "segments": timeline},
-              open(os.path.join(HERE, "timeline.json"), "w"), indent=2)
-    print(f"timeline: {cursor:.1f}s → {wav_path}")
+    f_ = int(1.5 * SR)
+    mix[:f_] *= np.linspace(0, 1, f_, dtype=np.float32)
+    mix[-f_:] *= np.linspace(1, 0, f_, dtype=np.float32)
+    wav = os.path.join(CACHE, "audio_master.wav")
+    save_wav(wav, np.stack([mix, mix], axis=1))
+    json.dump({"total": round(cursor, 2), "counter_total": 35, "segments": segs},
+              open(os.path.join(HERE, "timeline.json"), "w"), indent=1)
+    sd = [s for s in segs if s["kind"] == "star"]
+    print(f"total {cursor:.0f}s = {cursor/60:.1f} min | {len(sd)} star segs (avg {sum(x['dur'] for x in sd)/len(sd):.1f}s)")
+    bad = [s["id"] for s in sd if (s["speech_end"] - s["speech_start"]) < 8]
+    print("suspicious short speech:", bad if bad else "none")
 
 if __name__ == "__main__":
-    import sys
-    build(pilot=("--full" not in sys.argv))
+    main()

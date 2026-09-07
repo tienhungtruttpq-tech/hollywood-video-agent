@@ -1,168 +1,752 @@
 1
-00:00:00,000 --> 00:00:03,584
+00:00:00,400 --> 00:00:04,119
 Welcome to Golden Hour — Hollywood, Then and Now.
 
 2
-00:00:03,584 --> 00:00:05,974
+00:00:04,119 --> 00:00:06,598
 Some faces never really leave us.
 
 3
-00:00:05,974 --> 00:00:13,541
+00:00:06,598 --> 00:00:14,449
 You hear one song, one laugh, one famous line, and a whole afternoon of your childhood comes rushing back.
 
 4
-00:00:13,541 --> 00:00:23,497
-Tonight: fifty of the brightest stars of the sixties, seventies and eighties — and every single one of them is still with us in 2026.
+00:00:14,449 --> 00:00:24,778
+Tonight: thirty-five of the brightest stars of the sixties, seventies and eighties — and every single one of them is still with us in 2026.
 
 5
-00:00:23,497 --> 00:00:27,082
+00:00:24,778 --> 00:00:28,497
 So keep count of how many you still remember.
 
 6
-00:00:27,082 --> 00:00:36,640
-And stay to the very end — because the last face on our list outlived the man who turned her life into a thriller.
+00:00:28,497 --> 00:00:36,761
+And stay to the very end — because the final name on our list owns a record twenty-one Oscar nominations.
 
 7
-00:00:40,240 --> 00:00:46,102
-Act One: Those We Never Forgot — the movie stars who owned the big screen.
+00:00:36,761 --> 00:00:39,240
+The category, as always, is Meryl.
 
 8
-00:00:46,102 --> 00:00:55,480
-And we begin with a man who, in December of 2025, did something only a handful of performers in Hollywood history have ever done.
+00:00:43,940 --> 00:00:49,802
+Act One: Those We Never Forgot — the movie stars who owned the big screen.
 
 9
-00:00:56,080 --> 00:01:03,991
-Put him in a chimney-sweep's cap and a cockney grin, and Mary Poppins plays in your head all over again.
+00:00:49,802 --> 00:00:59,180
+And we begin with a man who, in December of 2025, did something only a handful of performers in Hollywood history have ever done.
 
 10
-00:01:03,991 --> 00:01:12,298
-But Bert was only the beginning — five decades of television followed, from The Dick Van Dyke Show to Diagnosis: Murder.
+00:01:02,580 --> 00:01:10,491
+Put him in a chimney-sweep's cap and a cockney grin, and Mary Poppins plays in your head all over again.
 
 11
-00:01:12,298 --> 00:01:17,044
-At 98, he became the oldest performer ever to win an Emmy.
+00:01:10,491 --> 00:01:18,798
+But Bert was only the beginning — five decades of television followed, from The Dick Van Dyke Show to Diagnosis: Murder.
 
 12
-00:01:17,044 --> 00:01:24,560
-And in December 2025, Dick Van Dyke blew out one hundred candles — still dancing, still grinning, still ours.
+00:01:18,798 --> 00:01:23,544
+At 98, he became the oldest performer ever to win an Emmy.
 
 13
-00:01:25,760 --> 00:01:31,477
-You may remember the woman holding Cary Grant's hand on the train in North by Northwest.
+00:01:23,544 --> 00:01:31,060
+And in December 2025, Dick Van Dyke blew out one hundred candles — still dancing, still grinning, still ours.
 
 14
-00:01:31,477 --> 00:01:35,764
-But the Oscar came earlier — On the Waterfront, 1954, opposite Brando.
+00:01:35,060 --> 00:01:40,777
+You may remember the woman holding Cary Grant's hand on the train in North by Northwest.
 
 15
-00:01:35,764 --> 00:01:40,409
-She never played the starlet; she played the woman who knew too much.
+00:01:40,777 --> 00:01:45,064
+But the Oscar came earlier — On the Waterfront, 1954, opposite Brando.
 
 16
-00:01:40,409 --> 00:01:49,342
-Born on the Fourth of July, 1924, Eva Marie Saint is one hundred and two years old — the oldest living Oscar winner on Earth.
+00:01:45,064 --> 00:01:49,709
+She never played the starlet; she played the woman who knew too much.
 
 17
-00:01:49,342 --> 00:01:52,200
-The Academy's living legend, still writing her story.
+00:01:49,709 --> 00:01:58,642
+Born on the Fourth of July, 1924, Eva Marie Saint is one hundred and two years old — the oldest living Oscar winner on Earth.
 
 18
-00:01:53,400 --> 00:02:02,356
-A cigar, a squint, three dollar bills — the Man with No Name didn't need dialogue to own the screen.
+00:01:58,642 --> 00:02:01,500
+The Academy's living legend, still writing her story.
 
 19
-00:02:02,356 --> 00:02:11,759
-Dirty Harry made him an icon; the director's chair made him immortal — four Oscars, from Unforgiven to Million Dollar Baby.
+00:02:05,500 --> 00:02:14,456
+A cigar, a squint, three dollar bills — the Man with No Name didn't need dialogue to own the screen.
 
 20
-00:02:11,759 --> 00:02:14,446
-Clint Eastwood turned 96 in May.
+00:02:14,456 --> 00:02:23,859
+Dirty Harry made him an icon; the director's chair made him immortal — four Oscars, from Unforgiven to Million Dollar Baby.
 
 21
-00:02:14,446 --> 00:02:18,476
-His son says the Old Man has finally retired.
+00:02:23,859 --> 00:02:26,546
+Clint Eastwood turned 96 in May.
 
 22
-00:02:18,476 --> 00:02:25,640
-After seventy years in front of and behind the camera — he's earned every silent sunset.
+00:02:26,546 --> 00:02:30,576
+His son says the Old Man has finally retired.
 
 23
-00:02:26,840 --> 00:02:33,229
-One look from her, and you understood why the whole world fell for Italian cinema.
+00:02:30,576 --> 00:02:37,740
+After seventy years in front of and behind the camera — he's earned every silent sunset.
 
 24
-00:02:33,229 --> 00:02:46,006
-She was a war child from the slums of Naples — and in 1961, Two Women made her the first actress ever to win an Oscar for a foreign-language performance.
+00:02:41,740 --> 00:02:48,129
+One look from her, and you understood why the whole world fell for Italian cinema.
 
 25
-00:02:46,006 --> 00:02:57,080
-At 91, Sophia Loren remains the last great lady of Europe's golden screen — crowned in 2020 by one final, unforgettable performance in The Life Ahead.
+00:02:48,129 --> 00:03:00,906
+She was a war child from the slums of Naples — and in 1961, Two Women made her the first actress ever to win an Oscar for a foreign-language performance.
 
 26
-00:02:58,280 --> 00:03:05,543
-Just one octave of Supercalifragilistic, or one hilltop of Salzburg, and you can hear her instantly.
+00:03:00,906 --> 00:03:11,980
+At 91, Sophia Loren remains the last great lady of Europe's golden screen — crowned in 2020 by one final, unforgettable performance in The Life Ahead.
 
 27
-00:03:05,543 --> 00:03:11,443
-Then, in 1997, the voice that defined two generations was silenced by surgery.
+00:03:15,980 --> 00:03:23,243
+Just one octave of Supercalifragilistic, or one hilltop of Salzburg, and you can hear her instantly.
 
 28
-00:03:11,443 --> 00:03:21,430
-Hollywood braced for tragedy — instead, she built a second act: The Princess Diaries, and the voice of Lady Whistledown narrating Bridgerton.
+00:03:23,243 --> 00:03:29,143
+Then, in 1997, the voice that defined two generations was silenced by surgery.
 
 29
-00:03:21,430 --> 00:03:29,600
-Dame Julie Andrews turned 90 last October — proof that even when the singing stops, the music doesn't.
+00:03:29,143 --> 00:03:39,130
+Hollywood braced for tragedy — instead, she built a second act: The Princess Diaries, and the voice of Lady Whistledown narrating Bridgerton.
 
 30
-00:03:30,800 --> 00:03:37,479
-In 1961, Anita danced through West Side Story like a flame — and took home the Oscar.
+00:03:39,130 --> 00:03:47,300
+Dame Julie Andrews turned 90 last October — proof that even when the singing stops, the music doesn't.
 
 31
-00:03:37,479 --> 00:03:49,658
-Sixty years later, Steven Spielberg handed her a new role in the very same story — making her the only performer to appear in both versions of a Best Picture winner.
+00:03:51,300 --> 00:03:57,979
+In 1961, Anita danced through West Side Story like a flame — and took home the Oscar.
 
 32
-00:03:49,658 --> 00:03:59,480
-Ninety-four years old, an EGOT before the term even existed, Rita Moreno is still onstage — because standing still was never part of her choreography.
+00:03:57,979 --> 00:04:10,158
+Sixty years later, Steven Spielberg handed her a new role in the very same story — making her the only performer to appear in both versions of a Best Picture winner.
 
 33
-00:04:00,680 --> 00:04:10,352
-Barbarella in space, Bree Daniels on the phone — in the seventies, Jane Fonda was the most fearless woman on screen.
+00:04:10,158 --> 00:04:19,980
+Ninety-four years old, an EGOT before the term even existed, Rita Moreno is still onstage — because standing still was never part of her choreography.
 
 34
-00:04:10,352 --> 00:04:21,866
-Two Oscars later — Klute, Coming Home — she traded the screen for protest lines, and paid for it: the lists, the arrests, the nickname.
+00:04:23,980 --> 00:04:33,652
+Barbarella in space, Bree Daniels on the phone — in the seventies, Jane Fonda was the most fearless woman on screen.
 
 35
-00:04:21,866 --> 00:04:28,775
-At 88, she is still marching — climate protests, bare-knuckle activism, Grace and Frankie reruns.
+00:04:33,652 --> 00:04:45,166
+Two Oscars later — Klute, Coming Home — she traded the screen for protest lines, and paid for it: the lists, the arrests, the nickname.
 
 36
-00:04:28,775 --> 00:04:31,078
-Hollywood trained her to perform.
+00:04:45,166 --> 00:04:52,075
+At 88, she is still marching — climate protests, bare-knuckle activism, Grace and Frankie reruns.
 
 37
-00:04:31,078 --> 00:04:32,920
-She chose to fight.
+00:04:52,075 --> 00:04:54,378
+Hollywood trained her to perform.
 
 38
-00:04:34,120 --> 00:04:37,517
-That grey suit at the foot of the stairs.
+00:04:54,378 --> 00:04:56,220
+She chose to fight.
 
 39
-00:04:37,517 --> 00:04:44,688
-Vertigo made Kim Novak the most mysterious blonde of the fifties — Madeleine and Judy, the same woman twice.
+00:05:00,220 --> 00:05:03,617
+That grey suit at the foot of the stairs.
 
 40
-00:04:44,688 --> 00:04:54,502
-But Hollywood was a world she chose to leave: painting, poetry, horses, and a quiet life in Oregon, far from the spotlight that nearly broke her.
+00:05:03,617 --> 00:05:10,788
+Vertigo made Kim Novak the most mysterious blonde of the fifties — Madeleine and Judy, the same woman twice.
 
 41
-00:04:54,502 --> 00:04:59,031
-At 93, Venice honored her with a Golden Lion for lifetime achievement.
+00:05:10,788 --> 00:05:20,602
+But Hollywood was a world she chose to leave: painting, poetry, horses, and a quiet life in Oregon, far from the spotlight that nearly broke her.
 
 42
-00:04:59,031 --> 00:05:03,560
+00:05:20,602 --> 00:05:25,131
+At 93, Venice honored her with a Golden Lion for lifetime achievement.
+
+43
+00:05:25,131 --> 00:05:29,660
 She came back on her own terms — and then went home.
+
+44
+00:05:34,960 --> 00:05:38,280
+Act Two: The Faces in Our Living Room.
+
+45
+00:05:38,280 --> 00:05:41,600
+Movies were events — but television was family.
+
+46
+00:05:41,600 --> 00:05:49,484
+These faces sat across our dinner tables for twenty years, and every one of them is still with us.
+
+47
+00:05:52,884 --> 00:05:55,296
+Space — the final frontier.
+
+48
+00:05:55,296 --> 00:05:59,638
+You cannot read that line in any other voice.
+
+49
+00:05:59,638 --> 00:06:03,979
+Typecast forever as Kirk, he bent the typecast: T.
+
+50
+00:06:03,979 --> 00:06:04,461
+J.
+
+51
+00:06:04,461 --> 00:06:08,803
+Hooker, Denny Crane, the Priceline pitchman with a wink.
+
+52
+00:06:08,803 --> 00:06:15,074
+At ninety, William Shatner flew to actual space — and came home changed.
+
+53
+00:06:15,074 --> 00:06:19,898
+Now ninety-five, he still tours, still records, still boldly goes.
+
+54
+00:06:23,898 --> 00:06:30,736
+One tug of that curtain-rod earring, and The Carol Burnett Show made America laugh before dinner.
+
+55
+00:06:30,736 --> 00:06:38,000
+Eleven seasons, a Tarzan yell that still stops traffic, and a generosity that built a comedy dynasty.
+
+56
+00:06:38,000 --> 00:06:46,120
+At ninety-three, Carol Burnett remains the first lady of television comedy — and still never takes herself too seriously.
+
+57
+00:06:50,119 --> 00:06:53,102
+Feathers, the card-playing beauty of Rio Bravo.
+
+58
+00:06:53,102 --> 00:07:02,053
+Twenty years later she flipped the script: Police Woman made Pepper Anderson the first woman to headline a hit cop show.
+
+59
+00:07:02,053 --> 00:07:10,577
+This very month, Angie Dickinson turns ninety-five — rarely photographed, famously picky, and still the coolest face of the seventies.
+
+60
+00:07:14,577 --> 00:07:21,864
+M*A*S*H gave television its greatest joke-teller and its deepest wound, and Alan Alda carried both for eleven seasons.
+
+61
+00:07:21,864 --> 00:07:29,151
+Then he built a second life teaching empathy — to doctors, to engineers, one conversation at a time.
+
+62
+00:07:29,151 --> 00:07:34,009
+At ninety, he still hosts, still writes, still asks the better question.
+
+63
+00:07:38,009 --> 00:07:38,743
+The blink.
+
+64
+00:07:38,743 --> 00:07:39,477
+The ponytail.
+
+65
+00:07:39,477 --> 00:07:40,945
+The pink harem pants.
+
+66
+00:07:40,945 --> 00:07:45,349
+Five seasons of I Dream of Jeannie made her immortal in syndication.
+
+67
+00:07:45,349 --> 00:07:54,524
+At ninety-five, Barbara Eden still greets convention crowds with the arms-crossed nod — and fans still ask for the wish she invented sixty years ago.
+
+68
+00:07:54,524 --> 00:07:55,992
+She always grants it.
+
+69
+00:07:59,992 --> 00:08:03,935
+Ginger Grant — the movie star stranded on a three-hour tour.
+
+70
+00:08:03,935 --> 00:08:10,388
+When the island went off the air, Tina Louise walked away from Ginger forever: no reunions, no sequels.
+
+71
+00:08:10,388 --> 00:08:15,765
+At ninety-two, she is the last islander still with us, having outlived every single castmate.
+
+72
+00:08:15,765 --> 00:08:17,199
+She made it home.
+
+73
+00:08:21,199 --> 00:08:28,596
+For a decade, Florence kept the Jeffersons' penthouse honest, one withering look at George at a time.
+
+74
+00:08:28,596 --> 00:08:32,947
+Then she produced 227 into a hit nobody believed in.
+
+75
+00:08:32,947 --> 00:08:39,039
+At ninety-five, Marla Gibbs is still booking roles — steady work across eight decades.
+
+76
+00:08:39,039 --> 00:08:40,344
+Moving on up.
+
+77
+00:08:44,344 --> 00:08:48,301
+He replaced a legend on television's toughest stage — B.
+
+78
+00:08:48,301 --> 00:08:48,697
+J.
+
+79
+00:08:48,697 --> 00:08:53,050
+Hunnicutt stepping into the 4077th and making us stop missing Trapper.
+
+80
+00:08:53,050 --> 00:08:57,799
+Off camera he became television's conscience: prison reform, human rights, refugee missions.
+
+81
+00:08:57,799 --> 00:09:04,526
+Fifty years on — with Shelley by his side — Mike Farrell simply will not sit down.
+
+82
+00:09:08,526 --> 00:09:15,353
+Kelly Garrett — the calm center of Charlie's Angels, the only Angel who answered every single call.
+
+83
+00:09:15,353 --> 00:09:20,975
+Then she built a fashion empire from a Kmart rack, worth hundreds of millions.
+
+84
+00:09:20,975 --> 00:09:26,999
+At eighty, Jaclyn Smith still posts the elegance that made the seventies stand up straight.
+
+85
+00:09:32,899 --> 00:09:33,699
+Quick pause.
+
+86
+00:09:33,699 --> 00:09:35,699
+That's seventeen faces so far.
+
+87
+00:09:35,699 --> 00:09:37,699
+How many did you remember?
+
+88
+00:09:37,699 --> 00:09:44,099
+Drop your number in the comments — then stay right there, because the voices are next.
+
+89
+00:09:44,099 --> 00:09:45,699
+Act Three begins now.
+
+90
+00:09:51,099 --> 00:09:54,882
+Act Three: The Soundtrack of Our Lives.
+
+91
+00:09:54,882 --> 00:10:02,988
+Before playlists, there were radios — and these are the voices that lived inside them.
+
+92
+00:10:02,988 --> 00:10:06,230
+Every one of them still breathing.
+
+93
+00:10:09,630 --> 00:10:15,586
+One beat-up guitar named Trigger, one bandana, a voice like a Texas gravel road.
+
+94
+00:10:15,586 --> 00:10:23,244
+Nashville shut him out, so he invented outlaw country — then built Farm Aid into a forty-year promise.
+
+95
+00:10:23,244 --> 00:10:26,222
+At ninety-three, Willie Nelson is still recording.
+
+96
+00:10:26,222 --> 00:10:28,349
+The road goes on forever.
+
+97
+00:10:28,349 --> 00:10:29,625
+So does he.
+
+98
+00:10:33,625 --> 00:10:39,357
+Chances are — two syllables, and forty years of school dances come flooding back.
+
+99
+00:10:39,357 --> 00:10:45,498
+In 2025, after nearly seventy years on the road, Johnny Mathis said goodbye to touring.
+
+100
+00:10:45,498 --> 00:10:47,545
+This month he turns ninety-one.
+
+101
+00:10:47,545 --> 00:10:50,411
+The voice stepped back; the man didn't.
+
+102
+00:10:50,411 --> 00:10:52,458
+Chances are, he's still humming.
+
+103
+00:10:56,458 --> 00:11:03,058
+The hips, the sweat, It's Not Unusual — and a rain of lingerie over Las Vegas.
+
+104
+00:11:03,058 --> 00:11:07,596
+The sex symbol outlived the seventies by simply being a singer.
+
+105
+00:11:07,596 --> 00:11:16,259
+At eighty-six, Sir Tom Jones still tours, still coaches on The Voice, and still dares you to sit down during Delilah.
+
+106
+00:11:20,259 --> 00:11:26,674
+That falsetto — Sherry, Big Girls Don't Cry, Can't Take My Eyes Off You.
+
+107
+00:11:26,674 --> 00:11:31,256
+Jersey street kids who outsold the British Invasion at home.
+
+108
+00:11:31,256 --> 00:11:36,297
+At eighty-nine, Frankie Valli became a father again — to twins.
+
+109
+00:11:36,297 --> 00:11:39,046
+Now ninety-two, he is still onstage.
+
+110
+00:11:39,046 --> 00:11:40,879
+Oh, what a night.
+
+111
+00:11:40,879 --> 00:11:42,712
+He keeps having them.
+
+112
+00:11:46,712 --> 00:11:53,220
+Four notes of Walk On By, and Burt Bacharach's whole songbook walks through the door.
+
+113
+00:11:53,220 --> 00:11:58,426
+In her eighties she became the warmest, funniest woman on social media.
+
+114
+00:11:58,426 --> 00:12:04,500
+Dionne Warwick is eighty-five — still touring, still reading your comments, still that voice.
+
+115
+00:12:08,500 --> 00:12:15,886
+Sweet Caroline — three chords, one ba-ba-ba, and every stadium on Earth becomes a choir.
+
+116
+00:12:15,886 --> 00:12:19,332
+Parkinson's ended the touring, never the songs.
+
+117
+00:12:19,332 --> 00:12:27,703
+Broadway built A Beautiful Noise around him, and on opening night he stood up and sang along.
+
+118
+00:12:27,703 --> 00:12:30,657
+At eighty-five, the melody never shakes.
+
+119
+00:12:34,657 --> 00:12:42,373
+At sixteen he wrote Diana, and it sold nine million copies before he could legally drive.
+
+120
+00:12:42,373 --> 00:12:49,124
+Then came My Way for Sinatra, the Tonight Show theme, hits for Michael Jackson.
+
+121
+00:12:49,124 --> 00:12:56,358
+At eighty-five, Paul Anka still plays Las Vegas — the last of the great songmen.
+
+122
+00:13:00,358 --> 00:13:00,835
+GOLD-finger.
+
+123
+00:13:00,835 --> 00:13:07,507
+One word — held, belted, immortal — and James Bond found his golden voice.
+
+124
+00:13:07,507 --> 00:13:16,563
+Goldfinger, Diamonds Are Forever, Moonraker: three themes across three decades, and no other singer has ever carried even two.
+
+125
+00:13:16,563 --> 00:13:18,946
+Dame Shirley Bassey is eighty-nine.
+
+126
+00:13:18,946 --> 00:13:20,852
+The diamonds are forever.
+
+127
+00:13:20,852 --> 00:13:22,282
+So is she.
+
+128
+00:13:26,282 --> 00:13:32,114
+That warm brass fanfare — the Tijuana Brass outselling the Beatles in 1966.
+
+129
+00:13:32,114 --> 00:13:43,777
+The label he built became home to the Carpenters and the Police — and then he gave his fortune away, to teach the next generation music.
+
+130
+00:13:43,777 --> 00:13:47,815
+At ninety-one, Herb Alpert still paints, sculpts and records.
+
+131
+00:13:47,815 --> 00:13:49,609
+Rise never really ends.
+
+132
+00:13:53,609 --> 00:14:00,432
+Go-go boots on a candy-colored soundstage — the sassiest warning shot of 1966.
+
+133
+00:14:00,432 --> 00:14:10,929
+A year later she recorded Somethin' Stupid with her father, still the only father-daughter duet ever to reach number one.
+
+134
+00:14:10,929 --> 00:14:16,177
+Nancy Sinatra is eighty-six — still walking it her way.
+
+135
+00:14:22,077 --> 00:14:24,524
+That's twenty-seven, and you're doing great.
+
+136
+00:14:24,524 --> 00:14:29,419
+If you've recognized every single one, type STILL SHARP in the comments.
+
+137
+00:14:29,419 --> 00:14:35,130
+One act left — and it belongs to the biggest names in the business.
+
+138
+00:14:40,530 --> 00:14:43,453
+Act Four: Still Turning Heads.
+
+139
+00:14:43,453 --> 00:14:45,207
+Some stars faded.
+
+140
+00:14:45,207 --> 00:14:46,376
+These didn't.
+
+141
+00:14:46,376 --> 00:14:51,637
+Eight living proofs that the seventies never really ended.
+
+142
+00:14:55,037 --> 00:14:56,006
+Here's Johnny!
+
+143
+00:14:56,006 --> 00:15:02,306
+— an axe through a door, and the most famous grin in movies.
+
+144
+00:15:02,306 --> 00:15:09,574
+Three Oscars, twelve nominations — then, around 2010, the greatest recluse in Hollywood simply stopped.
+
+145
+00:15:09,574 --> 00:15:11,028
+No farewell tour.
+
+146
+00:15:11,028 --> 00:15:11,997
+No explanation.
+
+147
+00:15:11,997 --> 00:15:19,266
+At eighty-nine, Jack Nicholson surfaces at Lakers games — gray beard, sunglasses, that same grin.
+
+148
+00:15:23,266 --> 00:15:30,885
+A smuggler's smirk in a cantina — Han Solo was never the hero; he was something better: a survivor.
+
+149
+00:15:30,885 --> 00:15:36,500
+A carpenter turned superstar, a legend who walked away from two real plane crashes.
+
+150
+00:15:36,500 --> 00:15:40,911
+At eighty-four, Harrison Ford is still first on the call sheet.
+
+151
+00:15:40,911 --> 00:15:42,114
+The fedora fits.
+
+152
+00:15:42,114 --> 00:15:43,317
+It always will.
+
+153
+00:15:47,317 --> 00:15:51,345
+Half of Sonny and Cher, in bell-bottoms and deadpan.
+
+154
+00:15:51,345 --> 00:16:00,295
+Then the reinventions: an Oscar for Moonstruck, the Believe vocal that rewired pop, a farewell tour now twenty years long.
+
+155
+00:16:00,295 --> 00:16:07,903
+Cher turned eighty this May — the only artist with a number-one single in seven consecutive decades.
+
+156
+00:16:07,903 --> 00:16:09,246
+Goddesses don't retire.
+
+157
+00:16:13,246 --> 00:16:19,776
+That giggle on Laugh-In — the dumb blonde who was always the smartest person in the room.
+
+158
+00:16:19,776 --> 00:16:27,457
+An Oscar at twenty-four, thirty years of pure star power, and forty years with Kurt Russell without a single wedding.
+
+159
+00:16:27,457 --> 00:16:33,987
+At eighty, Goldie Hawn laughs exactly like 1968 — and refuses, on principle, to act her age.
+
+160
+00:16:37,987 --> 00:16:45,235
+The Divine Miss M — bathhouse sass, Wind Beneath My Wings, every tear-jerker your mother played twice.
+
+161
+00:16:45,235 --> 00:16:51,629
+Then she took stardom to the streets, replanting New York's community gardens block by block.
+
+162
+00:16:51,629 --> 00:16:55,893
+At eighty, Bette Midler still sings like a weather system.
+
+163
+00:16:55,893 --> 00:16:57,172
+Some stars twinkle.
+
+164
+00:16:57,172 --> 00:16:58,877
+The Divine One illuminates.
+
+165
+00:17:02,877 --> 00:17:08,689
+Ernestine, the telephone operator — one ringy-dingy — the funniest switchboard in America.
+
+166
+00:17:08,689 --> 00:17:14,500
+Nine to Five, then Grace and Frankie made her a legend twice over.
+
+167
+00:17:14,500 --> 00:17:21,206
+At eighty-seven, Lily Tomlin still tours new material with her wife and partner Jane Wagner.
+
+168
+00:17:21,206 --> 00:17:24,335
+She sounds like she's just getting started.
+
+169
+00:17:28,335 --> 00:17:30,925
+Say hello to my little friend.
+
+170
+00:17:30,925 --> 00:17:35,242
+You heard it in his voice before the sentence ended.
+
+171
+00:17:35,242 --> 00:17:39,991
+The Godfather, Scarface, an Oscar finally with Scent of a Woman.
+
+172
+00:17:39,991 --> 00:17:47,330
+At eighty-six, Al Pacino is a father again — his youngest son born when he was eighty-three.
+
+173
+00:17:47,330 --> 00:17:49,920
+Michael Corleone left the family business.
+
+174
+00:17:49,920 --> 00:17:51,647
+Al never wanted out.
+
+175
+00:17:55,647 --> 00:18:01,029
+Sophie's Choice — one scene, and cinema redefined what acting could cost.
+
+176
+00:18:01,029 --> 00:18:09,103
+A record twenty-one nominations, three Oscars — from Miranda Priestly's withering stare to Only Murders in the Building.
+
+177
+00:18:09,103 --> 00:18:14,934
+At seventy-seven, Meryl Streep stole a comedy after conquering five decades of drama.
+
+178
+00:18:14,934 --> 00:18:16,728
+The category is acting.
+
+179
+00:18:16,728 --> 00:18:18,522
+It was always Meryl.
+
+180
+00:18:20,922 --> 00:18:22,154
+And that's thirty-five.
+
+181
+00:18:22,154 --> 00:18:24,209
+Thirty-five faces time didn't erase.
+
+182
+00:18:24,209 --> 00:18:33,657
+Before we go — this past year, Golden Hour said goodbye to Dolly Parton, Robert Duvall, Sam Neill, Chuck Norris and Tim Curry.
+
+183
+00:18:33,657 --> 00:18:36,122
+The screen gets quieter every year.
+
+184
+00:18:36,122 --> 00:18:41,874
+But tonight proved something too: thirty-five legends, still here, still shining at golden hour.
+
+185
+00:18:41,874 --> 00:18:44,749
+So — how many did you remember?
+
+186
+00:18:44,749 --> 00:18:53,376
+Leave your number in the comments, and subscribe, because part two is already loading: the dames and knights across the pond.
+
+187
+00:18:53,376 --> 00:18:55,430
+Golden hour never really ends.
+
+188
+00:18:55,430 --> 00:18:58,717
+It just waits for us to look up.
 

@@ -1,89 +1,497 @@
 {
-  "total": 312.76,
-  "segments": [
-    {
-      "id": "cold_open",
-      "kind": "speech",
-      "start": 0.0,
-      "dur": 37.24,
-      "path": "/home/user/hollywood-video-agent/echoes_plus_ep01/assets/audio/cold_open.mp3"
-    },
-    {
-      "id": "card_act1",
-      "kind": "card",
-      "start": 37.24,
-      "dur": 3.0,
-      "path": null
-    },
-    {
-      "id": "act1_intro",
-      "kind": "speech",
-      "start": 40.24,
-      "dur": 15.84,
-      "path": "/home/user/hollywood-video-agent/echoes_plus_ep01/assets/audio/act1_intro.mp3"
-    },
-    {
-      "id": "star_01",
-      "kind": "star",
-      "start": 56.08,
-      "dur": 29.68,
-      "path": "/home/user/hollywood-video-agent/echoes_plus_ep01/assets/audio/star_01.mp3"
-    },
-    {
-      "id": "star_02",
-      "kind": "star",
-      "start": 85.76,
-      "dur": 27.64,
-      "path": "/home/user/hollywood-video-agent/echoes_plus_ep01/assets/audio/star_02.mp3"
-    },
-    {
-      "id": "star_03",
-      "kind": "star",
-      "start": 113.4,
-      "dur": 33.44,
-      "path": "/home/user/hollywood-video-agent/echoes_plus_ep01/assets/audio/star_03.mp3"
-    },
-    {
-      "id": "star_04",
-      "kind": "star",
-      "start": 146.84,
-      "dur": 31.44,
-      "path": "/home/user/hollywood-video-agent/echoes_plus_ep01/assets/audio/star_04.mp3"
-    },
-    {
-      "id": "star_05",
-      "kind": "star",
-      "start": 178.28,
-      "dur": 32.52,
-      "path": "/home/user/hollywood-video-agent/echoes_plus_ep01/assets/audio/star_05.mp3"
-    },
-    {
-      "id": "star_06",
-      "kind": "star",
-      "start": 210.8,
-      "dur": 29.88,
-      "path": "/home/user/hollywood-video-agent/echoes_plus_ep01/assets/audio/star_06.mp3"
-    },
-    {
-      "id": "star_07",
-      "kind": "star",
-      "start": 240.68,
-      "dur": 33.44,
-      "path": "/home/user/hollywood-video-agent/echoes_plus_ep01/assets/audio/star_07.mp3"
-    },
-    {
-      "id": "star_08",
-      "kind": "star",
-      "start": 274.12,
-      "dur": 30.64,
-      "path": "/home/user/hollywood-video-agent/echoes_plus_ep01/assets/audio/star_08.mp3"
-    },
-    {
-      "id": "end",
-      "kind": "end",
-      "start": 304.76,
-      "dur": 8.0,
-      "path": null
-    }
-  ]
+ "total": 1148.52,
+ "counter_total": 35,
+ "segments": [
+  {
+   "id": "cold_open",
+   "kind": "intro",
+   "start": 0.0,
+   "speech_start": 0.4,
+   "speech_end": 39.24,
+   "dur": 40.04
+  },
+  {
+   "id": "card_act1",
+   "kind": "card",
+   "start": 40.04,
+   "speech_start": null,
+   "speech_end": null,
+   "dur": 3.5
+  },
+  {
+   "id": "act1_intro",
+   "kind": "intro",
+   "start": 43.54,
+   "speech_start": 43.94,
+   "speech_end": 59.18,
+   "dur": 16.44
+  },
+  {
+   "id": "star_01",
+   "kind": "star",
+   "start": 59.98,
+   "speech_start": 62.58,
+   "speech_end": 91.06,
+   "dur": 32.48,
+   "no": 1,
+   "wipe0": 1.5,
+   "wipe1": 2.35
+  },
+  {
+   "id": "star_02",
+   "kind": "star",
+   "start": 92.46,
+   "speech_start": 95.06,
+   "speech_end": 121.5,
+   "dur": 30.44,
+   "no": 2,
+   "wipe0": 1.5,
+   "wipe1": 2.35
+  },
+  {
+   "id": "star_03",
+   "kind": "star",
+   "start": 122.9,
+   "speech_start": 125.5,
+   "speech_end": 157.74,
+   "dur": 36.24,
+   "no": 3,
+   "wipe0": 1.5,
+   "wipe1": 2.35
+  },
+  {
+   "id": "star_04",
+   "kind": "star",
+   "start": 159.14,
+   "speech_start": 161.74,
+   "speech_end": 191.98,
+   "dur": 34.24,
+   "no": 4,
+   "wipe0": 1.5,
+   "wipe1": 2.35
+  },
+  {
+   "id": "star_05",
+   "kind": "star",
+   "start": 193.38,
+   "speech_start": 195.98,
+   "speech_end": 227.3,
+   "dur": 35.32,
+   "no": 5,
+   "wipe0": 1.5,
+   "wipe1": 2.35
+  },
+  {
+   "id": "star_06",
+   "kind": "star",
+   "start": 228.7,
+   "speech_start": 231.3,
+   "speech_end": 259.98,
+   "dur": 32.68,
+   "no": 6,
+   "wipe0": 1.5,
+   "wipe1": 2.35
+  },
+  {
+   "id": "star_07",
+   "kind": "star",
+   "start": 261.38,
+   "speech_start": 263.98,
+   "speech_end": 296.22,
+   "dur": 36.24,
+   "no": 7,
+   "wipe0": 1.5,
+   "wipe1": 2.35
+  },
+  {
+   "id": "star_08",
+   "kind": "star",
+   "start": 297.62,
+   "speech_start": 300.22,
+   "speech_end": 329.66,
+   "dur": 33.44,
+   "no": 8,
+   "wipe0": 1.5,
+   "wipe1": 2.35
+  },
+  {
+   "id": "card_act2",
+   "kind": "card",
+   "start": 331.06,
+   "speech_start": null,
+   "speech_end": null,
+   "dur": 3.5
+  },
+  {
+   "id": "act2_intro",
+   "kind": "intro",
+   "start": 334.56,
+   "speech_start": 334.96,
+   "speech_end": 349.484,
+   "dur": 15.724
+  },
+  {
+   "id": "star_09",
+   "kind": "star",
+   "start": 350.284,
+   "speech_start": 352.884,
+   "speech_end": 379.898,
+   "dur": 31.014,
+   "no": 9,
+   "wipe0": 1.5,
+   "wipe1": 2.35
+  },
+  {
+   "id": "star_10",
+   "kind": "star",
+   "start": 381.298,
+   "speech_start": 383.898,
+   "speech_end": 406.12,
+   "dur": 26.221,
+   "no": 10,
+   "wipe0": 1.5,
+   "wipe1": 2.35
+  },
+  {
+   "id": "star_11",
+   "kind": "star",
+   "start": 407.519,
+   "speech_start": 410.119,
+   "speech_end": 430.577,
+   "dur": 24.458,
+   "no": 11,
+   "wipe0": 1.5,
+   "wipe1": 2.35
+  },
+  {
+   "id": "star_12",
+   "kind": "star",
+   "start": 431.977,
+   "speech_start": 434.577,
+   "speech_end": 454.009,
+   "dur": 23.432,
+   "no": 12,
+   "wipe0": 1.5,
+   "wipe1": 2.35
+  },
+  {
+   "id": "star_13",
+   "kind": "star",
+   "start": 455.409,
+   "speech_start": 458.009,
+   "speech_end": 475.992,
+   "dur": 21.983,
+   "no": 13,
+   "wipe0": 1.5,
+   "wipe1": 2.35
+  },
+  {
+   "id": "star_14",
+   "kind": "star",
+   "start": 477.392,
+   "speech_start": 479.992,
+   "speech_end": 497.199,
+   "dur": 21.207,
+   "no": 14,
+   "wipe0": 1.5,
+   "wipe1": 2.35
+  },
+  {
+   "id": "star_15",
+   "kind": "star",
+   "start": 498.599,
+   "speech_start": 501.199,
+   "speech_end": 520.344,
+   "dur": 23.145,
+   "no": 15,
+   "wipe0": 1.5,
+   "wipe1": 2.35
+  },
+  {
+   "id": "star_16",
+   "kind": "star",
+   "start": 521.744,
+   "speech_start": 524.344,
+   "speech_end": 544.526,
+   "dur": 24.182,
+   "no": 16,
+   "wipe0": 1.5,
+   "wipe1": 2.35
+  },
+  {
+   "id": "star_17",
+   "kind": "star",
+   "start": 545.926,
+   "speech_start": 548.526,
+   "speech_end": 566.999,
+   "dur": 22.473,
+   "no": 17,
+   "wipe0": 1.5,
+   "wipe1": 2.35
+  },
+  {
+   "id": "card_act3",
+   "kind": "card",
+   "start": 568.399,
+   "speech_start": null,
+   "speech_end": null,
+   "dur": 3.5
+  },
+  {
+   "id": "break_1",
+   "kind": "break",
+   "start": 571.899,
+   "speech_start": 572.899,
+   "speech_end": 585.699,
+   "dur": 18.8,
+   "no": 0
+  },
+  {
+   "id": "act3_intro",
+   "kind": "intro",
+   "start": 590.699,
+   "speech_start": 591.099,
+   "speech_end": 606.23,
+   "dur": 16.331
+  },
+  {
+   "id": "star_18",
+   "kind": "star",
+   "start": 607.03,
+   "speech_start": 609.63,
+   "speech_end": 629.625,
+   "dur": 23.995,
+   "no": 18,
+   "wipe0": 1.5,
+   "wipe1": 2.35
+  },
+  {
+   "id": "star_19",
+   "kind": "star",
+   "start": 631.025,
+   "speech_start": 633.625,
+   "speech_end": 652.458,
+   "dur": 22.833,
+   "no": 19,
+   "wipe0": 1.5,
+   "wipe1": 2.35
+  },
+  {
+   "id": "star_20",
+   "kind": "star",
+   "start": 653.858,
+   "speech_start": 656.458,
+   "speech_end": 676.259,
+   "dur": 23.801,
+   "no": 20,
+   "wipe0": 1.5,
+   "wipe1": 2.35
+  },
+  {
+   "id": "star_21",
+   "kind": "star",
+   "start": 677.659,
+   "speech_start": 680.259,
+   "speech_end": 702.712,
+   "dur": 26.453,
+   "no": 21,
+   "wipe0": 1.5,
+   "wipe1": 2.35
+  },
+  {
+   "id": "star_22",
+   "kind": "star",
+   "start": 704.112,
+   "speech_start": 706.712,
+   "speech_end": 724.5,
+   "dur": 21.788,
+   "no": 22,
+   "wipe0": 1.5,
+   "wipe1": 2.35
+  },
+  {
+   "id": "star_23",
+   "kind": "star",
+   "start": 725.9,
+   "speech_start": 728.5,
+   "speech_end": 750.657,
+   "dur": 26.157,
+   "no": 23,
+   "wipe0": 1.5,
+   "wipe1": 2.35
+  },
+  {
+   "id": "star_24",
+   "kind": "star",
+   "start": 752.057,
+   "speech_start": 754.657,
+   "speech_end": 776.358,
+   "dur": 25.701,
+   "no": 24,
+   "wipe0": 1.5,
+   "wipe1": 2.35
+  },
+  {
+   "id": "star_25",
+   "kind": "star",
+   "start": 777.758,
+   "speech_start": 780.358,
+   "speech_end": 802.282,
+   "dur": 25.924,
+   "no": 25,
+   "wipe0": 1.5,
+   "wipe1": 2.35
+  },
+  {
+   "id": "star_26",
+   "kind": "star",
+   "start": 803.682,
+   "speech_start": 806.282,
+   "speech_end": 829.609,
+   "dur": 27.327,
+   "no": 26,
+   "wipe0": 1.5,
+   "wipe1": 2.35
+  },
+  {
+   "id": "star_27",
+   "kind": "star",
+   "start": 831.009,
+   "speech_start": 833.609,
+   "speech_end": 856.177,
+   "dur": 26.568,
+   "no": 27,
+   "wipe0": 1.5,
+   "wipe1": 2.35
+  },
+  {
+   "id": "card_act4",
+   "kind": "card",
+   "start": 857.577,
+   "speech_start": null,
+   "speech_end": null,
+   "dur": 3.5
+  },
+  {
+   "id": "break_2",
+   "kind": "break",
+   "start": 861.077,
+   "speech_start": 862.077,
+   "speech_end": 875.13,
+   "dur": 19.053,
+   "no": 0
+  },
+  {
+   "id": "act4_intro",
+   "kind": "intro",
+   "start": 880.13,
+   "speech_start": 880.53,
+   "speech_end": 891.637,
+   "dur": 12.307
+  },
+  {
+   "id": "star_28",
+   "kind": "star",
+   "start": 892.437,
+   "speech_start": 895.037,
+   "speech_end": 919.266,
+   "dur": 28.229,
+   "no": 28,
+   "wipe0": 1.5,
+   "wipe1": 2.35
+  },
+  {
+   "id": "star_29",
+   "kind": "star",
+   "start": 920.666,
+   "speech_start": 923.266,
+   "speech_end": 943.317,
+   "dur": 24.051,
+   "no": 29,
+   "wipe0": 1.5,
+   "wipe1": 2.35
+  },
+  {
+   "id": "star_30",
+   "kind": "star",
+   "start": 944.717,
+   "speech_start": 947.317,
+   "speech_end": 969.246,
+   "dur": 25.929,
+   "no": 30,
+   "wipe0": 1.5,
+   "wipe1": 2.35
+  },
+  {
+   "id": "star_31",
+   "kind": "star",
+   "start": 970.646,
+   "speech_start": 973.246,
+   "speech_end": 993.987,
+   "dur": 24.741,
+   "no": 31,
+   "wipe0": 1.5,
+   "wipe1": 2.35
+  },
+  {
+   "id": "star_32",
+   "kind": "star",
+   "start": 995.387,
+   "speech_start": 997.987,
+   "speech_end": 1018.877,
+   "dur": 24.89,
+   "no": 32,
+   "wipe0": 1.5,
+   "wipe1": 2.35
+  },
+  {
+   "id": "star_33",
+   "kind": "star",
+   "start": 1020.277,
+   "speech_start": 1022.877,
+   "speech_end": 1044.335,
+   "dur": 25.458,
+   "no": 33,
+   "wipe0": 1.5,
+   "wipe1": 2.35
+  },
+  {
+   "id": "star_34",
+   "kind": "star",
+   "start": 1045.735,
+   "speech_start": 1048.335,
+   "speech_end": 1071.647,
+   "dur": 27.312,
+   "no": 34,
+   "wipe0": 1.5,
+   "wipe1": 2.35
+  },
+  {
+   "id": "star_35",
+   "kind": "star",
+   "start": 1073.047,
+   "speech_start": 1075.647,
+   "speech_end": 1098.522,
+   "dur": 26.875,
+   "no": 35,
+   "wipe0": 1.5,
+   "wipe1": 2.35
+  },
+  {
+   "id": "outro",
+   "kind": "outro",
+   "start": 1099.922,
+   "speech_start": 1100.922,
+   "speech_end": 1138.717,
+   "dur": 39.595
+  },
+  {
+   "id": "end",
+   "kind": "end",
+   "start": 1139.517,
+   "speech_start": null,
+   "speech_end": null,
+   "dur": 9.0
+  }
+ ]
 }
